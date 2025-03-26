@@ -109,6 +109,7 @@ Average pricing for interior, exterior, and full-service detailing for small, me
 ### Equipment and Supplies
 
 #### Cleaning & Washing
+
 | Item                    | Price   | Amazon Link                                          |
 |-------------------------|---------|------------------------------------------------------|
 | pH-balanced Car Shampoo | $51.49  | [Adam’s Mega Foam Car Soap](https://www.amazon.com/Adams-Mega-Foam-Shampoo-Gallon/dp/B07SS4N27V/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY) 
@@ -122,6 +123,7 @@ Total = **$284.88**
 <br>
 
 #### Paint Decontamination & Protection
+
 | Item                    | Price   | Amazon Link                                          |
 |-------------------------|---------|------------------------------------------------------|
 | Clay Bars               | $26.99  | [Adam's Polishes Fine Grade Clay Bar](https://www.amazon.com/Adams-Ultra-Detail-Spray-Combo/dp/B07KJMBZ1N/ref=sxin_17_pa_sp_search_thematic_sspa?cv_ct_cx=clay%2Bbars%2Bauto%2Bdetailing&s=automotive&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM)
@@ -137,6 +139,7 @@ Total = **$395.64**
 <br>
 
 #### Interior Cleaning & Protection
+
 | Item                        | Price   | Amazon Link                                                   |
 |-----------------------------|---------|---------------------------------------------------------------|
 | Interior Cleaner            | $40.49  | [Adam's Interior Detailer](https://www.amazon.com/Adams-Microban-Interior-Detailer-2-Pack/dp/B00YPQYMFY/ref=sr_1_3_sspa?s=automotive&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
@@ -152,6 +155,7 @@ Total = **$401.69**
 <br>
 
 #### Wheels & Tires
+
 | Item                 | Price   | Amazon Link                                          |
 |----------------------|---------|------------------------------------------------------|
 | Wheel Cleaner        | $29.99  | [Adam's Polishes Wheel & Tire Cleaner](https://www.amazon.com/Adams-Polishes-Professional-Cleaning-Detailing/dp/B07X7H2N48/ref=sr_1_2_sspa?sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
@@ -164,6 +168,7 @@ Total = **$141.91**
 <br>
 
 #### Misc
+
 | Item           | Price | Amazon Link                                                                |
 |----------------|-------|----------------------------------------------------------------------------|
 | Business Cards | $6.99 | [Custom Business Cards Personalized Business Cards for Small Business](https://www.amazon.com/Custom-Business-Personalized-300gsm-Printed/dp/B09STHV3YD/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
