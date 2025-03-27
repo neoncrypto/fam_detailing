@@ -7,7 +7,7 @@
 
 
 <!---------------------------| SUMMARY |--------------------------->
-## 1. Summary
+## ⓘ 1. Summary
 
 Premium mobile car detailing services servicing a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients' homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally, offering pickup and drop-off services for added convenience is under consideration. A family-oriented approach, involving Dad, Daughter and/or Son occasionally, will add a personal touch that may appeal to customers.
 
@@ -18,17 +18,17 @@ Premium mobile car detailing services servicing a diverse clientele, with emphas
 
 
 <!---------------------------| ANALYSIS |--------------------------->
-## 2. Market Analysis
+## 🧐📈 2. Market Analysis
 
 <br>
 
-### Target Market
+### 🎯 Target Market
 
 Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a reputation, with the long-term goal of exclusively serving high-end vehicle owners as the business grows.
 
 <br>
 
-### Average Pricing
+### 💲 Average Pricing
 
 Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
 
@@ -87,9 +87,9 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 
 <!---------------------------| PROPOSED BUSINESS STRUCTURE |--------------------------->
-## 3. Proposed Business Structure
+## 💼 3. Proposed Business Structure
 
-<br>
+The business LLC and related accounts can be kept in the investor's name with the manager having no access or can be worked out before launching. The following structure leaves the investor doing very minimal work and having control over the company while the manager does a majority of the work and no legal control of the business.
 
 <img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:100%;max-width:600px;">
 
@@ -100,25 +100,26 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 <br>
 
 <!---------------------------| SERVICES & PRICING |--------------------------->
-### Services & Pricing
+### 👨‍🔧🏷️ Services & Pricing
 
 Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
 
 <img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" style="width:100%;max-width:600px;">
 
-| Services            | Pricing (Car, SUV, Truck) | Included Services                                                         |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Full                | $250, $300, $350          | Interior & Exterior Services combined. 
-| Interior            | $150, $200, $250          | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
-| Exterior            | $150, $200, $250          | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax. 
-| Ceramic Coating     | $500, $600, $700          | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
-| Pickup/Drop-off     | $TBD                      | Pickup car at clients home and return after service.
+| Services            | Car  | SUV | Truck | Included Services                                                         |
+|---------------------|------|-----|-------|---------------------------------------------------------------------------|
+| Full                | $250 | $300 | $350 | Interior & Exterior Services combined. 
+| Interior            | $150 | $200 | $250 | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
+| Exterior            | $150 | $200 | $250 | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax. 
+| Ceramic Coating     | $500 | $600 | $700 | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
+| Pickup/Drop-off     | $TBD | $TBD | $TBD | Pickup car at clients home and return after service. (TODO: research liability information.)
 
 <br>
 
-### Profit Sharing
+<!---------------------------| PROFIT SHARING |--------------------------->
+### 💰 Profit Sharing
 
-Proposed sharing of the profits. Recommended to distribute the profits evenly regardless of age or investment required.
+Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone is equal! ✊ 
 
 
 <img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:100%;max-width:600px;">
@@ -131,13 +132,13 @@ Proposed sharing of the profits. Recommended to distribute the profits evenly re
 
 
 <!---------------------------| STARTUP COSTS |--------------------------->
-## 4. Startup Costs
+## 💲 4. Startup Costs
 
 <br>
 
-### Equipment and Supplies
+### 📦🧼🪣 Equipment and Supplies
 
-Initial stock can be minimized to reduce startup costs. Items marked with `*` are the recommended minimum supplies to have on hand initially and most of them come in smaller sizes with lower costs.
+Items marked with `*` are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs.
 
 <br>
 
@@ -217,7 +218,7 @@ Total / Minimum = **$6.99** / **$6.99**
 <br>
 
 
-### Insurance and Legal Fees
+### 👨🏻‍⚖️ Insurance and Legal Fees
 
 Fees for liability insurance and other legal related fees will be added here once they become known.
 
@@ -226,7 +227,13 @@ Total / Minimum = **$0.00** / **$0.00**
 <br>
 
 
-Grand Total / Minimum = **$1,257.20** / **$768.87**
+### 🧮 Grand Total / Minimum
+
+Grand total: **$1,257.20**
+
+Minimum Needed: **$768.87***
+
+\*could be reduced further if necessary to get our feet on the ground.
 
 ---
 
@@ -236,12 +243,12 @@ Grand Total / Minimum = **$1,257.20** / **$768.87**
 
 
 <!---------------------------| MARKETING PLAN |--------------------------->
-## 5. Marketing Plan
+## 🚀 5. Marketing Plan
 
-- **Online Presence:** Create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
-- **Local Advertising:** Distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
-- **Partnerships:** Collaborate with local businesses, such as auto repair shops and dealerships, to refer clients.
-- **Promotions:** Offer introductory discounts, referral incentives, and package deals to attract and retain customers.
+- **Online Presence:** Manager will create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
+- **Local Advertising:** Manager will distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
+- **Partnerships:** Manager will collaborate with local businesses, such as auto repair shops and dealerships, to refer clients.
+- **Promotions:** Sparkle Co. will offer introductory discounts, referral incentives, and package deals to attract and retain customers.
 
 ---
 
@@ -251,13 +258,15 @@ Grand Total / Minimum = **$1,257.20** / **$768.87**
 
 
 <!---------------------------| PROJECTED ROI |--------------------------->
-## 6. Projected Return On Investment
+## 💸 6. Projected Return On Investment
 
-To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need to perform approximately:
+To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need to perform approximately the following number of each service (not combined):
 
-- **3 Full Detailing services** for any vehicle type (Car, SUV, or Truck).
-- **3 to 6 Interior or Exterior Detailing services**, depending on the vehicle type.
-- **2 Ceramic Coating services** for any vehicle type.
+- **3 Full** Detailing services.
+- or **3 - 6 Interior or Exterior** Detailing services.
+- or **2 Ceramic Coating** services.
+
+
 
 <img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" style="width:100%;max-width:600px;">
 
@@ -285,7 +294,7 @@ To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need 
   - SUV: $768.87 / $600 ≈ 1.28 services
   - Truck: $768.87 / $700 ≈ 1.10 services
 
-These estimates assume that the full amount charged for each service goes towards covering the initial investment.
+Note that these estimates assume that the full amount charged for each service goes towards covering the initial investment (recommended).
 
 ---
 
@@ -294,12 +303,14 @@ These estimates assume that the full amount charged for each service goes toward
 
 
 
-<!---------------------------| LEGAL CONSIDERATIONS |--------------------------->
-## 7. Legal Considerations
+<!---------------------------| LEGAL CONSIDERATIONS & REQUIREMENTS |--------------------------->
+## ⚖️ 7. Legal Considerations & Requirements
 
-- **Business Type:** Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) and utilize a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents) for privacy.
-- **Licenses and Permits:** Obtain necessary business licenses and permits as required by NH regulations. (TBD).
-- **Insurance:** Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability) to cover potential damages or accidents during service.
+The recommended setup for maximum compliance with the law with minimum liability exposure. Some of these can be done after Sparkle Co. services some of it's first clients.
+
+- **Business Formation:** Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) and utilize a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents) for privacy.
+- **Licenses / Permits:** Obtain necessary business licenses and permits as required by NH regulations. (TBD).
+- **Liability Insurance:** Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability) to cover potential damages or accidents during service.
 - **Tax Liability:** Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN) with the IRS to ensure compliance with federal tax obligations.
 
 ---
