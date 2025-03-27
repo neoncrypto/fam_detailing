@@ -1,7 +1,8 @@
 <!-- Business Plan for Automotive Detailing -->
 # Sparkle Co. - Family Detailing
 
-![Sparkle Co.](https://i.ibb.co/0y3J3gHn/sparkle-co.png)
+<img src="https://i.ibb.co/0y3J3gHn/sparkle-co.png" alt="Profit Sharing Pie Chart" style="width:%100;max-width:600px;">
+
 
 
 
@@ -31,7 +32,7 @@ Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a
 
 Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
 
-<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" width="%100">
+<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" style="width:%100;max-width:600px;">
 
 #### Interior
 
@@ -90,7 +91,7 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 <br>
 
-<img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" width="%100">
+<img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:%100;max-width:600px;">
 
 - **Investor:** Holds business and accounts under self. Transfers ownership of business to oldest child once the child comes to age.
 - **Manager:** Launches, manages and performs all labor for business. Sales, customer service, training, marketing, labor, etc.
@@ -103,7 +104,7 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
 
-<img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" width="%100">
+<img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" style="width:%100;max-width:600px;">
 
 | Services            | Pricing (Car, SUV, Truck) | Included Services                                                         |
 |---------------------|---------------------------|---------------------------------------------------------------------------|
@@ -119,7 +120,8 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 
 Proposed sharing of the profits. Recommended to distribute the profits evenly regardless of age or investment required.
 
-<img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" width="%100">
+
+<img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:%100;max-width:600px;">
 
 ---
 
@@ -257,7 +259,7 @@ To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need 
 - **3 to 6 Interior or Exterior Detailing services**, depending on the vehicle type.
 - **2 Ceramic Coating services** for any vehicle type.
 
-<img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" width="%100">
+<img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" style="width:%100;max-width:600px;">
 
 **Full Detailing:**
 
