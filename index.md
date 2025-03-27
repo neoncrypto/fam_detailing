@@ -1,15 +1,21 @@
 <!-- Business Plan for Automotive Detailing -->
-# Sparkle Co. - Family Detailing
+# ✨Sparkle Co. - Family Detailing
+
+<br>
 
 <img src="https://i.ibb.co/0y3J3gHn/sparkle-co.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
+
+---
+
+<br>
 
 
 
 
 <!---------------------------| SUMMARY |--------------------------->
-## ⓘ 1. Summary
+## ⓘ1. Summary
 
-Premium mobile car detailing services servicing a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients' homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally, offering pickup and drop-off services for added convenience is under consideration. A family-oriented approach, involving Dad, Daughter and/or Son occasionally, will add a personal touch that may appeal to customers.
+Example Automotive Detailing Business Outline for company offering Premium mobile car detailing services to a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally under consideration is offering pickup and drop-off services for added convenience. A family-oriented them adds a personal touch that may appeal to customers.
 
 ---
 
@@ -18,17 +24,17 @@ Premium mobile car detailing services servicing a diverse clientele, with emphas
 
 
 <!---------------------------| ANALYSIS |--------------------------->
-## 🧐📈 2. Market Analysis
+## 🧐📈2. Market Analysis
 
 <br>
 
-### 🎯 Target Market
+### 🎯Target Market
 
 Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a reputation, with the long-term goal of exclusively serving high-end vehicle owners as the business grows.
 
 <br>
 
-### 💲 Average Pricing
+### 💲Average Pricing
 
 Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
 
@@ -87,20 +93,20 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 
 <!---------------------------| PROPOSED BUSINESS STRUCTURE |--------------------------->
-## 💼 3. Proposed Business Structure
+## 💼3. Proposed Business Structure
 
 The business LLC and related accounts can be kept in the investor's name with the manager having no access or can be worked out before launching. The following structure leaves the investor doing very minimal work and having control over the company while the manager does a majority of the work and no legal control of the business.
 
 <img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:100%;max-width:600px;">
 
-- **Investor:** Holds business and accounts under self. Transfers ownership of business to oldest child once the child comes to age.
-- **Manager:** Launches, manages and performs all labor for business. Sales, customer service, training, marketing, labor, etc.
-- **Workers:** Learns about business, marketing, customer service, hard work and helps with labor whenever possible.
+- **Investor:** Full control of company. Transfers control to oldest child once child is of adult age (if successful).
+- **Manager:** Launches, manages and performs all labor for business including sales, customer service, training, marketing, labor, etc.
+- **Workers:** Learns business and related tasks like marketing, customer service, etc. Also performs labor when possible.
 
 <br>
 
 <!---------------------------| SERVICES & PRICING |--------------------------->
-### 👨‍🔧🏷️ Services & Pricing
+### 👨‍🔧🏷️Services & Pricing
 
 Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
 
@@ -117,9 +123,9 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 <br>
 
 <!---------------------------| PROFIT SHARING |--------------------------->
-### 💰 Profit Sharing
+### 💰Profit Sharing
 
-Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone is equal! ✊ 
+Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone equal! 🟰✊ 
 
 
 <img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:100%;max-width:600px;">
@@ -132,11 +138,11 @@ Proposed distribution of profits. Profits are evenly distributed regardless of o
 
 
 <!---------------------------| STARTUP COSTS |--------------------------->
-## 💲 4. Startup Costs
+## 💲4. Startup Costs
 
 <br>
 
-### 📦🧼🪣 Equipment and Supplies
+### 🧼🪣Equipment and Supplies
 
 Items marked with `*` are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs.
 
@@ -218,7 +224,7 @@ Total / Minimum = **$6.99** / **$6.99**
 <br>
 
 
-### 👨🏻‍⚖️ Insurance and Legal Fees
+### 👨🏻‍⚖️Insurance and Legal Fees
 
 Fees for liability insurance and other legal related fees will be added here once they become known.
 
@@ -227,7 +233,7 @@ Total / Minimum = **$0.00** / **$0.00**
 <br>
 
 
-### 🧮 Grand Total / Minimum
+### 🧮Grand Total / Minimum
 
 Grand total: **$1,257.20**
 
@@ -243,7 +249,7 @@ Minimum Needed: **$768.87***
 
 
 <!---------------------------| MARKETING PLAN |--------------------------->
-## 🚀 5. Marketing Plan
+## 🚀5. Marketing Plan
 
 - **Online Presence:** Manager will create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
 - **Local Advertising:** Manager will distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
@@ -258,7 +264,7 @@ Minimum Needed: **$768.87***
 
 
 <!---------------------------| PROJECTED ROI |--------------------------->
-## 💸 6. Projected Return On Investment
+## 💸6. Projected Return On Initial Investment
 
 To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need to perform approximately the following number of each service (not combined):
 
@@ -304,7 +310,7 @@ Note that these estimates assume that the full amount charged for each service g
 
 
 <!---------------------------| LEGAL CONSIDERATIONS & REQUIREMENTS |--------------------------->
-## ⚖️ 7. Legal Considerations & Requirements
+## ⚖️7. Legal Considerations & Requirements
 
 The recommended setup for maximum compliance with the law with minimum liability exposure. Some of these can be done after Sparkle Co. services some of it's first clients.
 
