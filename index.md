@@ -1,5 +1,5 @@
 <!-- Business Plan for Automotive Detailing -->
-# Fam Detailing
+# Sparkle Co. - Family Detailing
 
 ![Sparkle Co.](https://i.ibb.co/0y3J3gHn/sparkle-co.png)
 
@@ -29,7 +29,9 @@ Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a
 
 ### Average Pricing
 
-Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**:
+Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
+
+<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" width="%100">
 
 #### Interior
 
@@ -83,11 +85,25 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 
 
+<!---------------------------| PROPOSED BUSINESS STRUCTURE |--------------------------->
+## 3. Proposed Business Structure
 
-<!---------------------------| PROPOSED PRICING |--------------------------->
-## 3. Proposed Services & Pricing
+<br>
 
-Proposed pricing for car, SUV and truck detailing and ceramic coating services.
+<img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" width="%100">
+
+- **Investor:** Holds business and accounts under self. Transfers ownership of business to oldest child once the child comes to age.
+- **Manager:** Launches, manages and performs all labor for business. Sales, customer service, training, marketing, labor, etc.
+- **Workers:** Learns about business, marketing, customer service, hard work and helps with labor whenever possible.
+
+<br>
+
+<!---------------------------| SERVICES & PRICING |--------------------------->
+### Services & Pricing
+
+Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
+
+<img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" width="%100">
 
 | Services            | Pricing (Car, SUV, Truck) | Included Services                                                         |
 |---------------------|---------------------------|---------------------------------------------------------------------------|
@@ -95,11 +111,20 @@ Proposed pricing for car, SUV and truck detailing and ceramic coating services.
 | Interior            | $150, $200, $250          | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
 | Exterior            | $150, $200, $250          | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax. 
 | Ceramic Coating     | $500, $600, $700          | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
-| Pickup/Drop-off     | $?.??/mile                | Pickup car at clients home and return after service. 
+| Pickup/Drop-off     | $TBD                      | Pickup car at clients home and return after service.
+
+<br>
+
+### Profit Sharing
+
+Proposed sharing of the profits. Recommended to distribute the profits evenly regardless of age or investment required.
+
+<img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" width="%100">
 
 ---
 
 <br>
+
 
 
 
@@ -108,13 +133,11 @@ Proposed pricing for car, SUV and truck detailing and ceramic coating services.
 
 <br>
 
-
 ### Equipment and Supplies
 
-Initial stock can be minimized to reduce startup costs. Items marked with `*` are required initially.
+Initial stock can be minimized to reduce startup costs. Items marked with `*` are the recommended minimum supplies to have on hand initially and most of them come in smaller sizes with lower costs.
 
 <br>
-
 
 #### Cleaning & Washing
 
@@ -194,7 +217,9 @@ Total / Minimum = **$6.99** / **$6.99**
 
 ### Insurance and Legal Fees
 
-TBD
+Fees for liability insurance and other legal related fees will be added here once they become known.
+
+Total / Minimum = **$0.00** / **$0.00**
 
 <br>
 
@@ -207,8 +232,9 @@ Grand Total / Minimum = **$1,257.20** / **$768.87**
 
 
 
+
 <!---------------------------| MARKETING PLAN |--------------------------->
-## 4. Marketing Plan
+## 5. Marketing Plan
 
 - **Online Presence:** Create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
 - **Local Advertising:** Distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
@@ -221,12 +247,43 @@ Grand Total / Minimum = **$1,257.20** / **$768.87**
 
 
 
-<!---------------------------| LEGAL CONSIDERATIONS |--------------------------->
-## 5. Legal Considerations
 
-- **Business Structure:** Establish a Limited Liability Company (LLC) to protect personal assets. 
-- **Licenses and Permits:** Obtain necessary business licenses and permits as required by New Hampshire regulations. 
-- **Insurance:** Acquire liability insurance to cover potential damages or accidents during service.
+<!---------------------------| PROJECTED ROI |--------------------------->
+## 6. Projected Return On Investment
+
+To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need to perform approximately:
+
+- **3 Full Detailing services** for any vehicle type (Car, SUV, or Truck).
+- **3 to 6 Interior or Exterior Detailing services**, depending on the vehicle type.
+- **2 Ceramic Coating services** for any vehicle type.
+
+<img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" width="%100">
+
+**Full Detailing:**
+
+  - Car: $768.87 / $250 ≈ 3.08 services
+  - SUV: $768.87 / $300 ≈ 2.56 services
+  - Truck: $768.87 / $350 ≈ 2.20 services
+
+**Interior Detailing:**
+
+  - Car: $768.87 / $150 ≈ 5.13 services
+  - SUV: $768.87 / $200 ≈ 3.84 services
+  - Truck: $768.87 / $250 ≈ 3.08 services
+
+**Exterior Detailing:**
+
+  - Car: $768.87 / $150 ≈ 5.13 services
+  - SUV: $768.87 / $200 ≈ 3.84 services
+  - Truck: $768.87 / $250 ≈ 3.08 services
+
+**Ceramic Coating:**
+
+  - Car: $768.87 / $500 ≈ 1.54 services
+  - SUV: $768.87 / $600 ≈ 1.28 services
+  - Truck: $768.87 / $700 ≈ 1.10 services
+
+These estimates assume that the full amount charged for each service goes towards covering the initial investment.
 
 ---
 
@@ -234,10 +291,14 @@ Grand Total / Minimum = **$1,257.20** / **$768.87**
 
 
 
-<!---------------------------| REVENUE PROJECTIONS |--------------------------->
-## 6. Revenue Projections
 
-TBD
+<!---------------------------| LEGAL CONSIDERATIONS |--------------------------->
+## 7. Legal Considerations
+
+- **Business Type:** Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) and utilize a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents) for privacy.
+- **Licenses and Permits:** Obtain necessary business licenses and permits as required by NH regulations. (TBD).
+- **Insurance:** Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability) to cover potential damages or accidents during service.
+- **Tax Liability:** Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN) with the IRS to ensure compliance with federal tax obligations.
 
 ---
 
