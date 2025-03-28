@@ -1,45 +1,79 @@
 <!-- Business Plan for Automotive Detailing -->
-# ✨Sparkle Co. - Family Detailing
 
-<br>
+# ✨Sparkle Co. - Family Detailing✨
 
 <img src="https://i.ibb.co/0y3J3gHn/sparkle-co.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
 
----
-
-<br>
-
-
-
-
 <!---------------------------| SUMMARY |--------------------------->
-## ⓘ1. Summary
+## ⓘ Summary
 
 Example Automotive Detailing Business Outline for company offering Premium mobile car detailing services to a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally under consideration is offering pickup and drop-off services for added convenience. A family-oriented them adds a personal touch that may appeal to customers.
 
 ---
 
 <br>
+<br>
+
+
+<a id="go-top"></a>
+
+## 🗺️ Navigation
+<!-- MarkdownTOC -->
+
+- [🧐 1. Market Analysis](#1-market-analysis)
+  - [🎯 Target Market](#target-market)
+  - [💲 Average Pricing](#average-pricing)
+    - [Interior](#interior)
+    - [Exterior](#exterior)
+    - [Full](#full)
+    - [Ceramic Coating](#ceramic-coating)
+- [💼 2. Proposed Structure & Hierarchy](#2-proposed-structure-hierarchy)
+- [🏷️ 3. Proposed Services & Pricing](#3-proposed-services-pricing)
+- [💰 4. Profit Sharing](#4-profit-sharing)
+- [💲 5. Startup Costs](#5-startup-costs)
+  - [🪣 Equipment and Supplies](#equipment-and-supplies)
+    - [Cleaning & Washing](#cleaning-washing)
+    - [Paint Decontamination & Protection](#paint-decontamination-protection)
+    - [Interior Cleaning & Protection](#interior-cleaning-protection)
+    - [Wheels & Tires](#wheels-tires)
+    - [Misc](#misc)
+  - [👨🏻‍⚖️ Insurance and Legal Fees](#insurance-and-legal-fees)
+  - [🧮 Grand Total / Minimum Investment](#grand-total-minimum-investment)
+- [🚀 6. Marketing Plan](#6-marketing-plan)
+- [💸 7. Projected Return On Initial Investment](#7-projected-return-on-initial-investment)
+- [⚖️ 8. Legal Considerations & Requirements](#8-legal-considerations-requirements)
+
+<!-- /MarkdownTOC -->
+
+---
+
+<br>
+<br>
+
 
 
 
 <!---------------------------| ANALYSIS |--------------------------->
-## 🧐📈2. Market Analysis
+<a id="1-market-analysis"></a>
+## 🧐 1. Market Analysis
 
 <br>
 
-### 🎯Target Market
+<a id="target-market"></a>
+### 🎯 Target Market
 
 Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a reputation, with the long-term goal of exclusively serving high-end vehicle owners as the business grows.
 
 <br>
 
-### 💲Average Pricing
+<a id="average-pricing"></a>
+### 💲 Average Pricing
 
 Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
 
 <img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
 
+<a id="interior"></a>
 #### Interior
 
 |        | IMS  | Edward's | J & M | Avg.    |
@@ -48,6 +82,7 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 | Medium | $350 | $150     | $249  | $249.67       
 | Large  | $400 | $170     | $299  | $289.67       
 
+<a id="exterior"></a>
 #### Exterior
 
 |        | IMS  | Edward's | J & M | Avg.    |
@@ -56,6 +91,7 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 | Medium | $350 | $125     | $199 | $224.67       
 | Large  | $400 | $150     | $249 | $266.33       
 
+<a id="full"></a>
 #### Full
 
 |        | IMS  | Edward's | J & M | Avg.    |
@@ -72,6 +108,7 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 <br>
 
+<a id="ceramic-coating"></a>
 #### Ceramic Coating
 
 |         | SCC      | Limitless | Complete Clean | Avg.     |
@@ -86,27 +123,39 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 - [Limitless Detail NH](https://www.limitlessdetailnh.com/services/)
 - [Complete Clean](https://www.completeclean1.com/automotive-ceramic-coatings-in-manchester-nh#CeramicPackages/)
 
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
 ---
 
 <br>
+<br>
 
 
 
-<!---------------------------| PROPOSED BUSINESS STRUCTURE |--------------------------->
-## 💼3. Proposed Business Structure
 
-The business LLC and related accounts can be kept in the investor's name with the manager having no access or can be worked out before launching. The following structure leaves the investor doing very minimal work and having control over the company while the manager does a majority of the work and no legal control of the business.
+<!---------------------------| PROPOSED STRUCTURE & HIERARCHY |--------------------------->
+<a id="2-proposed-structure-hierarchy"></a>
+## 💼 2. Proposed Structure & Hierarchy
+
+- 👑 **Investor:** Full legal control. Almost no required time and energy investment.
+- 👨‍💼 **Manager:** No legal control. Required to launch business, perform almost all labor, sales, customer service, training, marketing, IT, etc.
+- 👷 **Helpers:** Senior Helper assumes full legal control once helper is of adult age and as long as the company is successful 🤞. Required to learn and perform business admin, marketing, customer service, finance and automotive detailing. 
 
 <img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:100%;max-width:600px;">
 
-- **Investor:** Full control of company. Transfers control to oldest child once child is of adult age (if successful).
-- **Manager:** Launches, manages and performs all labor for business including sales, customer service, training, marketing, labor, etc.
-- **Workers:** Learns business and related tasks like marketing, customer service, etc. Also performs labor when possible.
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
+---
 
 <br>
+<br>
 
-<!---------------------------| SERVICES & PRICING |--------------------------->
-### 👨‍🔧🏷️Services & Pricing
+
+
+
+<!---------------------------| PROPOSED SERVICES & PRICING |--------------------------->
+<a id="3-proposed-services-pricing"></a>
+## 🏷️ 3. Proposed Services & Pricing
 
 Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
 
@@ -120,34 +169,51 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 | Ceramic Coating     | $500 | $600 | $700 | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
 | Pickup/Drop-off     | $TBD | $TBD | $TBD | Pickup car at clients home and return after service. (TODO: research liability information.)
 
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
+---
+
+<br>
 <br>
 
-<!---------------------------| PROFIT SHARING |--------------------------->
-### 💰Profit Sharing
 
-Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone equal! 🟰✊ 
+
+
+<!---------------------------| PROFIT SHARING |--------------------------->
+<a id="4-profit-sharing"></a>
+## 💰 4. Profit Sharing
+
+Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone equal ✊. 
 
 
 <img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:100%;max-width:600px;">
 
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
 ---
 
+<br>
 <br>
 
 
 
 
 <!---------------------------| STARTUP COSTS |--------------------------->
-## 💲4. Startup Costs
+<a id="5-startup-costs"></a>
+## 💲 5. Startup Costs
+
+Estimated startup costs to launch the company. Includes ideal and minimum investment examples.
 
 <br>
 
-### 🧼🪣Equipment and Supplies
+<a id="equipment-and-supplies"></a>
+### 🪣 Equipment and Supplies
 
 Items marked with `*` are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs.
 
 <br>
 
+<a id="cleaning-washing"></a>
 #### Cleaning & Washing
 
 | Item                   | Price   | Amazon Link/Add to Cart                                         |
@@ -163,7 +229,7 @@ Total / Minimum = **$310.97** / **$190.98**
 
 <br>
 
-
+<a id="paint-decontamination-protection"></a>
 #### Paint Decontamination & Protection
 
 | Item                    | Price   | Amazon Link                                          |
@@ -176,12 +242,11 @@ Total / Minimum = **$310.97** / **$190.98**
 | Applicator Pads for Wax* | $19.79  | [Adam's Plush Microfiber Applicator Pads](https://www.amazon.com/Adams-Plush-Microfiber-Applicator-Pack/dp/B08SVCFFRX/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
 | Polisher Kit             | $154.10 | [Adam's 9mm Dual Action Car Polisher Kit](https://www.amazon.com/dp/B09LRHLDGW/ref=twister_B09LVX9YXH?_encoding=UTF8)
 
-
 Total / Minimum = **$395.64** / **$286.29**
 
 <br>
 
-
+<a id="interior-cleaning-protection"></a>
 #### Interior Cleaning & Protection
 
 | Item                        | Price   | Amazon Link                                                   |
@@ -198,7 +263,7 @@ Total / Minimum = **$401.69** / **$142.70**
 
 <br>
 
-
+<a id="wheels-tires"></a>
 #### Wheels & Tires
 
 | Item                 | Price   | Amazon Link                                          |
@@ -212,7 +277,7 @@ Total / Minimum = **$141.91** / **$141.91**
 
 <br>
 
-
+<a id="misc"></a>
 #### Misc
 
 | Item           | Price | Amazon Link                   |
@@ -223,8 +288,8 @@ Total / Minimum = **$6.99** / **$6.99**
 
 <br>
 
-
-### 👨🏻‍⚖️Insurance and Legal Fees
+<a id="insurance-and-legal-fees"></a>
+### 👨🏻‍⚖️ Insurance and Legal Fees
 
 Fees for liability insurance and other legal related fees will be added here once they become known.
 
@@ -232,8 +297,8 @@ Total / Minimum = **$0.00** / **$0.00**
 
 <br>
 
-
-### 🧮Grand Total / Minimum
+<a id="grand-total-minimum-investment"></a>
+### 🧮 Grand Total / Minimum Investment
 
 Grand total: **$1,257.20**
 
@@ -241,38 +306,40 @@ Minimum Needed: **$768.87***
 
 \*could be reduced further if necessary to get our feet on the ground.
 
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
 ---
 
+<br>
 <br>
 
 
 
 
 <!---------------------------| MARKETING PLAN |--------------------------->
-## 🚀5. Marketing Plan
+<a id="6-marketing-plan"></a>
+## 🚀 6. Marketing Plan
 
-- **Online Presence:** Manager will create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
-- **Local Advertising:** Manager will distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
-- **Partnerships:** Manager will collaborate with local businesses, such as auto repair shops and dealerships, to refer clients.
-- **Promotions:** Sparkle Co. will offer introductory discounts, referral incentives, and package deals to attract and retain customers.
+- **Online Presence:** Create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
+- **Local Advertising:** Distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
+- **Partnerships:** Collaborate with local businesses, such as auto repair shops and dealerships, to refer clients.
+- **Promotions:** Create introductory discounts, referral incentives, and package deals to attract and retain customers.
+
+<p align="right">(<a href="#go-top">back to top</a>)</p>
 
 ---
 
+<br>
 <br>
 
 
 
 
-<!---------------------------| PROJECTED ROI |--------------------------->
-## 💸6. Projected Return On Initial Investment
+<!---------------------------| PROJECTED ROII |--------------------------->
+<a id="7-projected-return-on-initial-investment"></a>
+## 💸 7. Projected Return On Initial Investment
 
-To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need to perform approximately the following number of each service (not combined):
-
-- **3 Full** Detailing services.
-- or **3 - 6 Interior or Exterior** Detailing services.
-- or **2 Ceramic Coating** services.
-
-
+To recover the minimum initial investment of **$768.87**, Sparkle Co. would only need to perform approximately **3** Full Detailing Services, or **3 - 6** Interior / Exterior Detailing Services, or **2** Ceramic Coating Services. Any one of the following would recover the initial investment:
 
 <img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" style="width:100%;max-width:600px;">
 
@@ -300,17 +367,21 @@ To recoup the minimum initial investment of **$768.87**, Sparkle Co. would need 
   - SUV: $768.87 / $600 ≈ 1.28 services
   - Truck: $768.87 / $700 ≈ 1.10 services
 
-Note that these estimates assume that the full amount charged for each service goes towards covering the initial investment (recommended).
+Estimates assume that the full amount charged for each service will go towards covering the initial investment which is recommended.
+
+<p align="right">(<a href="#go-top">back to top</a>)</p>
 
 ---
 
+<br>
 <br>
 
 
 
 
 <!---------------------------| LEGAL CONSIDERATIONS & REQUIREMENTS |--------------------------->
-## ⚖️7. Legal Considerations & Requirements
+<a id="8-legal-considerations-requirements"></a>
+## ⚖️ 8. Legal Considerations & Requirements
 
 The recommended setup for maximum compliance with the law with minimum liability exposure. Some of these can be done after Sparkle Co. services some of it's first clients.
 
@@ -318,6 +389,8 @@ The recommended setup for maximum compliance with the law with minimum liability
 - **Licenses / Permits:** Obtain necessary business licenses and permits as required by NH regulations. (TBD).
 - **Liability Insurance:** Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability) to cover potential damages or accidents during service.
 - **Tax Liability:** Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN) with the IRS to ensure compliance with federal tax obligations.
+
+<p align="right">(<a href="#go-top">back to top</a>)</p>
 
 ---
 
