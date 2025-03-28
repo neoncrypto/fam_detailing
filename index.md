@@ -7,7 +7,7 @@
 <!---------------------------| SUMMARY |--------------------------->
 ## ⓘ Summary
 
-Example Automotive Detailing Business Outline for company offering Premium mobile car detailing services to a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally under consideration is offering pickup and drop-off services for added convenience. A family-oriented them adds a personal touch that may appeal to customers.
+Example Automotive Detailing Business Outline for company offering Premium mobile car detailing services to a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally under consideration is offering pickup and drop-off services for added convenience. A family-oriented theme adds a personal touch that may appeal to customers.
 
 ---
 
@@ -383,12 +383,13 @@ Estimates assume that the full amount charged for each service will go towards c
 <a id="8-legal-considerations-requirements"></a>
 ## ⚖️ 8. Legal Considerations & Requirements
 
-The recommended setup for maximum compliance with the law with minimum liability exposure. Some of these can be done after Sparkle Co. services some of it's first clients.
+The recommended setup for maximum compliance with the law with minimum liability exposure. (TBD).
 
-- **Business Formation:** Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) and utilize a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents) for privacy.
-- **Licenses / Permits:** Obtain necessary business licenses and permits as required by NH regulations. (TBD).
-- **Liability Insurance:** Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability) to cover potential damages or accidents during service.
-- **Tax Liability:** Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN) with the IRS to ensure compliance with federal tax obligations.
+- Research information on forming a C-Corp.
+- Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) using a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents).
+- Obtain licenses and permits for NH.
+- Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability).
+- Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN).
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
