@@ -42,6 +42,10 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
 - [🚀 6. Marketing Plan](#6-marketing-plan)
 - [💸 7. Projected Return On Initial Investment](#7-projected-return-on-initial-investment)
 - [⚖️ 8. Legal Considerations & Requirements](#8-legal-considerations-requirements)
+  - [📜 Online Invoices, Agreements & Client Portal](#online-invoices-agreements-client-portal)
+    - [Key Elements for Service Agreement](#key-elements-for-service-agreement)
+    - [Sample Service Agreement Structure](#sample-service-agreement-structure)
+    - [Example Digital Invoice](#example-digital-invoice)
 
 <!-- /MarkdownTOC -->
 
@@ -183,7 +187,7 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 <a id="4-profit-sharing"></a>
 ## 💰 4. Profit Sharing
 
-Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone equal ✊. 
+Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone is equal ✊ (kind of.. helpers count as one technically 😁). 
 
 
 <img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:100%;max-width:600px;">
@@ -202,14 +206,16 @@ Proposed distribution of profits. Profits are evenly distributed regardless of o
 <a id="5-startup-costs"></a>
 ## 💲 5. Startup Costs
 
-Estimated startup costs to launch the company. Includes ideal and minimum investment examples.
+Estimated startup costs to launch the company. Includes the ideal initial inventory and supplies examples as well as minimal investment examples.
+
+Items marked with '`*`' are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs if it was necessary to get up and running quickly with a minimal budget.
+
+View or download these links as a `.xlsx` spreadsheet on [Google Docs](https://docs.google.com/spreadsheets/d/1us3gWkgZDAOcgDLya0RKrpXGy8fZ2LqW/edit?gid=1788742937#gid=1788742937).
 
 <br>
 
 <a id="equipment-and-supplies"></a>
 ### 🪣 Equipment and Supplies
-
-Items marked with `*` are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs.
 
 <br>
 
@@ -339,35 +345,18 @@ Minimum Needed: **$768.87***
 <a id="7-projected-return-on-initial-investment"></a>
 ## 💸 7. Projected Return On Initial Investment
 
-To recover the minimum initial investment of **$768.87**, Sparkle Co. would only need to perform approximately **3** Full Detailing Services, or **3 - 6** Interior / Exterior Detailing Services, or **2** Ceramic Coating Services. Any one of the following would recover the initial investment:
+To recover the minimum initial investment of **$768.87**, Sparkle Co. would only need to perform approximately **3** Full Detailing Services, or **3 - 6** Interior / Exterior Detailing Services, or **2** Ceramic Coating Services. Any one of the following would recover the minimum initial investment\*:
 
 <img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" style="width:100%;max-width:600px;">
 
-**Full Detailing:**
+| Service Type        | Car (Services) | SUV (Services) | Truck (Services) |
+|---------------------|---------------|---------------|------------------|
+| **Full Detailing**  | 3.08          | 2.56          | 2.20             |
+| **Interior Detailing** | 5.13       | 3.84          | 3.08             |
+| **Exterior Detailing** | 5.13       | 3.84          | 3.08             |
+| **Ceramic Coating** | 1.54          | 1.28          | 1.10             |
 
-  - Car: $768.87 / $250 ≈ 3.08 services
-  - SUV: $768.87 / $300 ≈ 2.56 services
-  - Truck: $768.87 / $350 ≈ 2.20 services
-
-**Interior Detailing:**
-
-  - Car: $768.87 / $150 ≈ 5.13 services
-  - SUV: $768.87 / $200 ≈ 3.84 services
-  - Truck: $768.87 / $250 ≈ 3.08 services
-
-**Exterior Detailing:**
-
-  - Car: $768.87 / $150 ≈ 5.13 services
-  - SUV: $768.87 / $200 ≈ 3.84 services
-  - Truck: $768.87 / $250 ≈ 3.08 services
-
-**Ceramic Coating:**
-
-  - Car: $768.87 / $500 ≈ 1.54 services
-  - SUV: $768.87 / $600 ≈ 1.28 services
-  - Truck: $768.87 / $700 ≈ 1.10 services
-
-Estimates assume that the full amount charged for each service will go towards covering the initial investment which is recommended.
+\*estimates assume the full amount charged for each service will be used to recover the initial investment (recommended).
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
@@ -390,6 +379,73 @@ The recommended setup for maximum compliance with the law with minimum liability
 - Obtain licenses and permits for NH.
 - Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability).
 - Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN).
+
+<a id="online-invoices-agreements-client-portal"></a>
+### 📜 Online Invoices, Agreements & Client Portal
+
+When establishing a service agreement for Sparkle Co., it's essential to ensure the contract is comprehensive, legally sound, and tailored to New Hampshire laws. Using [Bonsai](https://app.hellobonsai.com) let's clients pay invoice digitally and can also be used for proposals, waivers, agreements, contracts, recurring payments etc. They even have a white label [client portal](https://www.hellobonsai.com/client-portal) that clients could log into to see progress pictures, pay a bill etc.
+
+<br>
+
+<a id="key-elements-for-service-agreement"></a>
+#### Key Elements for Service Agreement
+
+1. **Parties Involved:** Clearly identify Sparkle Co. and the client, including full legal names and contact information.
+
+2. **Scope of Services:** Detail the specific services offered, such as full detailing, interior detailing, exterior detailing, and ceramic coating.
+
+3. **Payment Terms:** Specify pricing, payment methods, due dates, and any late payment penalties.
+
+4. **Access Requirements:** State any necessities for service execution, like access to water and electricity.
+
+5. **Liability and Insurance:** Outline responsibilities, limitations of liability, and insurance coverage details.
+
+6. **Termination Clause:** Define conditions under which either party can terminate the agreement.
+
+7. **Governing Law:** Indicate that the agreement is governed by the laws of New Hampshire.
+
+<br>
+
+<a id="sample-service-agreement-structure"></a>
+#### Sample Service Agreement Structure
+
+```
+**Service Agreement**
+
+This Service Agreement ("Agreement") is made effective as of [Date], by and between Sparkle Co. ("Service Provider") and [Client Name] ("Client").
+
+**1. Services Provided**
+Service Provider agrees to perform the following services:
+- [List of services]
+
+**2. Payment**
+Client agrees to pay Service Provider [amount] for the services. Payment is due [terms].
+
+**3. Access Requirements**
+Client will provide access to water and electricity as needed for service completion.
+
+**4. Liability**
+Service Provider will not be liable for any damages beyond the scope of the services provided.
+
+**5. Termination**
+Either party may terminate this Agreement with [notice period] written notice.
+
+**6. Governing Law**
+This Agreement shall be governed by the laws of the State of New Hampshire.
+
+**Client Signature:** _______________________  **Date:** ____________
+
+**Service Provider Signature:** _______________________  **Date:** ____________
+```
+
+<br>
+
+<a id="example-digital-invoice"></a>
+#### Example Digital Invoice
+
+Here's an example invoice on Bonsai. This could be sent digitally to clients and paid and tracked online. The `.pdf` format of this example can be viewed/downloaded on [Google](https://drive.google.com/file/d/162fmNJxJuItkrSD6bfjb_-xCBCrannLr/view).
+
+![Bonsai Invoice](https://i.ibb.co/Csws3JvF/bonsai-invoice-example.jpg)
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
