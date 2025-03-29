@@ -1,6 +1,6 @@
 <!-- Business Plan for Automotive Detailing -->
 
-# ✨Sparkle Co. - Family Detailing✨
+# ✨Sparkle Co. - Family Detailing
 
 <img src="https://i.ibb.co/0y3J3gHn/sparkle-co.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
 
@@ -39,22 +39,20 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
     - [Misc](#misc)
   - [👨🏻‍⚖️ Insurance and Legal Fees](#insurance-and-legal-fees)
   - [🧮 Grand Total / Minimum Investment](#grand-total-minimum-investment)
-- [🚀 6. Marketing Plan](#6-marketing-plan)
+- [📱 6. Marketing Plan](#6-marketing-plan)
 - [💸 7. Projected Return On Initial Investment](#7-projected-return-on-initial-investment)
 - [⚖️ 8. Legal Considerations & Requirements](#8-legal-considerations-requirements)
   - [📜 Online Invoices, Agreements & Client Portal](#online-invoices-agreements-client-portal)
     - [Key Elements for Service Agreement](#key-elements-for-service-agreement)
     - [Sample Service Agreement Structure](#sample-service-agreement-structure)
     - [Example Digital Invoice](#example-digital-invoice)
+- [🚀 Steps to Liftoff](#steps-to-liftoff)
 
 <!-- /MarkdownTOC -->
 
 ---
 
 <br>
-<br>
-
-
 
 
 <!---------------------------| ANALYSIS |--------------------------->
@@ -73,9 +71,9 @@ Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a
 <a id="average-pricing"></a>
 ### 💲 Average Pricing
 
-Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
-
 <img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
+
+Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
 
 <a id="interior"></a>
 #### Interior
@@ -141,11 +139,11 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 <a id="2-proposed-structure-hierarchy"></a>
 ## 💼 2. Proposed Structure & Hierarchy
 
+<img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:100%;max-width:600px;">
+
 - 👑 **Investor:** Full legal control. Almost no required time and energy investment.
 - 👨‍💼 **Manager:** No legal control. Required to launch business, perform almost all labor, sales, customer service, training, marketing, IT, etc.
 - 👷 **Helpers:** Senior Helper assumes full legal control once helper is of adult age and as long as the company is successful 🤞. Required to learn and perform business admin, marketing, customer service, finance and automotive detailing. 
-
-<img src="https://i.ibb.co/GfSsLLsZ/work-time-involvement-chart.png" alt="Work Time Involvement Chart" style="width:100%;max-width:600px;">
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
@@ -161,9 +159,9 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 <a id="3-proposed-services-pricing"></a>
 ## 🏷️ 3. Proposed Services & Pricing
 
-Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
-
 <img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" style="width:100%;max-width:600px;">
+
+Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
 
 | Services            | Car  | SUV | Truck | Included Services                                                         |
 |---------------------|------|-----|-------|---------------------------------------------------------------------------|
@@ -187,10 +185,9 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 <a id="4-profit-sharing"></a>
 ## 💰 4. Profit Sharing
 
-Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone is equal ✊ (kind of.. helpers count as one technically 😁). 
-
-
 <img src="https://i.ibb.co/wrM3p1YV/Graph.png" alt="Profit Sharing Chart" style="width:100%;max-width:600px;">
+
+Proposed distribution of profits. Profits are evenly distributed regardless of other factors. Everyone is equal ✊ (kind of.. helpers count as one technically 😁). 
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
@@ -324,7 +321,7 @@ Minimum Needed: **$768.87***
 
 <!---------------------------| MARKETING PLAN |--------------------------->
 <a id="6-marketing-plan"></a>
-## 🚀 6. Marketing Plan
+## 📱 6. Marketing Plan
 
 - **Online Presence:** Create a professional website and utilize social media platforms to showcase services, customer testimonials, and promotions.
 - **Local Advertising:** Distribute flyers and business cards in local businesses, community centers, and high-traffic areas.
@@ -345,9 +342,9 @@ Minimum Needed: **$768.87***
 <a id="7-projected-return-on-initial-investment"></a>
 ## 💸 7. Projected Return On Initial Investment
 
-To recover the minimum initial investment of **$768.87**, Sparkle Co. would only need to perform approximately **3** Full Detailing Services, or **3 - 6** Interior / Exterior Detailing Services, or **2** Ceramic Coating Services. Any one of the following would recover the minimum initial investment\*:
-
 <img src="https://i.ibb.co/gMN2tSDz/washes-to-recoup-investment.png" alt="Washes to ROI Chart" style="width:100%;max-width:600px;">
+
+To recover the minimum initial investment of **$768.87**, Sparkle Co. would only need to perform approximately **3** Full Detailing Services, or **3 - 6** Interior / Exterior Detailing Services, or **2** Ceramic Coating Services. Any one of the following would recover the minimum initial investment\*:
 
 | Service Type        | Car (Services) | SUV (Services) | Truck (Services) |
 |---------------------|---------------|---------------|------------------|
@@ -446,6 +443,17 @@ This Agreement shall be governed by the laws of the State of New Hampshire.
 Here's an example invoice on Bonsai. This could be sent digitally to clients and paid and tracked online. The `.pdf` format of this example can be viewed/downloaded on [Google](https://drive.google.com/file/d/162fmNJxJuItkrSD6bfjb_-xCBCrannLr/view).
 
 ![Bonsai Invoice](https://i.ibb.co/Csws3JvF/bonsai-invoice-example.jpg)
+
+<p align="right">(<a href="#go-top">back to top</a>)</p>
+
+---
+
+<br>
+
+<a id="steps-to-liftoff"></a>
+## 🚀 Steps to Liftoff
+
+Here is a general example and steps to launch the business. These will include estimates.
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
