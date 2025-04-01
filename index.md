@@ -1,8 +1,10 @@
 <!-- Example Basic Business Plan for Automotive Detailing Company -->
 
-# ✨Sparkle Co. - Family Detailing
+# ✨Sparkle Co. - Automotive Detailing
 
-<img src="https://i.ibb.co/0y3J3gHn/sparkle-co.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
+Family Owned & Operated
+
+<img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Main Sparkle Co. Logo Image" style="width:100%;max-width:600px;">
 
 <!---------------------------| SUMMARY |--------------------------->
 ## ⓘ Summary
@@ -45,7 +47,13 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
     - [Key Elements for Service Agreement](#key-elements-for-service-agreement)
     - [Sample Service Agreement Structure](#sample-service-agreement-structure)
     - [Example Digital Invoice](#example-digital-invoice)
-- [🚀 7. Steps to Liftoff \(Poor Man's Version\)](#7-steps-to-liftoff-poor-mans-version)
+- [🚀 7. Poor Man's Steps to Launch](#7-poor-mans-steps-to-launch)
+  - [**1. Secure Initial Clients**](#1-secure-initial-clients)
+  - [**2. Acquire Essential Supplies**](#2-acquire-essential-supplies)
+  - [**3. Execute Initial Jobs**](#3-execute-initial-jobs)
+  - [**4. Establish a Private Location**](#4-establish-a-private-location)
+  - [**5. Implement Promotional Strategies**](#5-implement-promotional-strategies)
+  - [**6. Register the Business & Scale Up**](#6-register-the-business-scale-up)
 
 <!-- /MarkdownTOC -->
 
@@ -416,10 +424,61 @@ Download `.pdf`: [Google Drive](https://drive.google.com/file/d/1PouxK7RkGMKFPOm
 
 <br>
 
-<a id="7-steps-to-liftoff-poor-mans-version"></a>
-## 🚀 7. Steps to Liftoff (Poor Man's Version)
+<a id="7-poor-mans-steps-to-launch"></a>
+## 🚀 7. Poor Man's Steps to Launch
 
-Here will go a general outline of the poor man's version to launch this business successfully.
+Poor man's version of the steps to launch, including a basic startup list with the total cost of essential supplies.
+
+<a id="1-secure-initial-clients"></a>
+### **1. Secure Initial Clients**
+- **Website Creation:** Build a professional website detailing services, pricing, and contact information.
+- **Customer Reviews:** Build a section for customer testimonials and reviews to build credibility and attract new clients.
+- **Social Media:** Encourage friends and family to share our services on Facebook and Facebook Marketplace to attract more customers.
+- **Personal Network:** Begin by offering detailing services to friends and family for %50 Off if the service is done at the clients location and they are willing to leave an honest review.
+
+<a id="2-acquire-essential-supplies"></a>
+### **2. Acquire Essential Supplies**
+Once the first client is secured, borrow startup funds to purchase the following essential supplies:
+
+| Item                     | Quantity | Price  | Link                                                                                                                                                                                                                 |
+|--------------------------|----------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Paper Towels             | 1 Pack   | $16.94 | [Bounty Paper Towels](https://www.walmart.com/ip/Bounty-BASE-Paper-Towel-2-Ply-Select-a-Size-Roll-White/14580219389?classType=REGULAR)                                                                              |
+| Reusable Towels          | 2 Packs  | $7.96  | [Microfiber Cleaning Cloths](https://www.walmart.com/ip/S-T-INC-Microfiber-Cleaning-Cloths-5-Pack-Multi-Purpose-Cloths-12-in-x-12-in-Assorted-Colors/14753763216)                                                   |
+| Glass Cleaner            | 2 Bottles| $6.96  | [Windex Original](https://www.walmart.com/ip/Windex-Original-Glass-Cleaner-23-Fluid-Ounces/122519458?classType=REGULAR&from=/search)                                                                                |
+| Interior Cleaner         | 1 Bottle | $6.47  | [Meguiar's Quick Interior Detailer](https://www.walmart.com/ip/Meguiar-s-Quik-Interior-Detailer/16550247?classType=VARIANT&from=/search)                                                                            |
+| Interior Fabric Cleaner  | 1 Bottle | $5.97  | [OxiClean Upholstery Cleaner](https://www.walmart.com/ip/OxiClean-Total-Care-Carpet-Upholstery-Cleaner-19-Fl-Oz/202783797?classType=VARIANT&athbdg=L1103&from=/search)                                              |
+| Car Shampoo              | 2 Bottles| $13.94 | [Turtle Wax Max Power](https://www.walmart.com/ip/Turtle-Wax-50597-Max-Power-3-Levels-of-Cleaning-Car-Wash-100-oz/15532605413)                                                                                      |
+| Hose                     | 1        | $19.88 | [Expandable Hose](https://www.walmart.com/ip/Platinum-Series-AquaStretch-Nylon-Expandable-Hose-Storage-Reel-50-Red-Black/198063032?fulfillmentIntent=In-store) |
+| Nozzle                   | 1        | $9.97  | [Car Wash Hose Nozzle](https://www.walmart.com/ip/Auto-Drive-Plastic-Car-Wash-Water-Hose-Nozzle-8-Pattern-Spray-Heavy-Duty-Durable-Material/892668588?fulfillmentIntent=In-store) |
+| Wash Mitt                | 1        | $5.97  | [Microfiber Chenille Mitt](https://www.walmart.com/ip/Premium-Microfiber-Chenille-Mitt-Blue/16817496?fulfillmentIntent=In-store) |
+| Drying Towels            | 1 Pack   | $9.97  | [Twisted Dry Towels](https://www.walmart.com/ip/PLAT-TWISTED-DRY-2PK/11453374742?fulfillmentIntent=In-store) |
+| Air Freshener Trees      | 4 Packs  | $11.52 | [Little Trees (Caribbean Colada)](https://www.walmart.com/ip/Little-Trees-Auto-Air-Freshener-Hanging-Card-Caribbean-Colada-Fragrance-3-Pack/169703252?fulfillmentIntent=In-store) |
+
+**Total Estimated Cost:** $115.59
+
+<a id="3-execute-initial-jobs"></a>
+### **3. Execute Initial Jobs**
+- **First Job:** Complete the first detailing job and use the payment to repay the borrowed startup funds.
+- **Subsequent Clients:** Continue servicing new clients, reinvesting earnings into the business to sustain operations and purchase additional supplies as needed.
+
+<a id="4-establish-a-private-location"></a>
+### **4. Establish a Private Location**
+- **On-Site Detailing:** At first, offer mobile detailing services by traveling to clients' locations, utilizing their water and electricity resources.
+- **Private Location:** After up and running, arrange a safe, private garage space to perform detailing services, ensuring it's not publicly advertised to maintain privacy and security.
+
+<a id="5-implement-promotional-strategies"></a>
+### **5. Implement Promotional Strategies**
+- **Introductory Offers:** Provide discounted services to friends and family in exchange for honest online reviews.
+- **Referral Program:** Encourage satisfied clients to refer others by offering discounts on future services for each successful referral.
+- **Social Media Marketing:** Post before-and-after photos of detailed cars, run limited-time promotions, and engage with potential customers online.
+- **Community Engagement:** Attend local car meetups, collaborate with small businesses, and distribute business cards to increase visibility.
+
+<a id="6-register-the-business-scale-up"></a>
+### **6. Register the Business & Scale Up**
+- **Legal Registration:** After gaining traction, register the business as an LLC and obtain necessary permits.
+- **Open Business Accounts:** Set up a business bank account and a separate payment processing system for easier financial tracking.
+- **Expand Services:** Gradually introduce premium detailing services, such as ceramic coatings, paint correction, and mobile maintenance plans.
+- **Hire Assistance:** As demand grows, consider hiring additional detailers or investing in better equipment to increase efficiency.
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
