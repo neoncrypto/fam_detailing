@@ -9,7 +9,7 @@
 
 ## 📢 Attention Friends & Family!
 
-Brian, Alexa and Liam are starting a car detailing business and we need your help getting off the ground!
+Brian, Alexa and Liam are starting a car detailing business and we need your help getting off the ground! Book your appointment today and be a part of our journey!
 
 ---
 
@@ -37,11 +37,9 @@ Sparkle Co. is your trusted partner in premium automotive detailing. We take pri
 
 ## 👪 Family Owned & Operated
 
-We're starting something special—a family-run car wash and detailing service where we not only earn a living but the kids learn the value of hard work, customer service, and running a business. But to get this venture off the ground, we need your support!
+We're starting a family-run car wash and detailing service where we not only earn a living but the kids learn the value of hard work, customer service, and running a business. But to get this venture off the ground, we need your support!
 
 As one of our first customers, you'll get a gigantic discount in exchange for an honest review, helping us build our reputation and launch our website. Your support means everything to us, and we promise to treat your car with the same care and attention we would our own!
-
-Book your appointment today and be a part of our journey!
 
 ---
 
@@ -70,7 +68,7 @@ Leave your review [here!](https://form.jotform.com/250898871937175)
 
 These are example reviews. Be the first!
 
-⭐⭐⭐⭐⭐ "Absolutely amazing service! My car looks brand new. Highly recommended!" - Michael, (Nashua, NH)
+⭐⭐⭐⭐⭐ "Absolutely amazing service! My car looks brand new. Highly recommended!" - Michael, (Nashua, NH) <br>
 ⭐⭐⭐⭐⭐ "Best detailing shop in town. They truly care about their customers." – Ben, (Manchester, NH) <br>
 ⭐⭐⭐⭐⭐ "Incredible attention to detail. Worth every penny!" - Penny, (Amherst, NH) <br>
 
@@ -96,7 +94,7 @@ These are example reviews. Be the first!
 
 
 
-## 📜 Family & Friends Services & Pricing
+## 💵 Family & Friends Service Pricing
 
 | Service         | Car           | SUV           | Truck (2dr)   | Truck (4dr)   | Included Services
 |-----------------|---------------|---------------|---------------|---------------|---------------------------------------------------------|
@@ -128,3 +126,6 @@ These are example reviews. Be the first!
 
 
 <img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Main Sparkle Co. Logo Image Example 1" style="width:100%;max-width:600px;">
+
+<br>
+<br>
