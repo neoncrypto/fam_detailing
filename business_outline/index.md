@@ -151,12 +151,12 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 
 Services offered with pricing for car, SUV and truck detailing as well as ceramic coating.
 
-| Services            | Car  | SUV | Truck | Included Services                                                         |
-|---------------------|------|-----|-------|---------------------------------------------------------------------------|
-| Full                | $250 | $300 | $350 | Interior & Exterior Services combined. 
-| Interior            | $150 | $200 | $250 | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
-| Exterior            | $150 | $200 | $250 | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax. 
-| Ceramic Coating     | $500 | $600 | $700 | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
+| Service         | Car   | SUV  | Truck (2dr) | Truck (4dr) | Included Services
+|-----------------|-------|------|-------------|-------------|---------------------------------------------------------|
+| Full            | $250  | $300 | $250        | $300        | Interior & Exterior Services combined. 
+| Interior        | $150  | $200 | $100        | $200        | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
+| Exterior        | $150  | $200 | $200        | $200        | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax.
+| Ceramic Coating | $550  | $650 | $650        | $650        | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
@@ -284,16 +284,18 @@ Grand total: **$1,257.20**
 <a id="the-roi-data"></a>
 ### 📊 The ROI Data
 
-<img src="https://i.ibb.co/tM28tmwH/roi-chart.png" alt="ROI Chart" style="width:100%;max-width:600px;">
+<img src="https://i.ibb.co/35pB7xh8/roi-chart.png" alt="ROI Chart" style="width:100%;max-width:600px;">
+
+\*chart needs to be updated
 
 To recover the initial investment of **$1257.20**, Sparkle Co. would need to perform approximately the following number of services:
 
-| Service           | Car  | SUV  | Truck |
-|------------------|------|------|------|
-| Full            | 5.03  | 4.19  | 3.59  |
-| Interior        | 8.38  | 6.29  | 5.03  |
-| Exterior        | 8.38  | 6.29  | 5.03  |
-| Ceramic Coating | 2.51  | 2.10  | 1.80  |
+| Service         | Car   | SUV   | Truck (2-Door) | Truck (4-Door) |
+|-----------------|-------|-------|----------------|----------------|
+| Full            | 5.03  | 4.19  | 5.03           | 4.19  
+| Interior        | 8.38  | 6.29  | 12.57          | 6.29    
+| Exterior        | 8.38  | 6.29  | 6.29           | 6.29  
+| Ceramic Coating | 2.29  | 1.93  | 1.93           | 1.93  
 
 \*estimates assume the full amount charged for each service will be used to recover the initial investment.
 
