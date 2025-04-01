@@ -1,21 +1,27 @@
 <!-- Example Basic Business Plan for Automotive Detailing Company -->
 
-# ✨Sparkle Co. - Automotive Detailing
+# ✨Sparkle Co. - Auto Detailing
 
 Family Owned & Operated
 
+<br>
+
 <img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Main Sparkle Co. Logo Image Example 1" style="width:100%;max-width:600px;">
 
+<br>
+
 <img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Main Sparkle Co. Logo Image Example 2" style="width:100%;max-width:600px;">
+
+
+
 
 <!---------------------------| SUMMARY |--------------------------->
 ## ⓘ Summary
 
-Example Automotive Detailing Business Outline for company offering Premium mobile car detailing services to a diverse clientele, with emphasis on high-end vehicles. Services will be offered at clients homes or businesses, provided they supply water and hose, or at a safe private home garage location (not publically advertised). Additionally under consideration is offering pickup and drop-off services for added convenience. A family-oriented theme adds a personal touch that may appeal to customers.
+Outline for automotive detailing company offering premium services to a diverse clientele, with focus on high-end clients. Services will be offered at clients homes or businesses, provided they supply water and hose, and eventually at a safe private home garage location (not publicly advertised). A family-owned and operated theme adds a personal touch that may appeal to customers.
 
 ---
 
-<br>
 <br>
 
 
@@ -31,13 +37,13 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
     - [Exterior](#exterior)
     - [Full](#full)
     - [Ceramic Coating](#ceramic-coating)
-- [🏷️ 2. Proposed Services & Pricing](#2-proposed-services-pricing)
+- [🏷️ 2. Services & Pricing](#2-services-pricing)
 - [💲 3. Startup Costs](#3-startup-costs)
   - [🧼 Cleaning & Washing](#cleaning-washing)
   - [🖌 Paint Decontamination & Protection](#paint-decontamination-protection)
   - [✨ Interior Cleaning & Protection](#interior-cleaning-protection)
   - [🛞 Wheels & Tires](#wheels-tires)
-  - [📎 Misc](#misc)
+  - [📎 Miscellaneous](#miscellaneous)
   - [👨🏻‍⚖️ Insurance and Legal Fees](#insurance-and-legal-fees)
   - [🧮 Grand Total](#grand-total)
 - [📱 4. Marketing Plan](#4-marketing-plan)
@@ -45,17 +51,17 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
   - [📊 The ROI Data](#the-roi-data)
   - [💡 Key ROI Insights](#key-roi-insights)
 - [⚖️ 6. Legal Considerations & Requirements](#6-legal-considerations-requirements)
-  - [📜 Invoices & Agreements](#invoices-agreements)
+  - [📜 Agreements & Invoices](#agreements-invoices)
     - [Key Elements for Service Agreement](#key-elements-for-service-agreement)
-    - [Sample Service Agreement Structure](#sample-service-agreement-structure)
+    - [Service Agreement Outline](#service-agreement-outline)
     - [Example Digital Invoice](#example-digital-invoice)
 - [🚀 7. Poor Man's Steps to Launch](#7-poor-mans-steps-to-launch)
-  - [**1. Secure Initial Clients**](#1-secure-initial-clients)
-  - [**2. Acquire Essential Supplies**](#2-acquire-essential-supplies)
-  - [**3. Execute Initial Jobs**](#3-execute-initial-jobs)
-  - [**4. Establish a Private Location**](#4-establish-a-private-location)
-  - [**5. Implement Promotional Strategies**](#5-implement-promotional-strategies)
-  - [**6. Register the Business & Scale Up**](#6-register-the-business-scale-up)
+  - [1. Secure Initial Clients](#1-secure-initial-clients)
+  - [2. Acquire Essential Supplies](#2-acquire-essential-supplies)
+  - [3. Execute Initial Jobs](#3-execute-initial-jobs)
+  - [4. Establish a Private Location](#4-establish-a-private-location)
+  - [5. Implement Promotional Strategies](#5-implement-promotional-strategies)
+  - [6. Register the Business & Scale Up](#6-register-the-business-scale-up)
 
 <!-- /MarkdownTOC -->
 
@@ -68,21 +74,17 @@ Example Automotive Detailing Business Outline for company offering Premium mobil
 <a id="1-market-analysis"></a>
 ## 🧐 1. Market Analysis
 
-<br>
-
 <a id="target-market"></a>
 ### 🎯 Target Market
 
-Initially, a mix of everyday vehicle owners and luxury vehicle owners to build a reputation, with the long-term goal of exclusively serving high-end vehicle owners as the business grows.
-
-<br>
+Initially, a mix of regular everyday vehicle owners and luxury vehicle owners to build a reputation, with the long-term goal of exclusively serving high-end vehicle owners as the business and reputation grows.
 
 <a id="average-pricing"></a>
 ### 💲 Average Pricing
 
-<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Profit Sharing Pie Chart" style="width:100%;max-width:600px;">
+<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Price Comparison Chart" style="width:100%;max-width:600px;">
 
-Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services**.
+Average pricing for **interior**, **exterior**, and **full-service** detailing for **small**, **medium**, and **large** vehicles, as well as the average pricing for basic **ceramic coating services** based on 3 random local companies (additional/better quality companies and data will be added later).
 
 <a id="interior"></a>
 #### Interior
@@ -117,8 +119,6 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 - [Edward's Car Care](https://www.edwardscarcare.com)
 - [J&M Detailing](https://jandmdetailing.com)
 
-<br>
-
 <a id="ceramic-coating"></a>
 #### Ceramic Coating
 
@@ -139,18 +139,17 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing f
 ---
 
 <br>
-<br>
 
 
 
 
 <!---------------------------| PROPOSED SERVICES & PRICING |--------------------------->
-<a id="2-proposed-services-pricing"></a>
-## 🏷️ 2. Proposed Services & Pricing
+<a id="2-services-pricing"></a>
+## 🏷️ 2. Services & Pricing
 
 <img src="https://i.ibb.co/xtRkgj2j/services-pricing-chart.png" alt="Services Pricing Chart" style="width:100%;max-width:600px;">
 
-Proposed pricing for car, SUV and truck detailing as well as ceramic coating services.
+Services offered with pricing for car, SUV and truck detailing as well as ceramic coating.
 
 | Services            | Car  | SUV | Truck | Included Services                                                         |
 |---------------------|------|-----|-------|---------------------------------------------------------------------------|
@@ -158,13 +157,11 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 | Interior            | $150 | $200 | $250 | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, trunk cleaned.
 | Exterior            | $150 | $200 | $250 | Car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step polish and wax. 
 | Ceramic Coating     | $500 | $600 | $700 | 1 Layer of Ceramic Pro Sport, professional hand wash, clay bar treatment, high gloss polish.
-| Pickup/Drop-off     | $TBD | $TBD | $TBD | Pickup car at clients home and return after service. (TODO: research liability information.)
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
 ---
 
-<br>
 <br>
 
 
@@ -174,13 +171,7 @@ Proposed pricing for car, SUV and truck detailing as well as ceramic coating ser
 <a id="3-startup-costs"></a>
 ## 💲 3. Startup Costs
 
-Estimated startup costs to launch the company. Includes the ideal initial inventory and supplies examples as well as minimal investment examples.
-
-Items marked with '`*`' are the recommended minimum supplies to have on hand initially but most of them come in smaller sizes with lower costs if it was necessary to get up and running quickly with a minimal budget.
-
-View or download these links as a `.xlsx` spreadsheet on [Google Docs](https://docs.google.com/spreadsheets/d/1us3gWkgZDAOcgDLya0RKrpXGy8fZ2LqW/edit?gid=1788742937#gid=1788742937).
-
-<br>
+Estimated startup costs to launch the company.
 
 <a id="cleaning-washing"></a>
 ### 🧼 Cleaning & Washing
@@ -195,8 +186,6 @@ View or download these links as a `.xlsx` spreadsheet on [Google Docs](https://d
 | Spray Bottles         | $26.09  | [Adam's Empty Labelled Bottle](https://www.amazon.com/Adams-Empty-Labelled-Bottle-Pack/dp/B07KJMLXVY/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 Total = **$310.97**
-
-<br>
 
 <a id="paint-decontamination-protection"></a>
 ### 🖌 Paint Decontamination & Protection
@@ -213,8 +202,6 @@ Total = **$310.97**
 
 Total = **$395.64**
 
-<br>
-
 <a id="interior-cleaning-protection"></a>
 ### ✨ Interior Cleaning & Protection
 
@@ -230,8 +217,6 @@ Total = **$395.64**
 
 Total = **$401.69**
 
-<br>
-
 <a id="wheels-tires"></a>
 ### 🛞 Wheels & Tires
 
@@ -244,10 +229,8 @@ Total = **$401.69**
 
 Total = **$141.91**
 
-<br>
-
-<a id="misc"></a>
-### 📎 Misc
+<a id="miscellaneous"></a>
+### 📎 Miscellaneous
 
 | Item           | Price | Amazon Link                   |
 |----------------|-------|-------------------------------|
@@ -255,16 +238,12 @@ Total = **$141.91**
 
 Total = **$6.99**
 
-<br>
-
 <a id="insurance-and-legal-fees"></a>
 ### 👨🏻‍⚖️ Insurance and Legal Fees
 
 Fees for liability insurance and other legal related fees will be added here once they become known.
 
 Total = **$0.00**
-
-<br>
 
 <a id="grand-total"></a>
 ### 🧮 Grand Total
@@ -275,7 +254,6 @@ Grand total: **$1,257.20**
 
 ---
 
-<br>
 <br>
 
 
@@ -294,7 +272,6 @@ Grand total: **$1,257.20**
 
 ---
 
-<br>
 <br>
 
 
@@ -332,7 +309,6 @@ To recover the initial investment of **$1257.20**, Sparkle Co. would need to per
 ---
 
 <br>
-<br>
 
 
 
@@ -341,20 +317,18 @@ To recover the initial investment of **$1257.20**, Sparkle Co. would need to per
 <a id="6-legal-considerations-requirements"></a>
 ## ⚖️ 6. Legal Considerations & Requirements
 
-The recommended setup for maximum compliance with the law with minimum liability exposure. (TBD).
+The basic recommended setup for maximum compliance with the law with minimum liability exposure. This is a work in progress.
 
-- Research information on forming a C-Corp.
 - Establish a [Limited Liability Company](https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies) (LLC) using a [registered agent](https://www.sos.nh.gov/corporations-0/registered-agents).
 - Obtain licenses and permits for NH.
 - Acquire [liability insurance](https://www.insureon.com/auto-services-business-insurance/general-liability).
 - Register a [Employer Identification Number](https://sa.www4.irs.gov/modiein/individual/index.jsp) (EIN).
+- Open banking accounts (credit union?).
 
-<a id="invoices-agreements"></a>
-### 📜 Invoices & Agreements
+<a id="agreements-invoices"></a>
+### 📜 Agreements & Invoices
 
-Sparkle Co. should ensure contracts used are comprehensive, legally sound, and tailored to New Hampshire laws. [Bonsai](https://app.hellobonsai.com) let's clients pay invoice digitally and can also be used for proposals, waivers, agreements, contracts, recurring payments etc. They even have a white label [client portal](https://www.hellobonsai.com/client-portal) that clients could log into to see progress pictures, pay a bill etc.
-
-<br>
+Contracts used should be comprehensive, legally sound, and tailored to New Hampshire laws. [Bonsai](https://app.hellobonsai.com) can be used for proposals, contracts, waivers, agreements, invoices, [client portal](https://www.hellobonsai.com/client-portal) etc.
 
 <a id="key-elements-for-service-agreement"></a>
 #### Key Elements for Service Agreement
@@ -367,17 +341,15 @@ Sparkle Co. should ensure contracts used are comprehensive, legally sound, and t
 6. **Termination Clause:** Define conditions under which either party can terminate the agreement.
 7. **Governing Law:** Indicate that the agreement is governed by the laws of New Hampshire.
 
-<br>
-
-<a id="sample-service-agreement-structure"></a>
-#### Sample Service Agreement Structure
+<a id="service-agreement-outline"></a>
+#### Service Agreement Outline
 
 ```txt
 
 Example Basic Service Agreement Outline - Full Service Detail
 
 This Service Agreement ("Agreement") is made effective as of 2025-04-01, by and between Sparkle Co. 
-("Service Provider") and Jane Doe ("Client").
+("Service Provider") and Mike's Taxi LLC. ("Client").
 
 1. Services Provided
 Service Provider agrees to perform the following services as per their full service detailing services:
@@ -409,16 +381,12 @@ Service Provider: _______________________  Date: ____________
 
 ```
 
-<br>
-
 <a id="example-digital-invoice"></a>
 #### Example Digital Invoice
 
-Here's an example invoice on Bonsai. This could be sent digitally to clients and paid and tracked online. 
+Here's an example invoice. This could be paid and tracked online.
 
-Download `.pdf`: [Google Drive](https://drive.google.com/file/d/1PouxK7RkGMKFPOm2AMSyUfHAUijep6hp/view)
-
-![Bonsai Invoice](https://i.ibb.co/Y4MsFJ0N/invoice-example.jpg)
+![Invoice Example](https://i.ibb.co/qfkQFGc/example-invoice.png)
 
 <p align="right">(<a href="#go-top">back to top</a>)</p>
 
@@ -426,57 +394,59 @@ Download `.pdf`: [Google Drive](https://drive.google.com/file/d/1PouxK7RkGMKFPOm
 
 <br>
 
+
+
 <a id="7-poor-mans-steps-to-launch"></a>
 ## 🚀 7. Poor Man's Steps to Launch
 
-Poor man's version of the steps to launch, including a basic startup list with the total cost of essential supplies.
+Poor man's version of the steps to launch, including a basic startup list and total cost of essential supplies.
 
 <a id="1-secure-initial-clients"></a>
-### **1. Secure Initial Clients**
+### 1. Secure Initial Clients
 - **Website Creation:** Build a professional website detailing services, pricing, and contact information.
-- **Customer Reviews:** Build a section for customer testimonials and reviews to build credibility and attract new clients.
-- **Social Media:** Encourage friends and family to share our services on Facebook and Facebook Marketplace to attract more customers.
-- **Personal Network:** Begin by offering detailing services to friends and family for %50 Off if the service is done at the clients location and they are willing to leave an honest review.
+- **Customer Reviews:** Add a section for customer testimonials and reviews to build credibility and attract new clients.
+- **Social Media:** Encourage friends & family to share our services on Facebook and Facebook Marketplace to attract more customers.
+- **Personal Network:** Begin by offering services to friends & family for %50 Off when service is done at the clients location and they are willing to leave an honest review.
 
 <a id="2-acquire-essential-supplies"></a>
-### **2. Acquire Essential Supplies**
-Once the first client is secured, borrow startup funds to purchase the following essential supplies:
+### 2. Acquire Essential Supplies
+Once the first client is secured, purchase the following essential supplies:
 
-| Item                     | Quantity | Price  | Link                                                                                                                                                                                                                 |
-|--------------------------|----------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Paper Towels             | 1 Pack   | $16.94 | [Bounty Paper Towels](https://www.walmart.com/ip/Bounty-BASE-Paper-Towel-2-Ply-Select-a-Size-Roll-White/14580219389?classType=REGULAR)                                                                              |
-| Reusable Towels          | 2 Packs  | $7.96  | [Microfiber Cleaning Cloths](https://www.walmart.com/ip/S-T-INC-Microfiber-Cleaning-Cloths-5-Pack-Multi-Purpose-Cloths-12-in-x-12-in-Assorted-Colors/14753763216)                                                   |
-| Glass Cleaner            | 2 Bottles| $6.96  | [Windex Original](https://www.walmart.com/ip/Windex-Original-Glass-Cleaner-23-Fluid-Ounces/122519458?classType=REGULAR&from=/search)                                                                                |
-| Interior Cleaner         | 1 Bottle | $6.47  | [Meguiar's Quick Interior Detailer](https://www.walmart.com/ip/Meguiar-s-Quik-Interior-Detailer/16550247?classType=VARIANT&from=/search)                                                                            |
-| Interior Fabric Cleaner  | 1 Bottle | $5.97  | [OxiClean Upholstery Cleaner](https://www.walmart.com/ip/OxiClean-Total-Care-Carpet-Upholstery-Cleaner-19-Fl-Oz/202783797?classType=VARIANT&athbdg=L1103&from=/search)                                              |
-| Car Shampoo              | 2 Bottles| $13.94 | [Turtle Wax Max Power](https://www.walmart.com/ip/Turtle-Wax-50597-Max-Power-3-Levels-of-Cleaning-Car-Wash-100-oz/15532605413)                                                                                      |
-| Hose                     | 1        | $19.88 | [Expandable Hose](https://www.walmart.com/ip/Platinum-Series-AquaStretch-Nylon-Expandable-Hose-Storage-Reel-50-Red-Black/198063032?fulfillmentIntent=In-store) |
-| Nozzle                   | 1        | $9.97  | [Car Wash Hose Nozzle](https://www.walmart.com/ip/Auto-Drive-Plastic-Car-Wash-Water-Hose-Nozzle-8-Pattern-Spray-Heavy-Duty-Durable-Material/892668588?fulfillmentIntent=In-store) |
-| Wash Mitt                | 1        | $5.97  | [Microfiber Chenille Mitt](https://www.walmart.com/ip/Premium-Microfiber-Chenille-Mitt-Blue/16817496?fulfillmentIntent=In-store) |
-| Drying Towels            | 1 Pack   | $9.97  | [Twisted Dry Towels](https://www.walmart.com/ip/PLAT-TWISTED-DRY-2PK/11453374742?fulfillmentIntent=In-store) |
-| Air Freshener Trees      | 4 Packs  | $11.52 | [Little Trees (Caribbean Colada)](https://www.walmart.com/ip/Little-Trees-Auto-Air-Freshener-Hanging-Card-Caribbean-Colada-Fragrance-3-Pack/169703252?fulfillmentIntent=In-store) |
+| Item                     | Quantity  | Price  | Link                                          |
+|--------------------------|-----------|--------|-----------------------------------------------|
+| Paper Towels             | 1 Pack    | $16.94 | [Bounty Paper Towels](https://www.walmart.com/ip/Bounty-BASE-Paper-Towel-2-Ply-Select-a-Size-Roll-White/14580219389?classType=REGULAR)                                                                              
+| Reusable Towels          | 2 Packs   | $7.96  | [Microfiber Cleaning Cloths](https://www.walmart.com/ip/S-T-INC-Microfiber-Cleaning-Cloths-5-Pack-Multi-Purpose-Cloths-12-in-x-12-in-Assorted-Colors/14753763216)                                                   
+| Glass Cleaner            | 2 Bottles | $6.96  | [Windex Original](https://www.walmart.com/ip/Windex-Original-Glass-Cleaner-23-Fluid-Ounces/122519458?classType=REGULAR&from=/search)                                                                                
+| Interior Cleaner         | 1 Bottle  | $6.47  | [Meguiar's Interior Detailer](https://www.walmart.com/ip/Meguiar-s-Quik-Interior-Detailer/16550247?classType=VARIANT&from=/search)                                                                            
+| Interior Fabric Cleaner  | 1 Bottle  | $5.97  | [OxiClean Upholstery Cleaner](https://www.walmart.com/ip/OxiClean-Total-Care-Carpet-Upholstery-Cleaner-19-Fl-Oz/202783797?classType=VARIANT&athbdg=L1103&from=/search)                                              
+| Car Shampoo              | 2 Bottles | $13.94 | [Turtle Wax Car Wash](https://www.walmart.com/ip/Turtle-Wax-50597-Max-Power-3-Levels-of-Cleaning-Car-Wash-100-oz/15532605413)                                                                                      
+| 50 Foot Hose             | 1 Hose    | $19.88 | [Platinum Series Hose](https://www.walmart.com/ip/Platinum-Series-AquaStretch-Nylon-Expandable-Hose-Storage-Reel-50-Red-Black/198063032?fulfillmentIntent=In-store) 
+| Car Wash Nozzle          | 1 Nozzle  | $9.97  | [Auto Drive Hose Nozzle](https://www.walmart.com/ip/Auto-Drive-Plastic-Car-Wash-Water-Hose-Nozzle-8-Pattern-Spray-Heavy-Duty-Durable-Material/892668588?fulfillmentIntent=In-store) 
+| Car Wash Mitt            | 1 Pack    | $5.97  | [Auto Drive Microfiber Mitt](https://www.walmart.com/ip/Premium-Microfiber-Chenille-Mitt-Blue/16817496?fulfillmentIntent=In-store) 
+| Car Drying Towels        | 1 Pack    | $9.97  | [Platinum Series Dry Towels](https://www.walmart.com/ip/PLAT-TWISTED-DRY-2PK/11453374742?fulfillmentIntent=In-store) 
+| Air Freshener Trees      | 4 Packs   | $11.52 | [Little Trees Air Fresheners](https://www.walmart.com/ip/Little-Trees-Auto-Air-Freshener-Hanging-Card-Caribbean-Colada-Fragrance-3-Pack/169703252?fulfillmentIntent=In-store) 
 
-**Total Estimated Cost:** $115.59
+**Total Estimated Cost: $115.55**
 
 <a id="3-execute-initial-jobs"></a>
-### **3. Execute Initial Jobs**
-- **First Job:** Complete the first detailing job and use the payment to repay the borrowed startup funds.
-- **Subsequent Clients:** Continue servicing new clients, reinvesting earnings into the business to sustain operations and purchase additional supplies as needed.
+### 3. Execute Initial Jobs
+- **First Job:** Complete the first detailing job and use the payment to repay any borrowed startup funds.
+- **Subsequent Clients:** Continue servicing new clients, reinvesting earnings back into the business to sustain operations and purchase additional supplies as needed.
 
 <a id="4-establish-a-private-location"></a>
-### **4. Establish a Private Location**
+### 4. Establish a Private Location
 - **On-Site Detailing:** At first, offer mobile detailing services by traveling to clients' locations, utilizing their water and electricity resources.
-- **Private Location:** After up and running, arrange a safe, private garage space to perform detailing services, ensuring it's not publicly advertised to maintain privacy and security.
+- **Private Location:** After gaining some traction, arrange a safe, private space to perform services, ensuring it's not publicly advertised to maintain privacy and security.
 
 <a id="5-implement-promotional-strategies"></a>
-### **5. Implement Promotional Strategies**
+### 5. Implement Promotional Strategies
 - **Introductory Offers:** Provide discounted services to friends and family in exchange for honest online reviews.
 - **Referral Program:** Encourage satisfied clients to refer others by offering discounts on future services for each successful referral.
 - **Social Media Marketing:** Post before-and-after photos of detailed cars, run limited-time promotions, and engage with potential customers online.
 - **Community Engagement:** Attend local car meetups, collaborate with small businesses, and distribute business cards to increase visibility.
 
 <a id="6-register-the-business-scale-up"></a>
-### **6. Register the Business & Scale Up**
+### 6. Register the Business & Scale Up
 - **Legal Registration:** After gaining traction, register the business as an LLC and obtain necessary permits.
 - **Open Business Accounts:** Set up a business bank account and a separate payment processing system for easier financial tracking.
 - **Expand Services:** Gradually introduce premium detailing services, such as ceramic coatings, paint correction, and mobile maintenance plans.
