@@ -1,4 +1,4 @@
-<h1 style="font-size: 1.8em;">✨Sparkle Co.✨</h1>
+<h1 id="title" style="font-size: 1.8em;">✨Sparkle Co.✨</h1>
 
 Premium Auto Detailing - Family-Owned & Operated
 
@@ -8,13 +8,13 @@ Premium Auto Detailing - Family-Owned & Operated
 
 
 
-<h2 style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
+<h2 id="attention-family-and-friends" style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
 
-Your favorite family/friends are starting a premium car detailing business and we need your help! 
+Your favorite family/friends are launching a premium car detailing business and **we need your help**!
 
-Support us and help kick start our company by <a href="#contact-us" title="contact us">booking your appointment</a> today and for a limited time take advantage of our <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a>!
+Contribute to Sparkle Co.'s success and simultaneously help teach Alexa and Liam about hard work by <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> and also take advantage of our <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a>!
 
-Be a part of our journey!
+This pricing model is only **available for a limited time**!
 
 ---
 
@@ -24,7 +24,7 @@ Be a part of our journey!
 
 
 
-<h2 style="font-size: 1.5em;">🏢 About Sparkle Co.</h2>
+<h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About Sparkle Co.</h2>
 
 At Sparkle Co., we believe in treating every customer like family and your satisfaction is top priority. With the most motivated and professional staff in the auto detailing industry, we ensure that every vehicle gets top-notch care. Whether it's a daily driver or a luxury sports car we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash approach to bring out the best in your vehicle.
 
@@ -40,7 +40,7 @@ Sparkle Co. is your trusted partner in premium automotive detailing. We take pri
 
 
 
-<h2 style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
+<h2 id="family-owned-and-operated" style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
 Sparkle Co. is a family-run car wash and detailing service looking to kick start and launch in April 2025. We want to build a business and more importantly we want to teach the children about the value of hard work, the economy, customer service, and managing a business. But in order to get this venture off the ground, we need your support!
 
@@ -58,7 +58,7 @@ Your support means everything to our success!
 
 
 
-<h2 style="font-size: 1.5em;">🏆 Why Choose Us?</h2>
+<h2 id="why-choose-us" style="font-size: 1.5em;">🏆 Why Choose Us?</h2>
 - **Family-Owned & Operated** – We treat every car with personal and professional care.
 - **Premium Quality Products** – Only the best products are used on your vehicle.
 - **Experienced Professionals** – Passionate and motivated experts who continuously learn.
@@ -72,7 +72,7 @@ Your support means everything to our success!
 
 
 
-<h2 style="font-size: 1.5em;">⭐ Client Reviews</h2>
+<h2 id="client-reviews" style="font-size: 1.5em;">⭐ Client Reviews</h2>
 
 Leave your review [here!](https://form.jotform.com/250898871937175)
 
@@ -87,7 +87,8 @@ Leave your review [here!](https://form.jotform.com/250898871937175)
 
 
 
-<h2 style="font-size: 1.5em;">📷 Before & After</h2>
+
+<h2 id="before-and-after" style="font-size: 1.5em;">📷 Before & After</h2>
 
 Recent before and after photos.
 
@@ -103,9 +104,9 @@ Recent before and after photos.
 
 
 
-<h2 style="font-size: 1.5em;">💵 Family & Friends Promotion</h2>
+<h2 id="family-friends-service-pricing" style="font-size: 1.5em;">💵 Family & Friends Promotion</h2>
 
-<h3 style="font-size: 1.2em;">💲Pricing</h3>
+<h3 id="pricing" style="font-size: 1.2em;">💲Pricing</h3>
 
 | Service         | Car           | SUV           | Truck (2dr)   | Truck (4dr)   |
 |-----------------|--------------|--------------|--------------|--------------|
@@ -114,7 +115,7 @@ Recent before and after photos.
 | Exterior        | ~~$150~~ $75  | ~~$200~~ $100 | ~~$200~~ $100 | ~~$200~~ $100 |
 | Ceramic Coating | ~~$550~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) |
 
-<h3 style="font-size: 1.2em;">🧰Included Services</h3>
+<h3 id="included-services" style="font-size: 1.2em;">🧰Included Services</h3>
 
 | Service         | Included Services                                                                                   |
 |-----------------|-----------------------------------------------------------------------------------------------------|
@@ -133,7 +134,7 @@ Recent before and after photos.
 
 
 
-<h2 style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
+<h2 id="e-gift-cards" style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
 
 Can't commit to an appointment right now but want to support Sparkle Co.'s success? 
 
@@ -150,7 +151,8 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
 
 
 
-<h2 style="font-size: 1.5em;">📆 Availability</h2>
+
+<h2 id="availability" style="font-size: 1.5em;">📆 Availability</h2>
 
 Sparkle Co.'s upcoming availability:
 
@@ -190,7 +192,7 @@ Sparkle Co.'s upcoming availability:
 
 
 
-<h2 style="font-size: 1.5em;">📞 Contact Us</h2>
+<h2 id="contact-us" style="font-size: 1.5em;">📞 Contact Us</h2>
 
 📆 **Call**, **text** or **email** to schedule your detailing appointment today!
 
@@ -206,7 +208,7 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
-<h2 style="font-size: 1.5em;">❔ F.A.Q.</h2>
+<h2 id="faq" style="font-size: 1.5em;">❔ F.A.Q.</h2>
 
 <details>
   <summary><strong>What services does Sparkle Co. offer?</strong></summary>
@@ -335,20 +337,20 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
-<h2 style="font-size: 1.5em;">🧭 Roadmap</h2>
+<h2 id="roadmap" style="font-size: 1.5em;">🧭 Roadmap</h2>
 
-<h3 style="font-size: 1.2em;">🚀 Launch Phase (Current)</h3>
+<h3 id="launch-phase-current" style="font-size: 1.2em;">🚀 Launch Phase (Current)</h3>
 
 - **Step 1:** Gather basic supplies for mobile detailing
 - **Step 2:** Offer discounted services to friends & family in exchange for reviews
 
-<h3 style="font-size: 1.2em;">📈 Growth Phase</h3>
+<h3 id="growth-phase" style="font-size: 1.2em;">📈 Growth Phase</h3>
 
 - **Step 3:** Build a website with pricing, service info, and customer reviews
 - **Step 4:** Expand marketing efforts (social media, local SEO, flyers)
 - **Step 5:** Secure a steady customer base with repeat clients and referrals
 
-<h3 style="font-size: 1.2em;">🏢 Scale Phase</h3>
+<h3 id="scale-phase" style="font-size: 1.2em;">🏢 Scale Phase</h3>
 
 - **Step 6:** Offer additional services and secure a physical location
 
@@ -360,8 +362,7 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
-
-<h2 style="font-size: 1.5em;">💰 Payment Methods Accepted</h2>
+<h2 id="payment-methods-accepted" style="font-size: 1.5em;">💰 Payment Methods Accepted</h2>
 
 We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for services.
 
@@ -385,10 +386,15 @@ Bitcoin:
 <br>
 
 
+
+
 <img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Main Sparkle Co. Logo Image Example 1" style="width:100%;">
+
+---
 
 <br>
 <br>
+
 
 
 
@@ -402,6 +408,8 @@ Bitcoin:
   <br>
   <small>© 2025 ✨Sparkle Co.✨</small>
 </div>
+
+---
 
 <br>
 <br>
