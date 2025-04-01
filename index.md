@@ -9,7 +9,7 @@ Premium Auto Detailing - Family-Owned & Operated
 
 
 
-## 📢 Attention Friends & Family!
+## 📢 Attention Family & Friends!
 
 Your favorite family/friends are starting a premium car detailing business and we need your help! 
 
@@ -184,9 +184,9 @@ Sparkle Co.'s upcoming availability:
 
 📆 **Call**, **text** or **email** to schedule your detailing appointment today!
 
-PHONE: <a href="tel:+16032644801" title="Call Sparkle Co." style="font-size:1.5em;"><strong>603-264-4801</strong></a>
+PHONE: <a href="tel:+16032644801" title="Call Sparkle Co."><strong>603-264-4801</strong></a>
 
-EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co." style="font-size:1.5em;"><strong>sparklecoautodetailing\@gmail.com</strong></a>
+EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co."><strong>sparklecoautodetailing@gmail.com</strong></a>
 
 ---
 
