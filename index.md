@@ -1,6 +1,6 @@
 <!-- Example Basic Business Plan for Automotive Detailing Company -->
 
-# ✨Sparkle Co. - Auto Detailing
+# ✨Sparkle Co. - Premium Auto Detailing
 
 Family Owned & Operated
 
@@ -354,10 +354,10 @@ This Service Agreement ("Agreement") is made effective as of 2025-04-01, by and 
 1. Services Provided
 Service Provider agrees to perform the following services as per their full service detailing services:
 - Interior: all surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and 
-  protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, 
-  trunk cleaned.
+protected, cloth seats shampooed, leather seats cleaned and conditioned, headliner stains removed, 
+trunk cleaned.
 - Exterior: car wash using two-bucket method, decontamination with Iron-X and clay bar, one-step 
-  polish and wax.
+polish and wax.
 
 2. Payment
 Client agrees to pay Service Provider $350 for the services. Payment is due upon completion of service.
