@@ -1,4 +1,4 @@
-# ✨Sparkle Co.✨
+<h1 style="font-size: 1.8em;">✨Sparkle Co.✨</h1>
 
 Premium Auto Detailing - Family-Owned & Operated
 
@@ -8,8 +8,7 @@ Premium Auto Detailing - Family-Owned & Operated
 
 
 
-
-## 📢 Attention Family & Friends!
+<h2 style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
 
 Your favorite family/friends are starting a premium car detailing business and we need your help! 
 
@@ -25,7 +24,7 @@ Be a part of our journey!
 
 
 
-## 🏢 About Sparkle Co.
+<h2 style="font-size: 1.5em;">🏢 About Sparkle Co.</h2>
 
 At Sparkle Co., we believe in treating every customer like family and your satisfaction is top priority. With the most motivated and professional staff in the auto detailing industry, we ensure that every vehicle gets top-notch care. Whether it's a daily driver or a luxury sports car we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash approach to bring out the best in your vehicle.
 
@@ -41,7 +40,7 @@ Sparkle Co. is your trusted partner in premium automotive detailing. We take pri
 
 
 
-## 👪 Family Owned & Operated
+<h2 style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
 Sparkle Co. is a family-run car wash and detailing service looking to kick start and launch in April 2025. We want to build a business and more importantly we want to teach the children about the value of hard work, the economy, customer service, and managing a business. But in order to get this venture off the ground, we need your support!
 
@@ -59,7 +58,7 @@ Your support means everything to our success!
 
 
 
-## 🏆 Why Choose Us?
+<h2 style="font-size: 1.5em;">🏆 Why Choose Us?</h2>
 - **Family-Owned & Operated** – We treat every car with personal and professional care.
 - **Premium Quality Products** – Only the best products are used on your vehicle.
 - **Experienced Professionals** – Passionate and motivated experts who continuously learn.
@@ -73,13 +72,13 @@ Your support means everything to our success!
 
 
 
-## ⭐ Client Reviews
+<h2 style="font-size: 1.5em;">⭐ Client Reviews</h2>
 
 Leave your review [here!](https://form.jotform.com/250898871937175)
 
-⭐⭐⭐⭐⭐ "Absolutely amazing service! My car looks brand new. Highly recommended!" - Brittany, (Nashua, NH) <br>
-⭐⭐⭐⭐⭐ "Best detailing shop around. They truly care about their clients." – Eric, (Manchester, NH) <br>
-⭐⭐⭐⭐⭐ "Incredible attention to detail. Worth every penny!" - Jennifer, (Amherst, NH) <br>
+⭐⭐⭐⭐⭐ - Justin, (Nashua, NH) <br> "Amazing service! My car looks brand new. Highly recommended!" <br><br>
+⭐⭐⭐⭐⭐ - Ashley, (Manchester, NH) <br> "Best detailing services around. They care about their clients." <br><br>
+⭐⭐⭐⭐⭐ - Mike, (Amherst, NH) <br> "Incredible attention to detail. Will use this service again next time!" <br>
 
 ---
 
@@ -88,7 +87,7 @@ Leave your review [here!](https://form.jotform.com/250898871937175)
 
 
 
-## 📷 Before & After
+<h2 style="font-size: 1.5em;">📷 Before & After</h2>
 
 Recent before and after photos.
 
@@ -104,14 +103,25 @@ Recent before and after photos.
 
 
 
-## 💵 Family & Friends Service Pricing
+<h2 style="font-size: 1.5em;">💵 Family & Friends Promotion</h2>
 
-| Service         | Car           | SUV           | Truck (2dr)   | Truck (4dr)   | Included Services
-|-----------------|---------------|---------------|---------------|---------------|---------------------------------------------------------|
-| Full            | ~~$250~~ $125 | ~~$300~~ $150 | ~~$250~~ $125 | ~~$300~~ $150 | Interior & Exterior Services combined. 
-| Interior        | ~~$150~~ $75  | ~~$200~~ $100 | ~~$100~~ $50  | ~~$200~~ $100 | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats cleaned, leather seats cleaned, headliner cleaned, trunk cleaned.
-| Exterior        | ~~$150~~ $75  | ~~$200~~ $100 | ~~$200~~ $100 | ~~$200~~ $100 | Car wash using two-bucket method, one-step polish and wax.
-| Ceramic Coating | ~~$550~~ <a href="#contact-us" title="contact us">ask</a>  | ~~$650~~ <a href="#contact-us" title="contact us">ask</a>  | ~~$650~~ <a href="#contact-us" title="contact us">ask</a>  | ~~$650~~ <a href="#contact-us" title="contact us">ask</a>  | 1 Layer of Ceramic Coating, professional hand wash, clay bar treatment, high gloss polish.
+<h3 style="font-size: 1.2em;">💲Pricing</h3>
+
+| Service         | Car           | SUV           | Truck (2dr)   | Truck (4dr)   |
+|-----------------|--------------|--------------|--------------|--------------|
+| Full            | ~~$250~~ $125 | ~~$300~~ $150 | ~~$250~~ $125 | ~~$300~~ $150 |
+| Interior        | ~~$150~~ $75  | ~~$200~~ $100 | ~~$100~~ $50  | ~~$200~~ $100 |
+| Exterior        | ~~$150~~ $75  | ~~$200~~ $100 | ~~$200~~ $100 | ~~$200~~ $100 |
+| Ceramic Coating | ~~$550~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) | ~~$650~~ [ask](#contact-us) |
+
+<h3 style="font-size: 1.2em;">🧰Included Services</h3>
+
+| Service         | Included Services                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------------------------|
+| Full            | Interior & Exterior Services combined.
+| Interior        | Interior surfaces deep cleaned, glass cleaned inside & out, interior plastics cleaned and protected, cloth seats cleaned, leather seats cleaned, headliner cleaned, trunk cleaned.
+| Exterior        | Car wash using two-bucket method, one-step polish and wax.
+| Ceramic Coating | 1 Layer of Ceramic Coating, professional hand wash, clay bar treatment, high gloss polish.
 
 🚗 **Membership plans with exclusive discounts coming soon!**
 
@@ -123,7 +133,7 @@ Recent before and after photos.
 
 
 
-## 🎁 E-Gift Cards
+<h2 style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
 
 Can't commit to an appointment right now but want to support Sparkle Co.'s success? 
 
@@ -140,7 +150,7 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
 
 
 
-## 📆 Availability
+<h2 style="font-size: 1.5em;">📆 Availability</h2>
 
 Sparkle Co.'s upcoming availability:
 
@@ -180,7 +190,7 @@ Sparkle Co.'s upcoming availability:
 
 
 
-## 📞 Contact Us
+<h2 style="font-size: 1.5em;">📞 Contact Us</h2>
 
 📆 **Call**, **text** or **email** to schedule your detailing appointment today!
 
@@ -196,7 +206,7 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
-## ❔ F.A.Q.
+<h2 style="font-size: 1.5em;">❔ F.A.Q.</h2>
 
 <details>
   <summary><strong>What services does Sparkle Co. offer?</strong></summary>
@@ -325,19 +335,21 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
+<h2 style="font-size: 1.5em;">🧭 Roadmap</h2>
 
-## 🧭 Roadmap
+<h3 style="font-size: 1.2em;">🚀 Launch Phase (Current)</h3>
 
-### 🚀 Launch Phase (April 2025)
 - **Step 1:** Gather basic supplies for mobile detailing
 - **Step 2:** Offer discounted services to friends & family in exchange for reviews
-- **Step 3:** Build a website with pricing, service info, and customer reviews
 
-### 📈 Growth Phase
+<h3 style="font-size: 1.2em;">📈 Growth Phase</h3>
+
+- **Step 3:** Build a website with pricing, service info, and customer reviews
 - **Step 4:** Expand marketing efforts (social media, local SEO, flyers)
 - **Step 5:** Secure a steady customer base with repeat clients and referrals
 
-### 🏢 Scale Phase
+<h3 style="font-size: 1.2em;">🏢 Scale Phase</h3>
+
 - **Step 6:** Offer additional services and secure a physical location
 
 ---
@@ -349,7 +361,7 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 
 
-## 💰 Payment Methods Accepted
+<h2 style="font-size: 1.5em;">💰 Payment Methods Accepted</h2>
 
 We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for services.
 
@@ -388,7 +400,7 @@ Bitcoin:
     </a>
   </small>
   <br>
-  <small>© 2025 ✨Sparkle Co.</small>
+  <small>© 2025 ✨Sparkle Co.✨</small>
 </div>
 
 <br>
