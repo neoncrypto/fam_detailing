@@ -1,3 +1,5 @@
 # https://stackoverflow.com/questions/46375765/how-do-you-remove-header-on-github-pages
 name: sparkle co family detailing
 title: null
+kramdown:
+  parse_block_html: true

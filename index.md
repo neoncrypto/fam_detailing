@@ -14,7 +14,7 @@ Your **favorite** family/friends are launching a premium car detailing service a
 
 To effectively launch our business we are offering <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a> for a **limited time**!
 
-Contribute to Sparkle Co.'s success and simultaneously help to educate Alexa and Liam on valuable life skills by simply <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
+Contribute to Sparkle Co.'s success and simultaneously help educate the helpers on valuable life skills by <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
 
 🎉 **Be part of the Sparkle Co. success story!**
 
@@ -28,17 +28,15 @@ Contribute to Sparkle Co.'s success and simultaneously help to educate Alexa and
 
 <h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About ✨Sparkle Co.✨</h2>
 
-At ✨Sparkle Co.✨, we believe in treating every customer like family and your satisfaction is **top priority**!
-<br>
-<br>
-We the most motivated and professional staff in the auto detailing industry (Alexa & Liam)! Rest assured that every vehicle gets top-notch care!
-<br>
-<br>
-Whether it's a daily driver, or a luxury sports car, we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash technique that brings out the best in your vehicle.
+✨Sparkle Co.✨, believes in treating every customer like family and satisfaction is **top priority**!
+
+We have the best helpers in the auto detailing industry! Rest assured that every vehicle gets top-notch care!
+
+Whether a daily driver, a luxury sports car, or a small truck, we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash technique that brings out the best in your vehicle.
 
 Sparkle Co. is your trusted service for premium automotive detailing. We take pride in delivering exceptional service and treating every vehicle as if it were our own.
 
-🚀 **We don’t just clean cars—we make them ✨Sparkle!**
+🚀 **We don’t just clean cars—we make them ✨Sparkle✨!**
 
 ---
 
@@ -50,10 +48,9 @@ Sparkle Co. is your trusted service for premium automotive detailing. We take pr
 
 <h2 id="family-owned-and-operated" style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
-Sparkle Co. is a family-run automotive detailing service looking to kick start and fully launch in April of 2025. We want to build a small business but more importantly we want to teach our children about the value of hard work, economy, customer service, and managing a business. 
-<br>
-<br>
-In order to get this venture off the ground, **we need your support!**
+**✨Sparkle Co.✨** is a family-run automotive detailing service idea/startup looking to fully launch in **April, 2025**. We want to build a business but more importantly we want to teach our helpers about the value of hard work, the economy, customer service, and managing a business. Valuable skills that will surely **pay off for a lifetime!** 
+
+But, in order to get this venture off the ground, **WE NEED YOUR SUPPORT!**
 <br>
 <br>
 We are temporarily offering our clients <a href="#family-friends-service-pricing" title="Family and Friends Pricing">gigantic discounts</a> in exchange for an [honest review!](https://form.jotform.com/250898871937175)
@@ -148,7 +145,7 @@ Recent before and after photos.
 
 <h2 id="e-gift-cards" style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
 
-Can't commit to an appointment right now but want to support Sparkle Co.'s success? 
+Can't commit to an appointment right now but want to support **✨Sparkle Co.✨**'s success? 
 
 Purchase an **E-Gift Card** and book your appointment later at your own convenience! 
 
@@ -163,10 +160,9 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
 
 
 
-
 <h2 id="availability" style="font-size: 1.5em;">📆 Availability</h2>
 
-Sparkle Co.'s upcoming availability:
+**✨Sparkle Co.✨**'s upcoming availability:
 
 <table>
   <thead>
@@ -207,6 +203,9 @@ Sparkle Co.'s upcoming availability:
 <h2 id="contact-us" style="font-size: 1.5em;">📞 Contact Us</h2>
 
 📆 **Call**, **text** or **email** to schedule your detailing appointment today!
+
+<iframe src="https://form.jotform.com/250907652442154" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+
 
 PHONE: <a href="tel:+16032644801" title="Call Sparkle Co."><strong>603-264-4801</strong></a>
 
