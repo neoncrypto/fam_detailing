@@ -10,11 +10,13 @@ Premium Auto Detailing - Family-Owned & Operated
 
 <h2 id="attention-family-and-friends" style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
 
-Your favorite family/friends are launching a premium car detailing business and **we need your help**!
+Your **favorite** family/friends are launching a premium car detailing service and **we need your help**!
 
-Contribute to Sparkle Co.'s success and simultaneously help teach Alexa and Liam about hard work by <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> and also take advantage of our <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a>!
+To effectively launch our business we are offering <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a> for a **limited time**!
 
-This pricing model is only **available for a limited time**!
+Contribute to Sparkle Co.'s success and simultaneously help to educate Alexa and Liam on valuable life skills by simply <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
+
+🎉 **Be part of the Sparkle Co. success story!**
 
 ---
 
@@ -24,13 +26,19 @@ This pricing model is only **available for a limited time**!
 
 
 
-<h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About Sparkle Co.</h2>
+<h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About ✨Sparkle Co.✨</h2>
 
-At Sparkle Co., we believe in treating every customer like family and your satisfaction is top priority. With the most motivated and professional staff in the auto detailing industry, we ensure that every vehicle gets top-notch care. Whether it's a daily driver or a luxury sports car we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash approach to bring out the best in your vehicle.
+At ✨Sparkle Co.✨, we believe in treating every customer like family and your satisfaction is **top priority**!
+<br>
+<br>
+We the most motivated and professional staff in the auto detailing industry (Alexa & Liam)! Rest assured that every vehicle gets top-notch care!
+<br>
+<br>
+Whether it's a daily driver, or a luxury sports car, we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash technique that brings out the best in your vehicle.
 
-Sparkle Co. is your trusted partner in premium automotive detailing. We take pride in delivering exceptional service and treating every vehicle as if it were our own.
+Sparkle Co. is your trusted service for premium automotive detailing. We take pride in delivering exceptional service and treating every vehicle as if it were our own.
 
-🚀 **We don’t just clean cars—we restore brilliance.**
+🚀 **We don’t just clean cars—we make them ✨Sparkle!**
 
 ---
 
@@ -42,13 +50,17 @@ Sparkle Co. is your trusted partner in premium automotive detailing. We take pri
 
 <h2 id="family-owned-and-operated" style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
-Sparkle Co. is a family-run car wash and detailing service looking to kick start and launch in April 2025. We want to build a business and more importantly we want to teach the children about the value of hard work, the economy, customer service, and managing a business. But in order to get this venture off the ground, we need your support!
+Sparkle Co. is a family-run automotive detailing service looking to kick start and fully launch in April of 2025. We want to build a small business but more importantly we want to teach our children about the value of hard work, economy, customer service, and managing a business. 
+<br>
+<br>
+In order to get this venture off the ground, **we need your support!**
+<br>
+<br>
+We are temporarily offering our clients <a href="#family-friends-service-pricing" title="Family and Friends Pricing">gigantic discounts</a> in exchange for an [honest review!](https://form.jotform.com/250898871937175)
 
-To help kick start our company we are temporarily offering our first clients <a href="#family-friends-service-pricing" title="Family and Friends Pricing">gigantic discounts</a> in exchange for an [honest review!](https://form.jotform.com/250898871937175)
+Revenue raised by offering these discounts will <a href="#roadmap" title="Sparkle Co. Roadmap">go towards</a> supplies, building our reputation and launching our official website.
 
-Revenue raised through offering these discounts will <a href="#roadmap" title="Sparkle Co. Roadmap">go towards</a> supplies, building our reputation and launching our official website.
-
-Your support means everything to our success!
+❗**Your support means everything to our success!**
 
 ---
 
@@ -300,19 +312,25 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 <details>
   <summary><strong>What payment methods do you accept?</strong></summary>
   <br>
-  We accept various <a href="#payment-methods-accepted" title="Sparkle Co. Payment Methods Link">payment methods</a> including <strong>Cash</strong>, <strong>Venmo</strong>, and <strong>Cryptocurrency</strong>. Please <a href="#contact-us" title="contact us">contact us</a> for more details or alternate payment options. 
+  We accept various <a href="#payment-methods-accepted" title="Sparkle Co. Payment Methods Link">payment methods</a> including <strong>Cash</strong>, <strong>Venmo</strong>, and <strong>Cryptocurrency</strong>. 
   <br>
   <br>
-  You can scan the following QR Codes to pay: 
+  Please <a href="#contact-us" title="contact us">contact us</a> for more details or alternate payment options. 
   <br>
   <br>
-  Venmo: 
-  <br> 
-  <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo Logo" style="width:150px;">
+  <strong>Venmo:</strong>
   <br>
-  Bitcoin: 
   <br>
-  <img src="https://i.ibb.co/JRLSSYjS/btc-qr-code.png" alt="Venmo Logo" style="width:150px;">
+  <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
+  <br>
+  <br>
+  <strong>Bitcoin:</strong>
+  <br>
+  <br>
+  bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
+  <br>
+  <br>
+  <img src="https://i.ibb.co/Fqnkc46R/bt.png" alt="Bitcoin QR Code" style="width:150px;">
   <br>
   <br>
 </details>
@@ -320,7 +338,12 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 <details>
   <summary><strong>Where is Sparkle Co. located?</strong></summary>
   <br>
-  Sparkle Co. is a family-owned and operated business that currently services New England by traveling to customer's location's. As soon as Sparkle Co. is launched we will work on offering a private and safe shop location for convenience. For specific details or service areas, please <a href="#contact-us" title="contact us">contact us</a> directly. <br><br>
+  Until after launch, Sparkle Co. only services New England by traveling to customer's location's. As soon as Sparkle Co. is up and running we will offer a private and safe shop location for clients convenience. 
+  <br>
+  <br>
+  For specific details or service areas, please <a href="#contact-us" title="contact us">contact us</a> directly. 
+  <br>
+  <br>
 </details>
 
 <details>
@@ -342,7 +365,7 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 <h3 id="launch-phase-current" style="font-size: 1.2em;">🚀 Launch Phase (Current)</h3>
 
 - **Step 1:** Gather basic supplies for mobile detailing
-- **Step 2:** Offer discounted services to friends & family in exchange for reviews
+- **Step 2:** Offer discounted services to friends & family in exchange for **honest** reviews
 
 <h3 id="growth-phase" style="font-size: 1.2em;">📈 Growth Phase</h3>
 
@@ -372,13 +395,15 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
 
 Scan the QR codes to pay:
 
-Venmo:
+**Venmo**:
 
-<img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo Logo" style="width:150px;">
+<img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
 
-Bitcoin:
+**Bitcoin:**:
 
-<img src="https://i.ibb.co/JRLSSYjS/btc-qr-code.png" alt="Venmo Logo" style="width:150px;">
+bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
+
+<img src="https://i.ibb.co/Fqnkc46R/bt.png" alt="Bitcoin QR Code" style="width:150px;">
 
 ---
 
