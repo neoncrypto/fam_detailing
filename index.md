@@ -4,7 +4,9 @@
 
 Family Owned & Operated
 
-<img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Main Sparkle Co. Logo Image" style="width:100%;max-width:600px;">
+<img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Main Sparkle Co. Logo Image Example 1" style="width:100%;max-width:600px;">
+
+<img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Main Sparkle Co. Logo Image Example 2" style="width:100%;max-width:600px;">
 
 <!---------------------------| SUMMARY |--------------------------->
 ## ⓘ Summary
