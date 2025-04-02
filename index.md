@@ -355,7 +355,6 @@ Booked times cannot be considered for appointments and are displayed for your pl
 |  | Contact Info |
 |----------------|--------------|
 | 📢 **Message**     | [Contact Us Form](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") |
-| 📱 **Call/Text** | [603-264-4801](tel:+16032644801 "Sparkle Co. Phone")                                      |
 | 📧 **Email**       | [sparklecoautodetailing@gmail.com](mailto:sparklecoautodetailing@gmail.com?subject=Auto%20Detailing%20Appointment "Auto Detailing Appointment Email") |
 
 
@@ -552,10 +551,6 @@ bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
       <tr>
         <td><strong>📢 Message</strong></td>
         <td><a href="https://form.jotform.com/250907652442154" title="Sparkle Co. Contact Form Link">Contact Us Form</a></td>
-      </tr>
-      <tr>
-        <td><strong>📱 Call/Text</strong></td>
-        <td><a href="tel:+16032644801" title="Sparkle Co. Phone">603-264-4801</a></td>
       </tr>
       <tr>
         <td><strong>📧 Email</strong></td>
