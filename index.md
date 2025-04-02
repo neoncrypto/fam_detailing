@@ -2,7 +2,7 @@
 
 Premium Auto Detailing - Family-Owned & Operated
 
-<img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Main Sparkle Co. Logo" style="width:100%;">
+<img src="https://i.ibb.co/8LPYGcnX/sparkle-co-logo-11.jpg" alt="Main Sparkle Co. Logo" style="width:100%;">
 
 <br>
 
@@ -14,7 +14,7 @@ Your **favorite** family/friends are launching a premium car detailing service a
 
 To effectively launch our business we are offering <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a> for a **limited time**!
 
-Contribute to Sparkle Co.'s success and simultaneously help educate the helpers on valuable life skills by <a href="#contact-us" title="contact us">booking an appointment</a> or <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
+Contribute to Sparkle Co.'s success and simultaneously help educate the helpers on valuable life skills by <a href="#contact-us" title="contact us">booking an appointment</a> or by <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
 
 🎉 **Be part of the Sparkle Co. success story!**
 
@@ -48,7 +48,9 @@ Sparkle Co. is your trusted service for premium automotive detailing. We take pr
 
 <h2 id="family-owned-and-operated" style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
-**✨Sparkle Co.✨** is a family-run automotive detailing service startup that is looking to fully launch in **April, 2025**. We want to build a business but more importantly we want to teach our helpers about the value of **hard work**, the **economy**, **customer service**, and **managing a business**. Valuable skills that will surely **pay off for a lifetime!**
+**✨Sparkle Co.✨** is a family-run automotive detailing service startup that is looking to fully launch in **April, 2025**. Not only do we want to build a business, but more importantly, we want to teach our helpers about the value of **hard work**, the **economy**, **customer service**, and **managing a business**. 
+
+Valuable skills that will surely **pay off for a lifetime!**
 
 ---
 
@@ -201,6 +203,8 @@ If ANY spots are still open then availability is marked <span style="color:limeg
 
 Booked times cannot be considered for appointments and are displayed for your planning convenience.
 
+Online scheduling coming soon!
+
 <table>
   <thead>
     <tr>
@@ -232,6 +236,8 @@ Booked times cannot be considered for appointments and are displayed for your pl
   </tbody>
 </table>
 
+<small>\*if weather becomes an issue, clients get unlimited re-schedules to open date/time slots.</small>
+
 ---
 
 <br>
@@ -243,13 +249,13 @@ Booked times cannot be considered for appointments and are displayed for your pl
 
 <h2 id="contact-us" style="font-size: 1.5em;">📞 Contact Us</h2>
 
-📆 **Call**, **text** or **email** to schedule your detailing appointment today!
+📆 **Call**, **text** or **email** to **schedule an appointment**, **buy an E-Gift Card** or to **ask us a question** today!
 
-MESSAGE: <a href="https://form.jotform.com/250907652442154" title="Sparkle Co. Contact Us Form Link"><strong>Contact Us</strong></a>
+📢 <a href="https://form.jotform.com/250907652442154" title="Sparkle Co. Contact Us Form Link"><strong>Contact Us</strong></a>
 
-PHONE: <a href="tel:+16032644801" title="Call Sparkle Co."><strong>603-264-4801</strong></a>
+📱 <a href="tel:+16032644801" title="Call Sparkle Co. Link"><strong>603-264-4801</strong></a>
 
-EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co."><strong>sparklecoautodetailing@gmail.com</strong></a>
+📧 <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co. Link"><strong>sparklecoautodetailing@gmail.com</strong></a>
 
 ---
 
@@ -452,8 +458,11 @@ bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
 
 
 
+<img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;">
 
-<img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Main Sparkle Co. Logo Image Example 1" style="width:100%;">
+<img src="https://i.ibb.co/PsD9bRys/sparkle-co-logo-6.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;">
+
+<img src="https://i.ibb.co/Q7GtFhHm/sparkle-co-logo-7.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;">
 
 ---
 
