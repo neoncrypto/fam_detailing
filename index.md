@@ -110,6 +110,8 @@ Take advantage of the discounts and **show your support!**
 
 <h3 id="pricing" style="font-size: 1.2em;">💲Pricing</h3>
 
+Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
+
 <!-- -------------------------------------------------------------------------------------------------------------------
 ```python
 #!/usr/bin/env python
@@ -175,7 +177,7 @@ plt.show()
 
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
 
-| **Service**               | **Car (Sedan/Coupe)** | **SUV (5-Seater)** | **Truck (2dr)** | **Truck (4dr/XL SUV)** |
+| **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
 |---------------------------|-----------------------|--------------------|-----------------|------------------------|
 | **Express Full Service**  | **$99**  _(<span style="color:green;font-weight:600;">$69</span>)_  | **$119** _(<span style="color:green;font-weight:600;">$89</span>)_    | **$109** _(<span style="color:green;font-weight:600;">$79</span>)_    | **$129** _(<span style="color:green;font-weight:600;">$99</span>)_ |
 | **Full Detail**           | **$255** _(<span style="color:green;font-weight:600;">$175</span>)_ | **$300** _(<span style="color:green;font-weight:600;">$200</span>)_   | **$350** _(<span style="color:green;font-weight:600;">$225</span>)_   | **$395** _(<span style="color:green;font-weight:600;">$275</span>)_ |
