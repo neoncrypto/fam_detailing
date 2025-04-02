@@ -203,7 +203,7 @@ plt.show()
 
 <h3 id="average-pricing" style="font-size: 1.2em;">💲Average Pricing</h3>
 
-Here is the average pricing for automotive detailing services based on four random companies local to New Hampshire.
+For comparison, here is the average pricing for automotive detailing services based on four random companies local to New Hampshire.
 
 <!-- -------------------------------------------------------------------------------------------------------------------
 
