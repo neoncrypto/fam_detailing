@@ -204,8 +204,7 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
 
 📆 **Call**, **text** or **email** to schedule your detailing appointment today!
 
-<iframe src="https://form.jotform.com/250907652442154" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
-
+MESSAGE: <a href="https://form.jotform.com/250907652442154" title="Sparkle Co. Contact Us Form Link"><strong>Contact Us</strong></a>
 
 PHONE: <a href="tel:+16032644801" title="Call Sparkle Co."><strong>603-264-4801</strong></a>
 
@@ -223,7 +222,6 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 
 <details>
   <summary><strong>What services does Sparkle Co. offer?</strong></summary>
-  <br>
   <table>
     <tbody>
       <tr>
@@ -245,10 +243,8 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
     </tbody>
   </table>
 </details>
-
 <details>
   <summary><strong>What are the current service prices?</strong></summary>
-  <br>
   As part of our family and friends kick start promotion, we are temporarily offerng discounted rates:
   <table>
     <thead>
@@ -289,13 +285,15 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
     </tbody>
   </table>
 </details>
-
 <details>
   <summary><strong>How can I schedule a detailing appointment?</strong></summary>
-  <br>
-  Please <strong>call</strong>, <strong>text</strong> or <strong>email</strong> to make an appointment or to check availability.
+  Please <strong>message</strong>, <strong>call</strong>, <strong>text</strong> or <strong>email</strong> to make an appointment or to check availability.
   <table>
     <tbody>
+      <tr>
+        <td><strong>Message</strong></td>
+        <td><a href="https://form.jotform.com/250907652442154" title="Sparkle Co. Contact Form Link">Contact Us Form</a></td>
+      </tr>
       <tr>
         <td><strong>Call or Text</strong></td>
         <td><a href="tel:+16032644801" title="Sparkle Co. Phone">603-264-4801</a></td>
@@ -307,47 +305,31 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
     </tbody>
   </table>
 </details>
-
 <details>
   <summary><strong>What payment methods do you accept?</strong></summary>
+  We accept various <a href="#payment-methods-accepted" title="Sparkle Co. Payment Methods Link">payment methods</a> including <strong>Cash</strong>, <strong>Venmo</strong>, and <strong>Cryptocurrency</strong>.
   <br>
-  We accept various <a href="#payment-methods-accepted" title="Sparkle Co. Payment Methods Link">payment methods</a> including <strong>Cash</strong>, <strong>Venmo</strong>, and <strong>Cryptocurrency</strong>. 
-  <br>
-  <br>
-  Please <a href="#contact-us" title="contact us">contact us</a> for more details or alternate payment options. 
-  <br>
+  Please <a href="#contact-us" title="contact us">contact us</a> for more details or alternate payment options.
   <br>
   <strong>Venmo:</strong>
   <br>
-  <br>
   <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
-  <br>
   <br>
   <strong>Bitcoin:</strong>
   <br>
-  <br>
   bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
   <br>
-  <br>
   <img src="https://i.ibb.co/Fqnkc46R/bt.png" alt="Bitcoin QR Code" style="width:150px;">
-  <br>
-  <br>
 </details>
-
 <details>
   <summary><strong>Where is Sparkle Co. located?</strong></summary>
+  Until after launch, Sparkle Co. only services New England by traveling to customer's location. As soon as Sparkle Co. is up and running we will offer a private and safe shop location for clients convenience.
   <br>
-  Until after launch, Sparkle Co. only services New England by traveling to customer's location's. As soon as Sparkle Co. is up and running we will offer a private and safe shop location for clients convenience. 
-  <br>
-  <br>
-  For specific details or service areas, please <a href="#contact-us" title="contact us">contact us</a> directly. 
-  <br>
+  For specific details or service areas, please <a href="#contact-us" title="contact us">contact us</a> directly.
   <br>
 </details>
-
 <details>
   <summary><strong>How can I leave a review for Sparkle Co.?</strong></summary>
-  <br>
   We value your feedback! You can leave a review by submitting our <a href="https://form.jotform.com/250898871937175">client review/feedback form</a>. <br><br>
 </details>
 
