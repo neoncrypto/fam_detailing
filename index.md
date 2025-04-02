@@ -48,16 +48,7 @@ Sparkle Co. is your trusted service for premium automotive detailing. We take pr
 
 <h2 id="family-owned-and-operated" style="font-size: 1.5em;">👪 Family Owned & Operated</h2>
 
-**✨Sparkle Co.✨** is a family-run automotive detailing service idea/startup looking to fully launch in **April, 2025**. We want to build a business but more importantly we want to teach our helpers about the value of hard work, the economy, customer service, and managing a business. Valuable skills that will surely **pay off for a lifetime!** 
-
-But, in order to get this venture off the ground, **WE NEED YOUR SUPPORT!**
-<br>
-<br>
-We are temporarily offering our clients <a href="#family-friends-service-pricing" title="Family and Friends Pricing">gigantic discounts</a> in exchange for an [honest review!](https://form.jotform.com/250898871937175)
-
-Revenue raised by offering these discounts will <a href="#roadmap" title="Sparkle Co. Roadmap">go towards</a> supplies, building our reputation and launching our official website.
-
-❗**Your support means everything to our success!**
+**✨Sparkle Co.✨** is a family-run automotive detailing service startup that is looking to fully launch in **April, 2025**. We want to build a business but more importantly we want to teach our helpers about the value of **hard work**, the **economy**, **customer service**, and **managing a business**. Valuable skills that will surely **pay off for a lifetime!**
 
 ---
 
@@ -115,6 +106,12 @@ Recent before and after photos.
 
 <h2 id="family-friends-service-pricing" style="font-size: 1.5em;">💵 Family & Friends Promotion</h2>
 
+We are once again asking for your help. This time, it's to launch a startup.
+
+**For a limited time** we are offering our services at a **drastically reduced price**!
+
+Take a look at our discounted pricing model and compare to some averages in New Hampshire!
+
 <h3 id="pricing" style="font-size: 1.2em;">💲Pricing</h3>
 
 | Service         | Car           | SUV           | Truck (2dr)   | Truck (4dr)   |
@@ -135,34 +132,74 @@ Recent before and after photos.
 
 🚗 **Membership plans with exclusive discounts coming soon!**
 
+<br>
+
+<h3 id="average-pricing" style="font-size: 1.2em;">💲Average Pricing</h3>
+
+<img src="https://i.ibb.co/5gJR7cHd/price-comparison-chart.png" alt="Price Comparison Chart" style="width:100%;max-width:600px;">
+
+
+<h4 id="interior-average-pricing" style="font-size: 1.1em;">Interior</h4>
+
+|        | IMS  | Edward's | J & M | Avg.    |
+|--------|------|----------|-------|---------|
+| Small  | $300 | $130     | $169  | **$199.67**       
+| Medium | $350 | $150     | $249  | **$249.67**       
+| Large  | $400 | $170     | $299  | **$289.67**
+
+
+<h4 id="exterior-average-pricing" style="font-size: 1.1em;">Exterior</h4>
+
+|        | IMS  | Edward's | J & M | Avg.    |
+|--------|------|----------|-------|---------|
+| Small  | $300 | $110     | $149 | **$186.33**      
+| Medium | $350 | $125     | $199 | **$224.67**       
+| Large  | $400 | $150     | $249 | **$266.33**       
+
+<h4 id="full-detail-pricing" style="font-size: 1.1em;">Full Detail</h4>
+
+|        | IMS  | Edward's | J & M | Avg.    |
+|--------|------|----------|-------|---------|
+| Small  | $350 | $175     | $249  | **$258.00**       
+| Medium | $400 | $200     | $329  | **$309.67**       
+| Large  | $450 | $250     | $399  | **$366.33**
+
+<h4 id="ceramic-coating-pricing" style="font-size: 1.1em;">Ceramic Coating</h4>
+
+|         | SCC      | Limitless | Complete | Avg.        |
+|---------|----------|-----------|----------|-------------|
+| Level 1 | $1000.00 | $595.00   | $695.00  | **$763.33**
+| Level 2 | $1400.00 | $895.00   | $1195.00 | **$1163.33**
+| Level 3 | $1900.00 | $1095.00  | $1595.00 | **$1530.00**
+
+**Detailing Pricing Sources:**
+
+- [IMS Detailing](https://imsdetailing.com/auto-detailing-hooksett-nh/)
+- [Edward's Car Care](https://www.edwardscarcare.com)
+- [J&M Detailing](https://jandmdetailing.com)
+
+
+**Ceramic Pricing Sources:**
+
+- [Seacoast Ceramic Coating](https://seacoastceramiccoating.com/ceramic-coating-for-cars-nh/)
+- [Limitless Detail NH](https://www.limitlessdetailnh.com/services/)
+- [Complete Clean](https://www.completeclean1.com/automotive-ceramic-coatings-in-manchester-nh#CeramicPackages/)
+
 ---
 
 <br>
 <br>
 
-
-
-
-<h2 id="e-gift-cards" style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
-
-Can't commit to an appointment right now but want to support **✨Sparkle Co.✨**'s success? 
-
-Purchase an **E-Gift Card** and book your appointment later at your own convenience! 
-
-**E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
-
-To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="contact us">contact us</a> today!
-
----
-
-<br>
-<br>
 
 
 
 <h2 id="availability" style="font-size: 1.5em;">📆 Availability</h2>
 
-**✨Sparkle Co.✨**'s upcoming availability:
+**✨Sparkle Co.✨**'s upcoming availability.
+
+If ANY spots are still open then availability is marked <span style="color:limegreen;">OPEN</span> and the number of spots still available is listed.
+
+Booked times cannot be considered for appointments and are displayed for your planning convenience.
 
 <table>
   <thead>
@@ -170,23 +207,27 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
       <th>Date</th>
       <th>Availability</th>
       <th>Spots Available</th>
+      <th>Booked Times</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Friday, April 4th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td>2</td>
+      <td><s>2</s> <span style="color:limegreen;">1</span></td>
+      <td>10am-1pm</td>
     </tr>
     <tr>
       <td><strong>Saturday, April 5th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td>2</td>
+      <td>- &nbsp;<span style="color:limegreen;">2</span></td>
+      <td>-</td>
     </tr>
     <tr>
       <td><strong>Sunday, April 6th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td>2</td>
+      <td><s>2</s> <span style="color:limegreen;">1</span></td>
+      <td>12pm-2pm</td>
     </tr>
   </tbody>
 </table>
@@ -357,6 +398,24 @@ EMAIL: <a href="mailto:sparklecoautodetailing@gmail.com" title="Email Sparkle Co
 <h3 id="scale-phase" style="font-size: 1.2em;">🏢 Scale Phase</h3>
 
 - **Step 6:** Offer additional services and secure a physical location
+
+---
+
+<br>
+<br>
+
+
+
+
+<h2 id="e-gift-cards" style="font-size: 1.5em;">🎁 E-Gift Cards</h2>
+
+Can't commit to an appointment right now but want to support **✨Sparkle Co.✨**'s success? 
+
+Purchase an **E-Gift Card** and book your appointment later at your own convenience! 
+
+**E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
+
+To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="contact us">contact us</a> today!
 
 ---
 
