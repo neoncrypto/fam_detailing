@@ -30,10 +30,10 @@ Automotive detailing company offering **premium** services to a diverse clientel
     - [Exterior Averages](#exterior-averages)
     - [Full Detail Averages](#full-detail-averages)
     - [Ceramic Coating Averages](#ceramic-coating-averages)
-  - [🏷️ 2. Proposed Services & Pricing](#2-proposed-services-pricing)
+  - [🏷️ Proposed Services & Pricing](#proposed-services-pricing)
     - [🧰 Proposed Services](#proposed-services)
     - [💲 Proposed Pricing](#proposed-pricing)
-- [💲 3. Startup Costs](#3-startup-costs)
+- [💲 2. Startup Costs](#2-startup-costs)
   - [🧼 Cleaning & Washing](#cleaning-washing)
   - [🖌 Paint Decontamination & Protection](#paint-decontamination-protection)
   - [✨ Interior Cleaning & Protection](#interior-cleaning-protection)
@@ -41,16 +41,16 @@ Automotive detailing company offering **premium** services to a diverse clientel
   - [📎 Miscellaneous](#miscellaneous)
   - [👨🏻‍⚖️ Insurance and Legal Fees](#insurance-and-legal-fees)
   - [🧮 Grand Total](#grand-total)
-- [📱 4. Marketing Plan](#4-marketing-plan)
-- [💸 5. Projected Return On Investment \(R.O.I.\)](#5-projected-return-on-investment-roi)
+- [📱 3. Marketing Plan](#3-marketing-plan)
+- [💸 4. Projected Return On Investment \(R.O.I.\)](#4-projected-return-on-investment-roi)
   - [📊 The ROI Data](#the-roi-data)
-  - [💡 **ROI Insights**](#roi-insights)
-- [⚖️ 6. Legal Considerations & Requirements](#6-legal-considerations-requirements)
+  - [💡 ROI Insights](#roi-insights)
+- [⚖️ 5. Legal Considerations & Requirements](#5-legal-considerations-requirements)
   - [📜 Agreements & Invoices](#agreements-invoices)
     - [Key Elements for Service Agreement](#key-elements-for-service-agreement)
     - [Service Agreement Outline](#service-agreement-outline)
     - [Example Digital Invoice](#example-digital-invoice)
-- [🎨 Example Branding](#example-branding)
+- [🎨 6. Example Branding](#6-example-branding)
 - [🚀 7. Poor Man's Steps to Launch](#7-poor-mans-steps-to-launch)
   - [1. Secure Initial Clients](#1-secure-initial-clients)
   - [2. Acquire Essential Supplies](#2-acquire-essential-supplies)
@@ -138,8 +138,8 @@ Based on some initial market research, here is the average pricing for **interio
 <!--  -->
 
 <!---------------------------| PROPOSED SERVICES & PRICING |--------------------------->
-<a id="2-proposed-services-pricing"></a>
-### 🏷️ 2. Proposed Services & Pricing
+<a id="proposed-services-pricing"></a>
+### 🏷️ Proposed Services & Pricing
 
 Here's what is proposed based on initial market research.
 
@@ -181,8 +181,8 @@ Here's what is proposed based on initial market research.
 
 
 <!---------------------------| STARTUP COSTS |--------------------------->
-<a id="3-startup-costs"></a>
-## 💲 3. Startup Costs
+<a id="2-startup-costs"></a>
+## 💲 2. Startup Costs
 
 Estimated startup costs to launch the company. 
 
@@ -274,8 +274,8 @@ TOTAL = <span style="font-size:1.6em;color:darkred;"><strong>($1338.91)</strong>
 
 
 <!---------------------------| MARKETING PLAN |--------------------------->
-<a id="4-marketing-plan"></a>
-## 📱 4. Marketing Plan
+<a id="3-marketing-plan"></a>
+## 📱 3. Marketing Plan
 
 This is a work in progress.
 
@@ -294,8 +294,8 @@ This is a work in progress.
 
 
 <!---------------------------| PROJECTED ROII |--------------------------->
-<a id="5-projected-return-on-investment-roi"></a>
-## 💸 5. Projected Return On Investment (R.O.I.)
+<a id="4-projected-return-on-investment-roi"></a>
+## 💸 4. Projected Return On Investment (R.O.I.)
 
 How long should it take to recover the initial investment and what are the most profitible services to offer?
 
@@ -319,7 +319,7 @@ Estimated amount of each service needed to recover the full investment amount.
 ---
 
 <a id="roi-insights"></a>
-### 💡 **ROI Insights**
+### 💡 ROI Insights
 
 - **Ceramic Coating = Maximum Efficiency** – This service recovers the investment *fastest*, requiring the **fewest jobs**. If time is a constraint, this is the top choice for profitability.  
 
@@ -351,8 +351,8 @@ Estimated amount of each service needed to recover the full investment amount.
 
 
 <!---------------------------| LEGAL CONSIDERATIONS & REQUIREMENTS |--------------------------->
-<a id="6-legal-considerations-requirements"></a>
-## ⚖️ 6. Legal Considerations & Requirements
+<a id="5-legal-considerations-requirements"></a>
+## ⚖️ 5. Legal Considerations & Requirements
 
 The basic recommended setup for maximum compliance with the law with minimum liability exposure. This is a work in progress.
 
@@ -434,8 +434,8 @@ Here's an example invoice. This could be paid and tracked online.
 
 
 
-<a id="example-branding"></a>
-## 🎨 Example Branding
+<a id="6-example-branding"></a>
+## 🎨 6. Example Branding
 
 Just some AI generated logos to look at.
 
