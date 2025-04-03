@@ -112,69 +112,6 @@ Take advantage of the discounts and **show your support!**
 
 Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
 
-<!-- -------------------------------------------------------------------------------------------------------------------
-```python
-#!/usr/bin/env python
-
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Sservice categories and prices
-categories = ["Express Full", "Full Detail", "Interior", "Exterior", "Ceramic Coating"]
-
-x = np.arange(len(categories))  # Bar positions
-
-# Regular Prices
-car_prices = [99, 255, 200, 175, 675]
-suv_prices = [119, 300, 240, 210, 1025]
-truck_2dr_prices = [109, 350, 180, 175, 1350]
-truck_4dr_prices = [129, 395, 280, 250, 1500]
-
-# Discounted Prices
-car_discount = [69, 175, 140, 125, 450]
-suv_discount = [89, 200, 170, 150, 700]
-truck_2dr_discount = [79, 225, 125, 125, 900]
-truck_4dr_discount = [99, 275, 200, 180, 1000]
-
-# Create figure and axis
-fig, ax = plt.subplots(figsize=(12, 7))
-width = 0.2  # Bar width
-
-# Plot bars
-bars1 = ax.bar(x - width*1.5, car_prices, width, label="Car (Regular)", color="#4c72b0")
-bars2 = ax.bar(x - width/2, suv_prices, width, label="SUV (Regular)", color="#55a868")
-bars3 = ax.bar(x + width/2, truck_2dr_prices, width, label="Truck 2dr (Regular)", color="#c44e52")
-bars4 = ax.bar(x + width*1.5, truck_4dr_prices, width, label="Truck 4dr (Regular)", color="#8172b3")
-
-# Plot discount bars
-bars1_d = ax.bar(x - width*1.5, car_discount, width, label="Car (Discount)", color="#4c72b0", alpha=0.5, hatch="//")
-bars2_d = ax.bar(x - width/2, suv_discount, width, label="SUV (Discount)", color="#55a868", alpha=0.5, hatch="//")
-bars3_d = ax.bar(x + width/2, truck_2dr_discount, width, label="Truck 2dr (Discount)", color="#c44e52", alpha=0.5, hatch="//")
-bars4_d = ax.bar(x + width*1.5, truck_4dr_discount, width, label="Truck 4dr (Discount)", color="#8172b3", alpha=0.5, hatch="//")
-
-# Add labels above bars
-for bars in [bars1, bars2, bars3, bars4]:
-    for bar in bars:
-        height = bar.get_height()
-        ax.text(bar.get_x() + bar.get_width()/2, height + 20, f"${height}", ha='center', fontsize=10, fontweight='bold')
-
-# Labels, title, and legend
-ax.set_title("Regular vs Discounted Pricing", fontsize=14, fontweight='bold')
-ax.set_xlabel("Service Category", fontsize=12, fontweight='bold')
-ax.set_ylabel("Price", fontsize=12, fontweight='bold')
-ax.set_xticks(x)
-ax.set_xticklabels(categories, fontsize=10)
-ax.legend()
-
-# Save chart as an image file.
-plt.savefig("sparkleco_pricing_chart.png", dpi=300, bbox_inches="tight")
-
-# Show the chart
-plt.show()
-
-```
--------------------------------------------------------------------------------------------------------------------- -->
-
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
 
 | **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
@@ -204,38 +141,6 @@ plt.show()
 <h3 id="average-pricing" style="font-size: 1.2em;">💲Average Pricing</h3>
 
 For comparison, here is the average pricing for automotive detailing services based on four random companies local to New Hampshire.
-
-<!-- -------------------------------------------------------------------------------------------------------------------
-
-import matplotlib.pyplot as plt
-
-# Average pricing data
-categories = ["Small", "Medium", "Large", "XL"]
-ceramic_categories = ["Level 1", "Level 2", "Level 3"]
-
-interior_avg = [197.25, 239.75, 277.25, 318.50]
-exterior_avg = [174.75, 208.50, 244.75, 280.00]
-full_detail_avg = [253.50, 299.75, 349.75, 393.50]
-ceramic_coating_avg = [672.50, 1022.50, 1347.50]
-
-plt.figure(figsize=(8,6))
-
-plt.plot(categories, interior_avg, marker='o', label="Interior")
-plt.plot(categories, exterior_avg, marker='s', label="Exterior")
-plt.plot(categories, full_detail_avg, marker='^', label="Full Detail")
-plt.plot(ceramic_categories, ceramic_coating_avg, marker='d', label="Ceramic Coating")
-
-plt.xlabel("Category")
-plt.ylabel("Average Price ($)")
-plt.title("Average Pricing Chart")
-plt.legend()
-plt.grid(True)
-
-# Save the chart as an image
-plt.savefig("average_pricing_chart.png", dpi=300)  # Change to .jpg or .jpeg if needed
-plt.show()
-
--------------------------------------------------------------------------------------------------------------------- -->
 
 <img src="https://i.ibb.co/RpxjhpWk/average-pricing-chart.png" alt="Average Pricing Comparison Chart" style="width:100%;max-width:600px;">
 
@@ -408,50 +313,6 @@ bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
 
 <br>
 <br>
-
-
-
-
-<!-- <h2 id="roadmap" style="font-size: 1.5em;">🧭 Roadmap</h2>
-
-<h3 id="launch-phase-current" style="font-size: 1.2em;">🚀 Launch Phase (Current)</h3>
-
-- **Step 1:** Gather basic supplies for mobile detailing
-- **Step 2:** Offer discounted services to friends & family in exchange for **honest** reviews
-
-<h3 id="growth-phase" style="font-size: 1.2em;">📈 Growth Phase</h3>
-
-- **Step 3:** Build a website with pricing, service info, and customer reviews
-- **Step 4:** Expand marketing efforts (social media, local SEO, flyers)
-- **Step 5:** Secure a steady customer base with repeat clients and referrals
-
-<h3 id="scale-phase" style="font-size: 1.2em;">🏢 Scale Phase</h3>
-
-- **Step 6:** Offer additional services and secure a physical location
-
----
-
-<br>
-<br>
-
-
-
-
-
-<h2 id="example-branding" style="font-size: 1.5em;">🎨 Example Branding Ideas</h2>
-
-<img src="https://i.ibb.co/8LPYGcnX/sparkle-co-logo-11.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;max-width:600px;">
-
-<img src="https://i.ibb.co/gb3CZ0KG/sparkle-co-logo-4.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;max-width:600px;">
-
-<img src="https://i.ibb.co/PsD9bRys/sparkle-co-logo-6.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;max-width:600px;">
-
-<img src="https://i.ibb.co/Q7GtFhHm/sparkle-co-logo-7.jpg" alt="Sparkle Co. Logo Image Example" style="width:100%;max-width:600px;">
-
----
-
-<br>
-<br> -->
 
 
 
