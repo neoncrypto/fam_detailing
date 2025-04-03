@@ -6,17 +6,85 @@ Premium Auto Detailing - Family-Owned & Operated
 
 <br>
 
-
-
 <h2 id="attention-family-and-friends" style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
 
-Your **favorite** family/friends are launching a premium car detailing service and **we need your help**!
+🚗✨ Exclusive Friends & Family Offer – Premium Car Detailing! ✨🚗
 
-To effectively launch our business we are offering <a href="#family-friends-service-pricing" title="Family and Friends Pricing">Family & Friends Promotional Pricing</a> for a **limited time**!
+Your favorite family and friends are launching Sparkle Co., a premium car detailing service—**and we need your support!**
 
-Contribute to Sparkle Co.'s success and simultaneously help educate the helpers on valuable life skills by <a href="#contact-us" title="contact us">booking an appointment</a> or by <a href="#e-gift-cards" title="E-Gift Card Link">buying an E-Gift Card</a> today!
+For a limited time, we’re offering exclusive <a href="#family-friends-service-pricing" title="Sparkle Co. Family and Friends Pricing"></a> Family and friends pricing to kickstart our business.
 
-🎉 **Be part of the Sparkle Co. success story!**
+By [booking an appointment](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") or [purchasing an E-Gift Card](https://venmo.com/realsparkleco?txn=pay  ), you’re not just getting a spotless ride—you’re also helping our team build valuable skills and grow something amazing!
+
+<img src="https://images.unsplash.com/photo-1598453527201-a9b82a34f7d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3" alt="Car Detailing Stock Image" style="width:100%;max-width:600px;">
+
+<br>
+
+<h3 id="fundraising-progress" style="font-size: 1.2em;">🎯 Fundraising Progress</h3>
+
+We are currently looking for help raising enough support to officially launch. Here is our progress.
+
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **12% Funded**  
+
+**Goal:** $2500 | **Raised:** $300 | **Deadline:** *April 30, 2025*  
+
+<h3 id="how-you-can-help" style="font-size: 1.2em;">📢 How You Can Help</h3>
+
+Every dollar counts! Support our goal by **buying an E-Gift Card**, **booking an appointment** and/or **sharing**.  
+
+**Ways to Contribute:**  
+
+- Purchase **E-Gift Cards** or share our payment link via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing) (never expires).   <br>
+- Share https://neoncrypto.github.io/sparkleco/ with friends and family. <br>
+- Follow our progress and updates on https://neoncrypto.github.io/sparkleco/ .  <br>
+
+**Next Milestone:** $500 – Let’s get there together!  
+
+<h3 id="fundraiser-share-template" style="font-size: 1.2em;">📰 Fundraiser Share Template</h3>
+
+Use either of these templates to share with family and friends to help us reach our goal!
+
+<h4 id="spammy-version" style="font-size: 1.1em;">Non-Spammy Version</h4>
+
+```txt
+
+Hey friends! 👋  
+
+I’m supporting an important fundraiser with a goal of $2500 by April 30, 2025. 
+
+We’re off to a great start with $300 raised so far, but we still have a way to go!  
+
+If you’d like to contribute, here’s how you can help:  
+
+💰 Buy E-Gift Cards: https://venmo.com/realsparkleco?txn=pay  
+🌍 Learn more: https://neoncrypto.github.io/sparkleco/  
+
+Even sharing this with someone who might be interested would mean the world! 
+
+Thanks for your support! 💙  
+
+```
+
+<h4 id="spammy-version" style="font-size: 1.1em;">Spammy Version</h4>
+
+```txt
+
+🚨 HELP US REACH OUR GOAL! 🚨  
+
+We’re raising $2500 by April 30, 2025, and we need YOUR support! 
+
+Even $5 makes a difference!
+
+📅 Deadline: April 30, 2025  
+🎯 Goal: $2500  
+💸 Raised So Far: $300  
+
+💰 Buy E-Gift Cards: https://venmo.com/realsparkleco?txn=pay  
+🌍 Learn more: https://neoncrypto.github.io/sparkleco/  
+
+SHARE THIS MESSAGE 📲 with 3 friends & help us hit our goal! 🚀  
+
+```
 
 ---
 
@@ -24,7 +92,7 @@ Contribute to Sparkle Co.'s success and simultaneously help educate the helpers 
 <br>
 
 
-
+<!--  -->
 
 <h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About ✨Sparkle Co.✨</h2>
 
@@ -114,6 +182,8 @@ Here's our pricing model, Including **regular** and <span style="color:green;fon
 
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
 
+<small>**Note:** discounted prices marked with '//'.</small>
+
 | **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
 |---------------------------|-----------------------|--------------------|-----------------|------------------------|
 | **Express Full Service**  | **$99**  _(<span style="color:green;font-weight:600;">$69</span>)_  | **$119** _(<span style="color:green;font-weight:600;">$89</span>)_    | **$109** _(<span style="color:green;font-weight:600;">$79</span>)_    | **$129** _(<span style="color:green;font-weight:600;">$99</span>)_ |
@@ -122,7 +192,7 @@ Here's our pricing model, Including **regular** and <span style="color:green;fon
 | **Exterior Detailing**    | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_ | **$210** _(<span style="color:green;font-weight:600;">$150</span>)_   | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_   | **$250** _(<span style="color:green;font-weight:600;">$180</span>)_ |
 | **Ceramic Coating**       | **$675** _(<span style="color:green;font-weight:600;">$450</span>)_ | **$1,025** _(<span style="color:green;font-weight:600;">$700</span>)_ | **$1,350** _(<span style="color:green;font-weight:600;">$900</span>)_ | **$1,500** _(<span style="color:green;font-weight:600;">$1,000</span>)_ |
 
-<small>**Note**: Prices in <span style="color:green;font-weight:600;">green</span> indicate <span style="color:green;"><strong>Family & Friends Promotional Pricing</strong></span> (**available for a limited time** so <a href="#contact-us" title="Contact Us">show your support!</a>).</small>
+<small>**Note**: Prices in <span style="color:green;font-weight:600;">green</span> indicate <strong>Family & Friends Promotional Pricing</strong> (**only available for a limited time** so <a href="#e-gift-cards" title="Sparkle Co. E-Gift Cards">show your support!</a>).</small>
 
 <h3 id="included-services" style="font-size: 1.2em;">🧰Included Services</h3>
 
@@ -136,68 +206,10 @@ Here's our pricing model, Including **regular** and <span style="color:green;fon
 
 🚗 **Membership plans with exclusive discounts coming soon!**
 
-<br>
-
-<h3 id="average-pricing" style="font-size: 1.2em;">💲Average Pricing</h3>
-
-For comparison, here is the average pricing for automotive detailing services based on four random companies local to New Hampshire.
-
-<img src="https://i.ibb.co/RpxjhpWk/average-pricing-chart.png" alt="Average Pricing Comparison Chart" style="width:100%;max-width:600px;">
-
-<h4 id="interior-average-pricing" style="font-size: 1.1em;">Interior</h4>
-
-|        | IMS  | Ed's | J & M | Auto Shine | Avg.    |        
-|--------|------|------|-------|------------|--------|
-| Small  | $300 | $130 | $169  | $190       | $197.25  |
-| Medium | $350 | $150 | $249  | $210       | $239.75  |
-| Large  | $400 | $170 | $299  | $240       | $277.25  |
-| XL     | $425 | $200 | $349  | $300       | $318.50  |
-
-<h4 id="exterior-average-pricing" style="font-size: 1.1em;">Exterior</h4>
-
-|        | IMS  | Edward's | J & M | Auto Shine | Avg.       |
-|--------|------|----------|-------|------------|------------|
-| Small  | $300 | $110     | $149  | $140       | $174.75  |
-| Medium | $350 | $125     | $199  | $160       | $208.50  |
-| Large  | $400 | $150     | $249  | $180       | $244.75  |
-| XL     | $450 | $170     | $300  | $200       | $280.00  |
-
-<h4 id="full-detail-pricing" style="font-size: 1.1em;">Full Detail</h4>
-
-|        | IMS  | Edward's | J & M | Auto Shine | Avg.     |
-|--------|------|----------|-------|------------|----------|
-| Small  | $350 | $175     | $249  | $240       | $253.50  |
-| Medium | $400 | $200     | $329  | $270       | $299.75  |
-| Large  | $450 | $250     | $399  | $300       | $349.75  |
-| XL     | $500 | $275     | $449  | $350       | $393.50  |
-
-<h4 id="ceramic-coating-pricing" style="font-size: 1.1em;">Ceramic Coating</h4>
-
-|        | SCC         | Limitless | Complete | Auto Shine | Avg.      |
-|--------|------------|-----------|----------|------------|-----------|
-| Level 1  | $1000.00  | $595.00   | $695.00  | $400       | $672.50  |
-| Level 2  | $1400.00  | $895.00   | $1195.00 | $600       | $1022.50 |
-| Level 3  | $1900.00  | $1095.00  | $1595.00 | $800       | $1347.50 |
-
-**Detailing Pricing Sources:**
-
-- [IMS Detailing](https://imsdetailing.com/auto-detailing-hooksett-nh/)
-- [Edward's Car Care](https://www.edwardscarcare.com)
-- [J&M Detailing](https://jandmdetailing.com)
-- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
-
-**Ceramic Pricing Sources:**
-
-- [Seacoast Ceramic Coating](https://seacoastceramiccoating.com/ceramic-coating-for-cars-nh/)
-- [Limitless Detail NH](https://www.limitlessdetailnh.com/services/)
-- [Complete Clean](https://www.completeclean1.com/automotive-ceramic-coatings-in-manchester-nh#CeramicPackages/)
-- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
-
 ---
 
 <br>
 <br>
-
 
 
 
@@ -209,7 +221,7 @@ If ANY spots are still open then availability is marked <span style="color:limeg
 
 Booked times cannot be considered for appointments and are displayed for your planning convenience.
 
-**Online scheduling coming soon!**
+If weather becomes an issue, clients get unlimited re-schedules to open date/time slots.
 
 <table>
   <thead>
@@ -224,32 +236,30 @@ Booked times cannot be considered for appointments and are displayed for your pl
     <tr>
       <td><strong>Friday, April 4th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td><s>2</s> <span style="color:limegreen;">1</span></td>
-      <td>8:00am-10:00pm</td>
+      <td><s>3</s> <span style="color:limegreen;">1</span></td>
+      <td>1. 8:00am-10:00pm <br> 2. 4:00pm-6:00pm</td>
     </tr>
     <tr>
       <td><strong>Saturday, April 5th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td>- &nbsp;<span style="color:limegreen;">2</span></td>
-      <td>-</td>
+      <td>- &nbsp;<span style="color:limegreen;">3</span></td>
+      <td><span style="color:limegreen;">OPEN</span></td>
     </tr>
     <tr>
       <td><strong>Sunday, April 6th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
-      <td><s>2</s> <span style="color:limegreen;">1</span></td>
-      <td>8:00am-9:30am</td>
+      <td><s>3</s> <span style="color:limegreen;">2</span></td>
+      <td>1. 8:00am-9:30am</td>
     </tr>
   </tbody>
 </table>
 
-<small>\*if weather becomes an issue, clients get unlimited re-schedules to open date/time slots.</small>
+**Online scheduling coming soon!**
 
 ---
 
 <br>
 <br>
-
-
 
 
 
@@ -277,9 +287,11 @@ Can't commit to an appointment right now but want to support **✨Sparkle Co.✨
 
 Purchase an **E-Gift Card** and book your appointment later at your own convenience! 
 
+Use our <a href="#pricing" title="Sparkle Co. Pricing">pricing chart</a> to choose price out your package then <a href="https://venmo.com/realsparkleco?txn=pay" title="">pay with Venmo</a> or $BTC.
+
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
 
-To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="contact us">contact us</a> today!
+<a href="https://venmo.com/realsparkleco?txn=pay" title="">Purchase</a> an **E-Gift Card** or <a href="#contact-us" title="Contact us">contact us</a> today!
 
 ---
 
@@ -293,17 +305,22 @@ To learn more, or to purchase a **E-Gift Card** <a href="#contact-us" title="con
 
 We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for services.
 
-<img src="https://static-00.iconduck.com/assets.00/square-cash-icon-2048x2048-b2cgacnc.png" alt="Venmo Logo" style="display:inline-block;width:48px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Venmo_logo.png" alt="Venmo Logo" style="display:inline-block;width:48px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png" alt="Venmo Logo" style="width:48px;"> <br>
+<img src="https://static-00.iconduck.com/assets.00/square-cash-icon-2048x2048-b2cgacnc.png" alt="Cash Logo" style="display:inline-block;width:48px;">
+<a href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Venmo_logo.png" alt="Venmo Logo" style="display:inline-block;width:48px;">
+</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png" alt="Bitcoin Logo" style="width:48px;"> <br>
 
-Scan the QR codes to pay:
 
-**Venmo**:
+Scan or tap the QR codes to pay:
 
-<img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
+[Venmo](https://venmo.com/realsparkleco?txn=pay)
 
-**Bitcoin:**:
+<a href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
+  <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
+</a>
+
+**Bitcoin:**
 
 bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
 
