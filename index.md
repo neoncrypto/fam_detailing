@@ -4,85 +4,66 @@ Premium Auto Detailing - Family-Owned & Operated
 
 <img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Sparkle Co. Logo" style="width:100%;max-width:600px;">
 
+---
+
 <br>
 
 <h2 id="attention-family-and-friends" style="font-size: 1.5em;">📢 Attention Family & Friends!</h2>
 
-🚗✨ Exclusive Friends & Family Offer – Premium Car Detailing! ✨🚗
+<h3 id="sparkleco-friends-family-launch-offer" style="font-size: 1.2em;">🚗 Sparkle Co. – Friends & Family Launch Offer</h3>
 
-Your favorite family and friends are launching Sparkle Co., a premium car detailing service—**and we need your support!**
+We’re excited to introduce ✨Sparkle Co.✨, our new **premium car detailing service**—and we’re inviting our friends and family to **be part of the journey**.
 
-For a limited time, we’re offering exclusive <a href="#family-friends-service-pricing" title="Sparkle Co. Family and Friends Pricing"></a> Family and friends pricing to kickstart our business.
+As we try to get things rolling, we're offering special launch pricing for a **limited time**.
 
-By [booking an appointment](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") or [purchasing an E-Gift Card](https://venmo.com/realsparkleco?txn=pay  ), you’re not just getting a spotless ride—you’re also helping our team build valuable skills and grow something amazing!
+This isn’t just a business—it’s a family project. We'll be using this as a chance to teach our family helpers real-world skills like customer service, work ethic, business basics, and economy.
 
-<img src="https://images.unsplash.com/photo-1598453527201-a9b82a34f7d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3" alt="Car Detailing Stock Image" style="width:100%;max-width:600px;">
+By [booking an appointment](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") or [purchasing an E-Gift Card](https://venmo.com/realsparkleco?txn=pay), you’re not only supporting a new **local** and **family owned** service—you’re helping us build something meaningful, together.
+
+If you supported us in this, **thanks for being part of the beginning!**
 
 <br>
 
-<h3 id="fundraising-progress" style="font-size: 1.2em;">🎯 Fundraising Progress</h3>
+<h3 id="help-us-officially-launch-sparkleco" style="font-size: 1.2em;">🎯 Help Us Officially Launch Sparkle Co.</h3>
 
-We are currently looking for help raising enough support to officially launch. Here is our progress.
+We’re working hard to turn **Sparkle Co.** into a full-fledged business, and we’re asking for a little help from our friends and family to make it happen.  
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **12% Funded**  
+As of **April 3rd, 2025** we have raised or have had committed to us about $400, which is around **16%** of our goal.
 
-**Goal:** $2500 | **Raised:** $300 | **Deadline:** *April 30, 2025*  
+<span style="font-size: 1.4em;">$400 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ $2,500</span>   
+**Deadline:** *April 30, 2025* | **Last updated:** *April 3, 2025*  
+
+Our **next milestone is $500**, and every bit of support—whether it’s booking a service, grabbing a gift card, or spreading the word—helps us get there.  
+
+<br>
 
 <h3 id="how-you-can-help" style="font-size: 1.2em;">📢 How You Can Help</h3>
 
-Every dollar counts! Support our goal by **buying an E-Gift Card**, **booking an appointment** and/or **sharing**.  
+If you'd like to support our journey, here are a few simple ways to make a big impact:  
 
-**Ways to Contribute:**  
+1. **Purchase an E-Gift Card** (never expires) or contribute directly via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing).  
+2. **Share** our website with friends and family: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/).  
+3. **Follow our progress** and stay updated here: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/).  
 
-- Purchase **E-Gift Cards** or share our payment link via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing) (never expires).   <br>
-- Share https://neoncrypto.github.io/sparkleco/ with friends and family. <br>
-- Follow our progress and updates on https://neoncrypto.github.io/sparkleco/ .  <br>
+<br>
 
-**Next Milestone:** $500 – Let’s get there together!  
+<h3 id="easy-way-to-spread-the-word" style="font-size: 1.2em;">📰 Easy Way to Spread the Word </h3> 
 
-<h3 id="fundraiser-share-template" style="font-size: 1.2em;">📰 Fundraiser Share Template</h3>
+Want to help even more? Here’s a quick message you can share with family and friends:  
 
-Use either of these templates to share with family and friends to help us reach our goal!
-
-<h4 id="spammy-version" style="font-size: 1.1em;">Non-Spammy Version</h4>
-
-```txt
-
+```
 Hey friends! 👋  
 
-I’m supporting an important fundraiser with a goal of $2500 by April 30, 2025. 
+We’re working on launching a small business, and I’d love your support!  
 
-We’re off to a great start with $300 raised so far, but we still have a way to go!  
+We’re aiming to raise $2,500 by April 30, 2025, and we’re already off to a great start.  
 
-If you’d like to contribute, here’s how you can help:  
+If you're interested, here’s how you can help:  
 
-💰 Buy E-Gift Cards: https://venmo.com/realsparkleco?txn=pay  
+💰 Buy an E-Gift Card: https://venmo.com/realsparkleco?txn=pay
 🌍 Learn more: https://neoncrypto.github.io/sparkleco/  
 
-Even sharing this with someone who might be interested would mean the world! 
-
-Thanks for your support! 💙  
-
-```
-
-<h4 id="spammy-version" style="font-size: 1.1em;">Spammy Version</h4>
-
-```txt
-
-🚨 HELP US REACH OUR GOAL! 🚨  
-
-We’re raising $2500 by April 30, 2025, and we need YOUR support! 
-
-Even $5 makes a difference!
-
-📅 Deadline: April 30, 2025  
-🎯 Goal: $2500  
-💸 Raised So Far: $300  
-
-💰 Buy E-Gift Cards: https://venmo.com/realsparkleco?txn=pay  
-🌍 Learn more: https://neoncrypto.github.io/sparkleco/  
-
-SHARE THIS MESSAGE 📲 with 3 friends & help us hit our goal! 🚀  
+Even just sharing this with someone would mean a lot. Thanks for the support! 💙  
 
 ```
 
@@ -92,41 +73,17 @@ SHARE THIS MESSAGE 📲 with 3 friends & help us hit our goal! 🚀
 <br>
 
 
-<!--  -->
 
-<h2 id="about-sparkle-co" style="font-size: 1.5em;">🏢 About ✨Sparkle Co.✨</h2>
+<h2 id="more-than-just-a-business" style="font-size: 1.5em;">✨ More Than Just a Business </h2>
 
-✨Sparkle Co.✨, believes in treating every customer like family and satisfaction is **top priority**!
-
-We have the best helpers in the auto detailing industry! Rest assured that every vehicle gets top-notch care!
-
-Whether a daily driver, a luxury sports car, or a small truck, we use eco-friendly products, cutting-edge technology, and a meticulous two bucket hand-wash technique that brings out the best in your vehicle.
-
-Sparkle Co. is your trusted service for premium automotive detailing. We take pride in delivering exceptional service and treating every vehicle as if it were our own.
-
-🚀 **We don’t just clean cars—we make them ✨Sparkle✨!**
-
-<br>
-
-<h3 id="family-owned-and-operated" style="font-size: 1.2em;">👪 Family Owned & Operated</h3>
-
-**✨Sparkle Co.✨** is a family-run automotive detailing service startup that is looking to fully launch in **April, 2025**. Not only do we want to build a business, but more importantly, we want to teach our helpers about the value of **hard work**, the **economy**, **customer service**, and **managing a business**. 
-
-Valuable skills that will surely **pay off for a lifetime!**
-
----
-
-<br>
-<br>
+<img src="https://mycodelesswebsite.com/wp-content/uploads/2022/11/Startup-Meme-Stupid-Idea-Friends.jpg" alt="Startup Idea Meme" style="width:100%;max-width:600px;">
 
 
+**Sparkle Co.** is a family-run automotive detailing startup set to fully launch in **April 2025**. But this isn’t just about building a business—it’s about teaching our helpers the value of **hard work, customer service, business management, and the economy**.  
 
+These are real-world skills that will last a lifetime, and we’re excited to grow together as a family and a team.  
 
-<h2 id="why-choose-us" style="font-size: 1.5em;">🏆 Why Choose Us?</h2>
-- **Family-Owned & Operated** – We treat every car with personal and professional care.
-- **Premium Quality Products** – Only the best products are used on your vehicle.
-- **Experienced Professionals** – Passionate and motivated experts who continuously learn.
-- **Satisfaction Guaranteed** – Our goal is your complete happiness and repeat business.
+Thank you for being part of our journey! 🚀  
 
 ---
 
@@ -152,13 +109,13 @@ Leave your review [here!](https://form.jotform.com/250898871937175)
 
 
 
-<h2 id="before-and-after" style="font-size: 1.5em;">📷 Before & After</h2>
+<h2 id="before-and-after-photos" style="font-size: 1.5em;">📷 Before & After Photos</h2>
 
-Recent before and after photos.
+Recent before and after photos for **April, 2025**.
 
 <img src="https://shorescarcare.com/Files/Images/auto-detailing/img11.jpg" alt="Before and after detailing" style="width:100%;max-width:600px;">
 
-<small>\*example images. Actual photos coming soon.</small>
+<small>\*Example images. Actual photos coming soon!</small>
 
 ---
 
@@ -178,9 +135,9 @@ Take advantage of the discounts and **show your support!**
 
 <h3 id="pricing" style="font-size: 1.2em;">💲Pricing</h3>
 
-Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
-
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
+
+Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
 
 <small>**Note:** discounted prices marked with '//'.</small>
 
@@ -305,26 +262,33 @@ Use our <a href="#pricing" title="Sparkle Co. Pricing">pricing chart</a> to choo
 
 We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for services.
 
-<img src="https://static-00.iconduck.com/assets.00/square-cash-icon-2048x2048-b2cgacnc.png" alt="Cash Logo" style="display:inline-block;width:48px;">
-<a href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Venmo_logo.png" alt="Venmo Logo" style="display:inline-block;width:48px;">
-</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png" alt="Bitcoin Logo" style="width:48px;"> <br>
+**Cash:**
 
+<img src="https://static-00.iconduck.com/assets.00/square-cash-icon-2048x2048-b2cgacnc.png" alt="Cash Logo" style="display:inline-block;width:100px;">
 
-Scan or tap the QR codes to pay:
-
-[Venmo](https://venmo.com/realsparkleco?txn=pay)
-
-<a href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
-  <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:150px;">
+**Venmo:** 
+<a style="display:inline;" href="https://venmo.com/realsparkleco?txn=pay" title="Sparkle Co. Venmo Payment">
+  https://venmo.com/realsparkleco?txn=pay
 </a>
 
-**Bitcoin:**
+<a style="margin-right:50px;" href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Venmo_logo.png" alt="Venmo Logo" style="display:inline-block;width:100px;">
+</a>
+<a href="https://venmo.com/realsparkleco?txn=pay" title="Venmo pay Sparkle Co.">
+  <img src="https://i.ibb.co/FqqgSwHz/venmo-qr-code.png" alt="Venmo QR Code" style="width:100px;">
+</a>
 
-bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
+**Bitcoin:** 
+<a style="display:inline;" href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Sparkle Co. BTC Address">
+  bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
+</a>
 
-<img src="https://i.ibb.co/Fqnkc46R/bt.png" alt="Bitcoin QR Code" style="width:150px;">
+<a style="display:inline;margin-right:50px;" href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using BTC">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png" alt="Bitcoin Logo" style="width:100px;">
+</a>
+<a style="display:inline;" href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Sparkle Co. BTC QR Code">
+  <img src="https://i.ibb.co/Fqnkc46R/bt.png" alt="Bitcoin QR Code" style="width:100px;">
+</a>
 
 ---
 
@@ -471,9 +435,25 @@ bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
 
 
 
+## ⚠️ Disclaimer
+
+**Sparkle Co.** is a startup business idea currently in its early stages. We are not yet operating as a formally registered business entity. This landing page is intended solely for friends and family to share our concept, show early progress, and seek support as we work toward officially launching in **April 2025**.  
+
+Any purchases, donations, or contributions made at this stage are considered personal support to help us bring this idea to life.  
+
+Thank you for being part of our early journey.  
+
+---
+
+<br>
+<br>
+
+
+
+
 <div style="width:100%;text-align:center;">
   <small>
-    Landing page created with 🫶 | 
+    Landing page created with 💚 | 
     <a href="mailto:b.elliott0123+getyourown@gmail.com?subject=I%20Need%20A%20Website!" title="Email to request website project service">
       Get your own!
     </a>
@@ -482,9 +462,5 @@ bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6
   <small>© 2025 ✨Sparkle Co.✨</small>
 </div>
 
----
-
 <br>
 <br>
-
-<!-- testing -->
