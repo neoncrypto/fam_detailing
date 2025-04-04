@@ -1,6 +1,11 @@
-<h1 id="title" style="font-size: 1.8em;">✨Sparkle Co.✨</h1>
 
-Premium Auto Detailing - Family-Owned & Operated
+<a href="https://neoncrypto.github.io/sparkleco" title="Sparkle Co. Landing Page">
+  <h1>
+    ✨Sparkle Co. - Premium Auto Care
+  </h1>
+</a>
+
+Family Owned & Operated
 
 <img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Sparkle Co. Logo" style="width:100%;max-width:600px;">
 
@@ -28,9 +33,8 @@ If you supported us in this, **thanks for being part of the beginning!**
 
 We’re working hard to turn **Sparkle Co.** into a full-fledged business, and we’re asking for a little help from our friends and family to make it happen.  
 
-As of **April 3rd, 2025** we have raised or have had committed to us about $400, which is around **16%** of our goal.
-
-<span style="font-size: 1.4em;">$400 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ $2,500</span>   
+As of **April 3rd, 2025** we have raised or have had committed to us **16%** of our goal.  
+<span style="font-size: 1.4em;">🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ $400/$2,500</span>   
 **Deadline:** *April 30, 2025* | **Last updated:** *April 3, 2025*  
 
 Our **next milestone is $500**, and every bit of support—whether it’s booking a service, grabbing a gift card, or spreading the word—helps us get there.  
@@ -41,15 +45,15 @@ Our **next milestone is $500**, and every bit of support—whether it’s bookin
 
 If you'd like to support our journey, here are a few simple ways to make a big impact:  
 
-1. **Purchase an E-Gift Card** (never expires) or contribute directly via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing).  
-2. **Share** our website with friends and family: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/).  
-3. **Follow our progress** and stay updated here: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/).  
+1. **Purchase an E-Gift Card** (never expires) or contribute directly via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing)  
+2. **Share** this landing page [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
+3. **Follow our progress** and stay updated here: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
 
 <br>
 
-<h3 id="easy-way-to-spread-the-word" style="font-size: 1.2em;">📰 Easy Way to Spread the Word </h3> 
+<h3 id="template-for-easy-sharing" style="font-size: 1.2em;">📰 Template for Easy Sharing</h3> 
 
-Want to help even more? Here’s a quick message you can share with family and friends:  
+Want to help even more? Here’s a quick and easy message you can share with family and friends:  
 
 ```
 Hey friends! 👋  
@@ -127,9 +131,9 @@ Recent before and after photos for **April, 2025**.
 
 <h2 id="family-friends-service-pricing" style="font-size: 1.5em;">💵 Family & Friends Promotion</h2>
 
-**We are once again asking for your help**. This time, it's to launch a startup...
-
 **For a limited time** we are offering our services at a <span style="color:green;"><strong>drastically reduced price</strong></span> in order to launch our company!
+
+We did some basic market research to come up with our pricing model and we think it's pretty fair. [Let us know what you think!](https://neoncrypto.github.io/sparkleco/market_inquiry)  
 
 Take advantage of the discounts and **show your support!**
 
@@ -191,22 +195,22 @@ If weather becomes an issue, clients get unlimited re-schedules to open date/tim
   </thead>
   <tbody>
     <tr>
-      <td><strong>Friday, April 4th, 2025</strong></td>
-      <td><span style="color:limegreen;">OPEN</span></td>
-      <td><s>3</s> <span style="color:limegreen;">1</span></td>
-      <td>1. 8:00am-10:00pm <br> 2. 4:00pm-6:00pm</td>
-    </tr>
-    <tr>
       <td><strong>Saturday, April 5th, 2025</strong></td>
-      <td><span style="color:limegreen;">OPEN</span></td>
-      <td>- &nbsp;<span style="color:limegreen;">3</span></td>
-      <td><span style="color:limegreen;">OPEN</span></td>
+      <td><span style="color:maroon;">BOOKED</span></td>
+      <td><span style="color:maroon;">0</span></td>
+      <td><span style="color:maroon;">10:00am-4:00pm</span></td>
     </tr>
     <tr>
       <td><strong>Sunday, April 6th, 2025</strong></td>
       <td><span style="color:limegreen;">OPEN</span></td>
       <td><s>3</s> <span style="color:limegreen;">2</span></td>
-      <td>1. 8:00am-9:30am</td>
+      <td><span style="color:maroon;">8:00am-9:30am</span></td>
+    </tr>
+    <tr>
+      <td><strong>Friday, April 7th-11, 2025</strong></td>
+      <td><span style="color:limegreen;">OPEN</span></td>
+      <td><s>-</s><span style="color:limegreen;"></span></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -385,6 +389,13 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary>What did ✨Sparkle Co.✨ base it's pricing off?</summary>
+  We did initial <a href="https://neoncrypto.github.io/sparkleco/market_inquiry" title="Sparkle Co. Market Inquiry">market research</a> of four local to NH companies to come up with what we thought was fair and reasonable pricing.
+</details>
+
+
 <details>
   <summary><strong>How can I schedule a detailing appointment?</strong></summary>
   📆 <strong>Message us</strong>, <strong>call</strong>, <strong>text</strong> or <strong>email</strong> to <strong>schedule an appointment</strong>, <strong>buy an E-Gift Card</strong> or to <strong>ask us a question</strong> today!
