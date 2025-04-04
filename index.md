@@ -1,7 +1,5 @@
 <!-- Sparkle Co. Landing Page -->
-<a href="https://neoncrypto.github.io/sparkleco" title="Sparkle Co. Landing Page">
-  <h1>✨Sparkle Co. - Premium Auto Care✨</h1>
-</a>
+<a href="https://neoncrypto.github.io/sparkleco" title="Sparkle Co. Landing Page"><h1>✨Sparkle Co. - Premium Auto Care✨</h1></a>
 
 Family Owned & Operated
 

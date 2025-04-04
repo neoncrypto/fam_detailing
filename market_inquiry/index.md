@@ -80,9 +80,11 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing a
 
 ## 💵 Our Pricing Model
 
-We try to set pricing that's fair and based off of actual data. Here's our current pricing model. Changes could still come. Stay tuned.
+We try to set pricing that's fair and based off of actual data. Here's our current pricing model. 
 
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
+
+Prices colored <span style="color:green;">green</span> are our temporary discounted prices for Family and Friends.
 
 | **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
 |---------------------------|-----------------------|--------------------|-----------------|------------------------|
