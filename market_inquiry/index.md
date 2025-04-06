@@ -14,19 +14,11 @@ Family Owned & Operated
 
 
 
-## Local Competitor Pricing Research
+## 💲 Local Competitor Pricing Research
 
 To offer competitive pricing, we looked at the averages of four local to NH companies to get an idea of where our price points should be. Here is what we found.
 
----
-
-<br>
-<br>
-
-
-
-
-### 💲 Average Pricing
+### 💸 Average Pricing
 
 Average pricing for **interior**, **exterior**, and **full-service** detailing and **ceramic coating services**.
 
@@ -70,7 +62,19 @@ Average pricing for **interior**, **exterior**, and **full-service** detailing a
 | Level 2  | $1400.00  | $895.00   | $1195.00 | $600       | $1022.50 |
 | Level 3  | $1900.00  | $1095.00  | $1595.00 | $800       | $1347.50 |
 
-\*[sources](#sources)  
+##### Detailing Pricing Sources:
+
+- [IMS Detailing](https://imsdetailing.com/auto-detailing-hooksett-nh/)
+- [Edward's Car Care](https://www.edwardscarcare.com)
+- [J&M Detailing](https://jandmdetailing.com)
+- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
+
+##### Ceramic Coating Pricing Sources:
+
+- [Seacoast Ceramic Coating](https://seacoastceramiccoating.com/ceramic-coating-for-cars-nh/)
+- [Limitless Detail NH](https://www.limitlessdetailnh.com/services/)
+- [Complete Clean](https://www.completeclean1.com/automotive-ceramic-coatings-in-manchester-nh#CeramicPackages/)
+- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
 
 ---
 
@@ -86,8 +90,6 @@ We try to set pricing that's fair and based off of actual data. Here's our curre
 
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
 
-Prices colored <span style="color:green;">green</span> are our temporary discounted prices for Family and Friends.
-
 | **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
 |---------------------------|-----------------------|--------------------|-----------------|------------------------|
 | **Express Full Service**  | **$99**  _(<span style="color:green;font-weight:600;">$69</span>)_  | **$119** _(<span style="color:green;font-weight:600;">$89</span>)_    | **$109** _(<span style="color:green;font-weight:600;">$79</span>)_    | **$129** _(<span style="color:green;font-weight:600;">$99</span>)_ |
@@ -96,10 +98,11 @@ Prices colored <span style="color:green;">green</span> are our temporary discoun
 | **Exterior Detailing**    | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_ | **$210** _(<span style="color:green;font-weight:600;">$150</span>)_   | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_   | **$250** _(<span style="color:green;font-weight:600;">$180</span>)_ |
 | **Ceramic Coating**       | **$675** _(<span style="color:green;font-weight:600;">$450</span>)_ | **$1,025** _(<span style="color:green;font-weight:600;">$700</span>)_ | **$1,350** _(<span style="color:green;font-weight:600;">$900</span>)_ | **$1,500** _(<span style="color:green;font-weight:600;">$1,000</span>)_ |
 
----
+Prices colored <span style="color:green;">green</span> are temporarily discounted prices for Family and Friends.
 
 <br>
-<br>
+
+
 
 
 
@@ -110,6 +113,8 @@ Prices colored <span style="color:green;">green</span> are our temporary discoun
 Estimated startup costs to equip the company for success. 
 
 ### 🧼 Cleaning & Washing
+
+This covers the basics: car soap, buckets, wash mitts, and a solid pressure washer setup. These items make sure we can deliver high-quality exterior cleaning right out of the gate, without cutting corners or relying on subpar equipment.
 
 | Type                  | Product Link | Price                                                                          |
 |-------------------------|---------|-----------------------------------------------------------------------------------|
@@ -123,6 +128,8 @@ Estimated startup costs to equip the company for success.
 TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($310.97)</strong></span>
 
 ### 🖌 Paint Decontamination & Protection
+
+This bundle handles deeper paint care—clay bars, iron remover, wax, and ceramic coating. It sets us up to offer premium services and upsell options that go beyond a basic wash.
 
 | Type                  | Product Link | Price                                                                          |
 |-------------------------|---------|-----------------------------------------------------------------------------------|
@@ -138,6 +145,8 @@ TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($440.05)</strong><
 
 ### ✨ Interior Cleaning & Protection
 
+Interior detailing tools and products—shampoo, leather care, extractor vacuum, and brushes—are must-haves. These give us the ability to restore and protect car interiors at a professional level, which adds real value to the service.
+
 | Type                  | Product Link | Price                                                                          |
 |-------------------------|---------|-----------------------------------------------------------------------------------|
 | Interior Cleaner            | [Adam's Interior Detailer](https://www.amazon.com/Adams-Microban-Interior-Detailer-2-Pack/dp/B00YPQYMFY/ref=sr_1_3_sspa?s=automotive&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY) | <span style="font-size:1.3em;color:darkred;"><strong>($40.49)</strong></span>
@@ -152,6 +161,8 @@ TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($431.69)</strong><
 
 ### 🛞 Wheels & Tires
 
+Wheels and tires are one of the first things customers notice. This kit gets us everything needed to clean, restore, and dress them to make every job look finished and polished.
+
 | Type                  | Product Link | Price                                                                          |
 |-------------------------|---------|-----------------------------------------------------------------------------------|
 | Wheel Cleaner        | [Adam's Wheel & Tire Cleaner](https://www.amazon.com/Adams-Polishes-Professional-Cleaning-Detailing/dp/B07X7H2N48/ref=sr_1_2_sspa?sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY) | <span style="font-size:1.3em;color:darkred;"><strong>($37.29)</strong></span>
@@ -161,21 +172,27 @@ TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($431.69)</strong><
 
 TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($149.21)</strong></span>
 
-### 📎 Miscellaneous
+### 📣 Marketing
 
-| Type                  | Product Link | Price                                                                          |
-|-------------------------|---------|-----------------------------------------------------------------------------------|
-| Business Cards | [Custom Business Cards](https://www.amazon.com/Custom-Business-Personalized-300gsm-Printed/dp/B09STHV3YD/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY) | <span style="font-size:1.3em;color:darkred;"><strong>($6.99)</strong></span>
+Startup marketing funds will cover a part-time social media manager, printed materials like flyers and business cards, and local events aimed at building brand recognition. We'll also offer select free services in exchange for honest reviews and take calculated losses at pop-ups to get Sparkle Co. in front of the right people early on.
 
-TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($6.99)</strong></span>
+| Type                   | Product Link | Price |
+|------------------------|--------------|-------|
+| Website Setup          | - | <span style="font-size:1.3em;color:darkred;"><strong>($500.00)</strong></span> 
+| Google Setup           | - | <span style="font-size:1.3em;color:darkred;"><strong>($200.00)</strong></span>
+| Business Cards         | [Custom Business Cards](https://www.amazon.com/gp/product/B0F314GQX3/ref=ewc_pr_img_1?smid=A1SE7RW0CSSWXI&customId=AAAAAAAAAAAlPurBDwDQz6RRFgZalWlFgAAAAAAAAAC6khle7xpWThrZ2saiCb3pLDJVXPrr6n7uwcfrZhJuOYiNh3vhb6ZZiVz1CzIhER2XXjRm2q8flIfv1yoYCOuWIjbioRtzBYfqjrC38WoTrcreyxkI0cs4wq0dKBJT5CRIZJdRxozyiaxw5X9atYN4VHLwVaCcLfSFoug4%252F5xvcQ%253D%253D&th=1)  | <span style="font-size:1.3em;color:darkred;"><strong>($19.99)</strong></span> 
+| Flyers/Postcards       | [Custom Flyers](https://www.amazon.com/gp/product/B0CRYPQYV3/ref=ox_sc_act_title_1?smid=A3A4YU0U5DNKRF&customId=AAAAAAAAAAAlPurBDwDQz6RRFgZalWlFgAAAAAAAAACDJ7EhHsQKtbvFFbYB671T9ijhMitdHuuGkUJRgY1BuYm%252F%252F0tLypoTibAg23%252B1usG%252BOhKEWiYN3fLDyNE8wtGHMHUmbX91qmqWmj2NHeVMX73XjA7bnKUhcUzRXccWzFjTuWO2ciqwabX5uhvA2QWm1IoyH5AquN9HO0NCgkKdVQ%253D%253D&th=1) | <span style="font-size:1.3em;color:darkred;"><strong>($63.99)</strong></span> 
+| Vehicle Decals w/ QR Code  | [Custom Business Cards](https://www.amazon.com/gp/product/B0CHN8728X/ref=ewc_pr_img_1?smid=A3HUUMFJGZ72MK&psc=1&customId=AAAAAAAAAAAlPurBDwDQz6RRFgZalWlFgAAAAAAAAAANwKZosuyzwvBB%252BOfVaeDF4eBa2R8u%252B1GXX1MPzCWVinJSlGbObUgA2nvgEeCW%252FrNqDvw7cUHqwA%252FDZG6sLbVQ%252FZBpULMLXQ35E6Y82pEXsjLg25oOGgH3SasmAdTa2sWeYnakUfwUmz4TrbFhtBfZmHelpxBJtFJB%252Bk6TFTfklg%253D%253D) | <span style="font-size:1.3em;color:darkred;"><strong>($57.99)</strong></span> 
+
+TOTAL = <span style="font-size:1.3em;color:darkred;"><strong>($841.97)</strong></span>
 
 ### 👨🏻‍⚖️ Insurance and Legal Fees
 
-Fees for liability insurance and other legal related fees will be added here once they become known.
+Fees for liability insurance and other legal-related costs will be added here once they’re known. We’re budgeting conservatively until final numbers come in.
 
 ### 🧮 Grand Total
 
-TOTAL = <span style="font-size:1.6em;color:darkred;"><strong>($1338.91)</strong></span>
+TOTAL = <span style="font-size:1.6em;color:darkred;"><strong>($2173.89)</strong></span>
 
 ---
 
@@ -183,31 +200,6 @@ TOTAL = <span style="font-size:1.6em;color:darkred;"><strong>($1338.91)</strong>
 <br>
 
 
-
-
-<!---------------------------| SOURCES |--------------------------->
-## 📜 Sources
-
-Pricing sourced from the following websites. All companies are current and active.
-
-### Detailing Pricing Sources:
-
-- [IMS Detailing](https://imsdetailing.com/auto-detailing-hooksett-nh/)
-- [Edward's Car Care](https://www.edwardscarcare.com)
-- [J&M Detailing](https://jandmdetailing.com)
-- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
-
-### Ceramic Coating Pricing Sources:
-
-- [Seacoast Ceramic Coating](https://seacoastceramiccoating.com/ceramic-coating-for-cars-nh/)
-- [Limitless Detail NH](https://www.limitlessdetailnh.com/services/)
-- [Complete Clean](https://www.completeclean1.com/automotive-ceramic-coatings-in-manchester-nh#CeramicPackages/)
-- [Auto Shine Detailing](https://autoshinedetailing.org/services-2/)
-
----
-
-<br>
-<br>
 
 
 <div style="width:100%;text-align:center;">
@@ -219,6 +211,8 @@ Pricing sourced from the following websites. All companies are current and activ
   </small>
   <br>
   <small>© 2025 ✨Sparkle Co.✨</small>
+  <br>
+  <small>last updated: 2025-04-06</small>
 </div>
 
 <br>

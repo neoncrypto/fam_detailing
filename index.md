@@ -33,9 +33,9 @@ If you supported us in this, **thanks for being part of the beginning!**
 
 We’re working hard to turn **Sparkle Co.** into a full-fledged business, and we’re asking for a little help from our friends and family to make it happen.  
 
-As of **April 3rd, 2025** we have raised or have had committed to us **16%** of our goal.  
-<span style="font-size: 1.4em;">🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ $400/$2,500</span>   
-**Deadline:** *April 30, 2025* | **Last updated:** *April 3, 2025*  
+As of **April 6rd, 2025** we have raised or have had committed to us **18%** of our goal.  
+<span style="font-size: 1.4em;">**$450** / **$2,500** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **18%**</span>   
+**Deadline:** *April 30, 2025* | **Last updated:** *April 6, 2025*  
 
 Our **next milestone is $500**, and every bit of support—whether it’s booking a service, grabbing a gift card, or spreading the word—helps us get there.  
 
@@ -133,17 +133,15 @@ Recent before and after photos for **April, 2025**.
 
 **For a limited time** we are offering our services at a <span style="color:green;"><strong>drastically reduced price</strong></span> in order to launch our company!
 
-We did some basic market research to come up with our pricing model and we think it's pretty fair. [Let us know what you think!](https://neoncrypto.github.io/sparkleco/market_inquiry)  
-
 Take advantage of the discounts and **show your support!**
 
 <h3 id="pricing" style="font-size: 1.2em;">💲Pricing</h3>
 
 <img src="https://i.ibb.co/bjdV818b/sparkleco-pricing-chart.png" alt="Sparkle Co. Pricing Chart" style="width:100%;max-width:600px;">
 
-Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
+<small>\*discounted prices are marked with '//'.</small>
 
-<small>**Note:** discounted prices marked with '//'.</small>
+Here's our pricing model, Including **regular** and <span style="color:green;font-weight:600;">discounted</span> pricing:
 
 | **Service**               | **Car** | **SUV** | **Truck (2dr)** | **Truck (4dr) / XL SUV** |
 |---------------------------|-----------------------|--------------------|-----------------|------------------------|
@@ -153,7 +151,7 @@ Here's our pricing model, Including **regular** and <span style="color:green;fon
 | **Exterior Detailing**    | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_ | **$210** _(<span style="color:green;font-weight:600;">$150</span>)_   | **$175** _(<span style="color:green;font-weight:600;">$125</span>)_   | **$250** _(<span style="color:green;font-weight:600;">$180</span>)_ |
 | **Ceramic Coating**       | **$675** _(<span style="color:green;font-weight:600;">$450</span>)_ | **$1,025** _(<span style="color:green;font-weight:600;">$700</span>)_ | **$1,350** _(<span style="color:green;font-weight:600;">$900</span>)_ | **$1,500** _(<span style="color:green;font-weight:600;">$1,000</span>)_ |
 
-<small>**Note**: Prices in <span style="color:green;font-weight:600;">green</span> indicate <strong>Family & Friends Promotional Pricing</strong> (**only available for a limited time** so <a href="#e-gift-cards" title="Sparkle Co. E-Gift Cards">show your support!</a>).</small>
+<small>\*prices in <span style="color:green;font-weight:600;">green</span> indicate <strong>Family & Friends Promotional Pricing</strong> (**only available for a limited time** so <a href="#e-gift-cards" title="Sparkle Co. E-Gift Cards">show your support!</a>).</small>
 
 <h3 id="included-services" style="font-size: 1.2em;">🧰Included Services</h3>
 
@@ -165,6 +163,8 @@ Here's our pricing model, Including **regular** and <span style="color:green;fon
 | **Exterior Detailing** | **Professional Exterior Cleaning & Paint Care**: hand wash (two-bucket method), clay bar treatment, one-step polish, premium wax/sealant, wheel cleaning, and tire shine. |
 | **Ceramic Coating** | **Advanced Paint Protection**: hand wash, clay bar decontamination, high-gloss polish, and **1-3 layers of ceramic coating** (depending on package). Provides up to **5+ years of durability**. |
 
+For full-transparency or if you're curious on what data we used to come up with our pricing model you can [check out our initial market research here.](https://neoncrypto.github.io/sparkleco/market_inquiry)
+  
 🚗 **Membership plans with exclusive discounts coming soon!**
 
 ---
@@ -188,29 +188,21 @@ If weather becomes an issue, clients get unlimited re-schedules to open date/tim
   <thead>
     <tr>
       <th>Date</th>
-      <th>Availability</th>
-      <th>Spots Available</th>
-      <th>Booked Times</th>
+      <th>Appointments Avail.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Saturday, April 5th, 2025</strong></td>
-      <td><span style="color:maroon;">BOOKED</span></td>
-      <td><span style="color:maroon;">0</span></td>
-      <td><span style="color:maroon;">10:00am-4:00pm</span></td>
+      <td><strong>Sun, April 6th, 2025</strong></td>
+      <td><s>3</s><span style="color:limegreen;"> 2</span></td>
     </tr>
     <tr>
-      <td><strong>Sunday, April 6th, 2025</strong></td>
-      <td><span style="color:limegreen;">OPEN</span></td>
-      <td><s>3</s> <span style="color:limegreen;">2</span></td>
-      <td><span style="color:maroon;">8:00am-9:30am</span></td>
+      <td><strong>Mon, April 7th 2025</strong></td>
+      <td><span style="color:limegreen;">3</span></td>
     </tr>
     <tr>
-      <td><strong>Friday, April 7th-11, 2025</strong></td>
-      <td><span style="color:limegreen;">OPEN</span></td>
-      <td><s>-</s><span style="color:limegreen;"></span></td>
-      <td>-</td>
+      <td><strong>Tue, April 8th, 2025</strong></td>
+      <td><span style="color:limegreen;">3</span></td>
     </tr>
   </tbody>
 </table>
@@ -391,7 +383,7 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
 </details>
 
 <details>
-  <summary>What did ✨Sparkle Co.✨ base it's pricing off?</summary>
+  <summary><strong>What did ✨Sparkle Co.✨ base it's pricing on?</strong></summary>
   We did initial <a href="https://neoncrypto.github.io/sparkleco/market_inquiry" title="Sparkle Co. Market Inquiry">market research</a> of four local to NH companies to come up with what we thought was fair and reasonable pricing.
 </details>
 
@@ -471,6 +463,8 @@ Thank you for being part of our early journey.
   </small>
   <br>
   <small>© 2025 ✨Sparkle Co.✨</small>
+  <br>
+  <small>last updated: 2025-04-06</small>
 </div>
 
 <br>
