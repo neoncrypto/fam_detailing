@@ -23,8 +23,6 @@ As we try to get things rolling, we're offering special launch pricing for a **l
 
 This isn’t just a business—it’s a family project. We'll be using this as a chance to teach our family helpers real-world skills like customer service, work ethic, business basics, and economy.
 
-By [booking an appointment](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") or [purchasing an E-Gift Card](https://venmo.com/realsparkleco?txn=pay), you’re not only supporting a new **local** and **family owned** service—you’re helping us build something meaningful, together.
-
 If you supported us in this, **thanks for being part of the beginning!**
 
 <br>
@@ -63,8 +61,8 @@ We’re aiming to raise $2,500 by April 30, 2025, and we’re already off to a g
 
 If you're interested, here’s how you can help:  
 
-💰 Buy an E-Gift Card: https://venmo.com/realsparkleco?txn=pay
 🌍 Learn more: https://neoncrypto.github.io/sparkleco/  
+💰 Buy an E-Gift Card: https://venmo.com/realsparkleco?txn=pay
 
 Even just sharing this with someone would mean a lot. Thanks for the support! 💙  
 
@@ -81,30 +79,14 @@ Full website coming soon!
 
 <h2 id="more-than-just-a-business" style="font-size: 1.5em;">✨ More Than Just a Business </h2>
 
-<img src="https://mycodelesswebsite.com/wp-content/uploads/2022/11/Startup-Meme-Stupid-Idea-Friends.jpg" alt="Startup Idea Meme" style="width:100%;max-width:600px;">
+<img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-viral-limpiar-faros-coche-dejarlos-relucientes-comprar-productos-quimicos-2524683.jpg?tf=1200x" alt="Auto Detailing" style="width:100%;max-width:600px;">
 
 
-**Sparkle Co.** is a family-run automotive detailing startup set to fully launch in **April 2025**. But this isn’t just about building a business—it’s about teaching our helpers the value of **hard work, customer service, business management, and the economy**.  
+**✨Sparkle Co.✨** is a family-run automotive detailing startup set to fully launch in **April 2025**. But this isn’t just about building a business—it’s about teaching our helpers the value of **hard work, customer service, business management, and the economy**.  
 
 These are real-world skills that will last a lifetime, and we’re excited to grow together as a family and a team.  
 
 Thank you for being part of our journey! 🚀  
-
----
-
-<br>
-<br>
-
-
-
-
-<h2 id="client-reviews" style="font-size: 1.5em;">⭐ Client Reviews</h2>
-
-Leave your review [here!](https://form.jotform.com/250898871937175)
-
-⭐⭐⭐⭐⭐ - Justin, (Nashua, NH) <br> "Amazing service! My car looks brand new. Highly recommended!" <br><br>
-⭐⭐⭐⭐⭐ - Ashley, (Manchester, NH) <br> "Best detailing services around. They care about their clients." <br><br>
-⭐⭐⭐⭐⭐ - Mike, (Amherst, NH) <br> "Incredible attention to detail. Will use this service again next time!" <br>
 
 ---
 
@@ -121,6 +103,22 @@ Recent before and after photos for **April, 2025**.
 <img src="https://shorescarcare.com/Files/Images/auto-detailing/img11.jpg" alt="Before and after detailing" style="width:100%;max-width:600px;">
 
 <small>\*Example images. Actual photos coming soon!</small>
+
+---
+
+<br>
+<br>
+
+
+
+
+<h2 id="client-reviews" style="font-size: 1.5em;">⭐ Client Reviews</h2>
+
+Leave your review [here!](https://form.jotform.com/250898871937175)
+
+⭐⭐⭐⭐⭐ - Justin, (Nashua, NH) <br> "Amazing service! My car looks brand new. Highly recommended!" <br><br>
+⭐⭐⭐⭐⭐ - Ashley, (Manchester, NH) <br> "Best detailing services around. They care about their clients." <br><br>
+⭐⭐⭐⭐⭐ - Mike, (Amherst, NH) <br> "Incredible attention to detail. Will use this service again next time!" <br>
 
 ---
 
@@ -239,13 +237,15 @@ If weather becomes an issue, clients get unlimited re-schedules to open date/tim
 
 Can't commit to an appointment right now but want to support **✨Sparkle Co.✨**'s success? 
 
-Purchase an **E-Gift Card** and book your appointment later at your own convenience! 
+Purchase an **E-Gift Card** and book your appointment later at your own convenience!  
 
-Use our <a href="#pricing" title="Sparkle Co. Pricing">pricing chart</a> to choose price out your package then <a href="https://venmo.com/realsparkleco?txn=pay" title="">pay with Venmo</a> or $BTC.
+How to purchase:  
+1. <a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a>.  
+2. <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Pay with Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a>  
 
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
 
-<a href="https://venmo.com/realsparkleco?txn=pay" title="">Purchase</a> an **E-Gift Card** or <a href="#contact" title="Contact us">contact us</a> today!
+<a href="#contact" title="Contact Sparkle Co.">Contact us</a> with any questions.
 
 ---
 
@@ -439,23 +439,12 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
 
 
 
-## ⚠️ Disclaimer
-
-**Sparkle Co.** is a startup business idea currently in its early stages. We are not yet operating as a formally registered business entity. This landing page is intended solely for friends and family to share our concept, show early progress, and seek support as we work toward officially launching in **April 2025**.  
-
-Any purchases, donations, or contributions made at this stage are considered personal support to help us bring this idea to life.  
-
-Thank you for being part of our early journey.  
-
----
-
-<br>
-<br>
-
-
-
-
 <div style="width:100%;text-align:center;">
+  <small>
+    ⚠️ Disclaimer: Sparkle Co. is a startup business idea currently in its early stages. We are not yet operating as a formally registered business entity. This landing page is intended solely for friends and family to share our concept, show early progress, and seek support as we work toward officially launching in <strong>April 2025</strong>. Any purchases made at this stage are considered personal support to help us bring this idea to life. Thank you for being part of our early journey.
+  </small>
+  <br>
+  <br>
   <small>
     Landing page created with 💚 | 
     <a href="mailto:b.elliott0123+getyourown@gmail.com?subject=I%20Need%20A%20Website!" title="Email to request website project service">
