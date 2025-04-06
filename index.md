@@ -33,13 +33,14 @@ If you supported us in this, **thanks for being part of the beginning!**
 
 We’re working hard to turn **Sparkle Co.** into a full-fledged business, and we’re asking for a little help from our friends and family to make it happen.  
 
-As of **April 6rd, 2025** we have raised or have had committed to us **18%** of our goal.  
-<span style="font-size: 1.4em;">**$450** / **$2,500** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **18%**</span>   
-**Deadline:** *April 30, 2025* | **Last updated:** *April 6, 2025*  
+As of **April 6rd, 2025** we have raised and/or had committed to us the following:  
 
-Our **next milestone is $500**, and every bit of support—whether it’s booking a service, grabbing a gift card, or spreading the word—helps us get there.  
+<span style="font-size: 1.3em;">**$450** / **$2,500** (**18%**)</span>  
+<span>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</span>  
+<span style="font-size: 1.1em;">Deadline: <strong>April 30, 2025</strong></span>  
+<span style="font-size: 1.1em;">Updated: <strong>April 06, 2025</strong></span>  
 
-<br>
+Our **next milestone** is **$500**, and every bit of support—whether it's **booking a service**, **grabbing a gift card**, or **spreading the word**—**helps us get there!**  
 
 <h3 id="how-you-can-help" style="font-size: 1.2em;">📢 How You Can Help</h3>
 
@@ -48,8 +49,6 @@ If you'd like to support our journey, here are a few simple ways to make a big i
 1. **Purchase an E-Gift Card** (never expires) or contribute directly via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing)  
 2. **Share** this landing page [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
 3. **Follow our progress** and stay updated here: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
-
-<br>
 
 <h3 id="template-for-easy-sharing" style="font-size: 1.2em;">📰 Template for Easy Sharing</h3> 
 
