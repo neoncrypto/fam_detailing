@@ -46,9 +46,9 @@ Our **next milestone** is **$500**, and every bit of support—whether it's **bo
 
 If you'd like to support our journey, here are a few simple ways to make a big impact:  
 
-1. **Purchase an E-Gift Card** (never expires) or contribute directly via [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing)  
-2. **Share** this landing page [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
-3. **Follow our progress** and stay updated here: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
+1. **Book an Appointment**: [Contact Form](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link")  
+2. **Purchase an E-Gift Card** (never expires): [Venmo](https://venmo.com/realsparkleco?txn=pay&note=For%20Sparkle%20Co%20Auto%20Detailing)  
+3. **Share** and **follow**: [https://neoncrypto.github.io/sparkleco/](https://neoncrypto.github.io/sparkleco/)  
 
 <h3 id="template-for-easy-sharing" style="font-size: 1.2em;">📰 Template for Easy Sharing</h3> 
 
@@ -69,6 +69,8 @@ If you're interested, here’s how you can help:
 Even just sharing this with someone would mean a lot. Thanks for the support! 💙  
 
 ```
+
+Full website coming soon!
 
 ---
 
@@ -215,14 +217,14 @@ If weather becomes an issue, clients get unlimited re-schedules to open date/tim
 
 
 
-<h2 id="contact-us" style="font-size: 1.5em;">📞 Contact Us</h2>
+<h2 id="contact" style="font-size: 1.5em;">📞 Contact Us</h2>
 
 📆 **Message**, **call**, **text** or **email** to **schedule an appointment**, **buy an E-Gift Card** or to **ask us a question** today!
 
 |  | Contact Info |
 |----------------|--------------|
-| 📢 **Message**     | [Contact Us Form](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link") |
-| 📧 **Email**       | [sparklecoautodetailing@gmail.com](mailto:sparklecoautodetailing@gmail.com?subject=Auto%20Detailing%20Appointment "Auto Detailing Appointment Email") |
+| 📢 **Message**     | [Contact Form](https://form.jotform.com/250907652442154 "Sparkle Co. Contact Form Link")  
+| 📧 **Email**       | [sparklecoautodetailing@gmail.com](mailto:sparklecoautodetailing@gmail.com?subject=Auto%20Detailing%20Appointment "Auto Detailing Appointment Email") 
 
 
 ---
@@ -243,7 +245,7 @@ Use our <a href="#pricing" title="Sparkle Co. Pricing">pricing chart</a> to choo
 
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
 
-<a href="https://venmo.com/realsparkleco?txn=pay" title="">Purchase</a> an **E-Gift Card** or <a href="#contact-us" title="Contact us">contact us</a> today!
+<a href="https://venmo.com/realsparkleco?txn=pay" title="">Purchase</a> an **E-Gift Card** or <a href="#contact" title="Contact us">contact us</a> today!
 
 ---
 
@@ -421,7 +423,7 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
 </details>
 <details>
   <summary><strong>Where is Sparkle Co. located?</strong></summary>
-  Until after we officially launch, Sparkle Co. will only service New England by traveling to customer's locations. As soon as Sparkle Co. is up and running we will offer a private and safe shop location for clients convenience. For specific details or service areas, please <a href="#contact-us" title="contact us">contact us</a> directly.
+  Until after we officially launch, Sparkle Co. will only service New England by traveling to customer's locations. As soon as Sparkle Co. is up and running we will offer a private and safe shop location for clients convenience. For specific details or service areas, please <a href="#contact" title="contact us">contact us</a> directly.
   <br>
 </details>
 <details>
