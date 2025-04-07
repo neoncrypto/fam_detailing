@@ -31,7 +31,7 @@ If you supported us in this, **thanks for being part of the beginning!**
 
 We’re working hard to turn **Sparkle Co.** into a full-fledged business, and we’re asking for a little help from our friends and family to make it happen.  
 
-As of **April 6rd, 2025** we have raised and/or had committed to us the following:  
+As of **April 6th, 2025** we have raised and/or had committed to us the following:  
 
 <span style="font-size: 1.3em;">**$450** / **$2,500** (**18%**)</span>  
 <span>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</span>  
