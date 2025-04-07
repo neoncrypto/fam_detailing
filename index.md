@@ -262,15 +262,15 @@ Example **E-Gift Card:**
         </tr>
         <!-- Title -->
         <tr>
-          <td align="center" style="padding:10px 20px 20px;color:#4A90E2;font-size:24px;font-weight:bold;">
+          <td align="center" style="padding:20px;color:#4A90E2;font-size:24px;font-weight:bold;">
             You've received a ✨Sparkle Co.✨ E-Gift Card!
           </td>
         </tr>
         <!-- Content Section -->
         <tr>
-          <td style="padding:0 30px 20px;color:#2C3E50;font-size:16px;line-height:1.5;">
-            <p><strong>To:</strong> Jane Doe</p>
-            <p><strong>Amount:</strong> <span style="color:limegreen;">$200.00</span></p>
+          <td style="padding:20px;color:#2C3E50;font-size:16px;line-height:1.5;">
+            <p><strong>To:</strong> <span style="font-size:20px;">Jane Doe</span></p>
+            <p><strong>Amount:</strong> <span style="font-size:20px;color:limegreen;">$200.00</span></p>
             <p><strong>Message:</strong> <em>Get ready to ✨Sparkle✨!</em></p>
           </td>
         </tr>
