@@ -506,7 +506,7 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
   <br>
   <small>© 2025 ✨Sparkle Co.✨</small>
   <br>
-  <small>last updated: 2025-04-07</small>
+  <small>last updated: April 7th, 2025</small>
 </div>
 
 <br>
