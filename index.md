@@ -192,17 +192,18 @@ If weather becomes an issue, clients get unlimited re-schedules to open date/tim
   </thead>
   <tbody>
     <tr>
-      <td><strong>Sun, April 6th, 2025</strong></td>
-      <td><s>3</s><span style="color:limegreen;"> 2</span></td>
-    </tr>
-    <tr>
-      <td><strong>Mon, April 7th 2025</strong></td>
-      <td><span style="color:limegreen;">3</span></td>
-    </tr>
-    <tr>
       <td><strong>Tue, April 8th, 2025</strong></td>
       <td><span style="color:limegreen;">3</span></td>
     </tr>
+    <tr>
+      <td><strong>Wed, April 9th, 2025</strong></td>
+      <td><span style="color:limegreen;">3</span></td>
+    </tr>
+    <tr>
+      <td><strong>Thurs, April 10th 2025</strong></td>
+      <td><span style="color:limegreen;">3</span></td>
+    </tr>
+    
   </tbody>
 </table>
 
