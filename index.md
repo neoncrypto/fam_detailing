@@ -240,13 +240,12 @@ Can't commit to an appointment right now but want to support **✨Sparkle Co.✨
 Purchase an **E-Gift Card** and book your appointment later at your own convenience!  
 
 How to purchase:  
-1. <a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a>  
-2. Pay the amount with  <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a>  
-3. Recieve the **E-Gift Card** via email\*
+**1.** <a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a> and take note of the price.  
+**2.** Pay the price amount with  <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a> and make sure to include your email in the memo section of the transaction or email us after purchasing so we have your email.  
+**3.** Receive your <strong>E-Gift Card</strong> via email.  
+**4.** ✨Sparkle✨  
 
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
-
-<small>\*include your email in the memo/note section of the Venmo or BTC payments or email us directly after paying.</small>
 
 Example **E-Gift Card:**
 
@@ -428,13 +427,10 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
     </tbody>
   </table>
 </details>
-
 <details>
   <summary><strong>What did ✨Sparkle Co.✨ base it's pricing on?</strong></summary>
   We did initial <a href="https://neoncrypto.github.io/sparkleco/market_inquiry" title="Sparkle Co. Market Inquiry">market research</a> of four local to NH companies to come up with what we thought was fair and reasonable pricing.
 </details>
-
-
 <details>
   <summary><strong>How can I schedule a detailing appointment?</strong></summary>
   📆 <strong>Message us</strong>, <strong>call</strong>, <strong>text</strong> or <strong>email</strong> to <strong>schedule an appointment</strong>, <strong>buy an E-Gift Card</strong> or to <strong>ask us a question</strong> today!
@@ -450,6 +446,15 @@ We currently accept **Cash**, **Venmo** or **Cryptocurrency** as payment for ser
       </tr>
     </tbody>
   </table>
+</details>
+<details>
+  <summary><strong>How can I purchase an E-Gift Card?</strong></summary>
+  <ol>
+    <li><a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a> and take note of the price.</li>
+    <li>Pay the price amount with  <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a> and make sure to include your email in the memo section of the transaction or email us after purchasing so we have your email.</li>
+    <li>Receive your <strong>E-Gift Card</strong> via email.</li>
+    <li>✨Sparkle✨</li>
+  </ol>
 </details>
 <details>
   <summary><strong>What payment methods do you accept?</strong></summary>
