@@ -263,7 +263,7 @@ Example **E-Gift Card:**
         <!-- Title -->
         <tr>
           <td align="center" style="padding:20px;color:#4A90E2;font-size:24px;font-weight:bold;">
-            You've received a ✨Sparkle Co.✨ E-Gift Card!
+            You've received an E-Gift Card!
           </td>
         </tr>
         <!-- Content Section -->
