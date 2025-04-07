@@ -240,10 +240,13 @@ Can't commit to an appointment right now but want to support **✨Sparkle Co.✨
 Purchase an **E-Gift Card** and book your appointment later at your own convenience!  
 
 How to purchase:  
-1. <a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a>.  
-2. <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Pay with Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a>  
+1. <a href="#pricing" title="Sparkle Co. Pricing">Choose your package</a>  
+2. Pay the amount with  <a href="https://venmo.com/realsparkleco?txn=pay" title="Pay Sparkle Co. Using Venmo">Venmo</a> or <a href="bitcoin:bc1qxe4slhf48ke3x3ek8hde8nlm4zqny4dqjdvhy6?amount=0.01&label=Car%20Wash%20Service&message=Thanks%20for%20the%20support!" title="Pay Sparkle Co. Using $BTC">$BTC</a>  
+3. Recieve the **E-Gift Card** via email\*
 
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
+
+<small>\*include your email in the memo/note section of the Venmo or BTC payments or email us directly after paying.</small>
 
 Example **E-Gift Card:**
 
