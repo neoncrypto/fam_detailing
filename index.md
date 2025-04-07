@@ -245,6 +245,49 @@ How to purchase:
 
 **E-Gift Cards** lock in the <a href="#family-friends-service-pricing" title="Family and Friends Service Pricing Link">family & friends service promotional pricing</a> and **never expire**! 
 
+Example **E-Gift Card:**
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <table cellpadding="0" cellspacing="0" border="0" style="margin:20px auto;background-color:#ffffff;border-radius:8px;overflow:hidden;">
+        <!-- Header / Logo -->
+        <tr>
+          <td align="center" style="padding:30px 20px 10px;">
+            <img src="https://i.ibb.co/27r0d2Vz/sparkle-co-logo-2.jpg" alt="Sparkle Co Logo" width="150" style="display:block;">
+          </td>
+        </tr>
+        <!-- Title -->
+        <tr>
+          <td align="center" style="padding:10px 20px 20px;color:#4A90E2;font-size:24px;font-weight:bold;">
+            You've received a ✨Sparkle Co.✨ E-Gift Card!
+          </td>
+        </tr>
+        <!-- Content Section -->
+        <tr>
+          <td style="padding:0 30px 20px;color:#2C3E50;font-size:16px;line-height:1.5;">
+            <p><strong>To:</strong> Jane Doe</p>
+            <p><strong>Amount:</strong> <span style="color:limegreen;">$200.00</span></p>
+            <p><strong>Message:</strong> <em>Get ready to ✨Sparkle✨!</em></p>
+          </td>
+        </tr>
+        <!-- Gift Code -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#4A90E2;color:#ffffff;font-size:20px;font-weight:bold;letter-spacing:1px;">
+            F0BE08D85
+          </td>
+        </tr>
+        <!-- Footer -->
+        <tr>
+          <td align="center" style="padding:20px 30px 30px;font-size:13px;color:#888888;">
+            <strong>NEVER EXPIRES</strong> | <a href="https://neoncrypto.github.io/sparkleco/" style="color:#4A90E2;text-decoration:none;" title="Sparkle Co. Landing Page">✨Sparkle Co.✨</a> | <a href="mailto:sparklecoautodetailing@gmail.com" style="color:#4A90E2;text-decoration:none;">sparklecoautodetailing@gmail.com</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 <a href="#contact" title="Contact Sparkle Co.">Contact us</a> with any questions.
 
 ---
